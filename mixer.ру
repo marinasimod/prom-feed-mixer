@@ -12,14 +12,13 @@ HEADERS = {
 }
 
 def load_xml(url, name):
-    print(f"--- ЗАВАНТАЖЕННЯ ФІДА {name} ---", flush=True)
+    print(f"--- START DOWNLOAD {name} ---", flush=True)
     res = requests.get(url, headers=HEADERS, timeout=60)
     res.raise_for_status()
-    print(f"--- ПАРСИНГ ФІДА {name} ---", flush=True)
+    print(f"--- START PARSING {name} ---", flush=True)
     return ET.fromstring(res.content)
 
 try:
-    # Створюємо чистий каркас XML
     root_out = ET.Element("yml_catalog", date=datetime.now().strftime("%Y-%m-%d %H:%M"))
     shop_out = ET.SubElement(root_out, "shop")
     categories_out = ET.SubElement(shop_out, "categories")
@@ -63,11 +62,11 @@ try:
         if v_code is not None and v_code.text: v_code.text = f"PKK_{v_code.text}"
         offers_out.append(offer)
 
-    print("--- ЗБЕРЕЖЕННЯ ФІНАЛЬНОГО ФАЙЛУ ---", flush=True)
+    print("--- SAVING FILE ---", flush=True)
     tree = ET.ElementTree(root_out)
     tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
-    print("--- ГОТОВО! РОБОТУ ЗАВЕРШЕНО ---", flush=True)
+    print("--- SUCCESS COMPLETE ---", flush=True)
 
 except Exception as e:
-    print(f"ПОМИЛКА: {e}", flush=True)
+    print(f"ERROR: {e}", flush=True)
     exit(1)
