@@ -1,59 +1,72 @@
 import requests
 import xml.etree.ElementTree as ET
-import re
 from datetime import datetime
+import time
 
 FEED_URL_1 = "https://dsnkeyms.hook-dsn.pp.ua/feed/full-stock/catalog?token=c4b11a00d00657fffe4371ef43c3ea5f5d531cbd0903e8c1&offer_id=legacy"
 FEED_URL_2 = "https://pkkopt.com.ua/content/export/e60e78a6b01d00d09fe25c1b666cc415.xml?1777544130"
 OUTPUT_FILE = "prom_full_auto_feed.xml"
 
-def process_feed_to_memory(url, prefix):
-    print(f"Çàâàíòàæåííÿ ô³äà {prefix}...")
-    response = requests.get(url, timeout=60)
-    response.raise_for_status()
-    content = response.text
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+}
 
-    print(f"Äîäàâàííÿ ïðåô³êñ³â äëÿ {prefix}...")
-    content = re.sub(r'<offer id="', f'<offer id="{prefix}', content)
-    content = re.sub(r'<categoryId>', f'<categoryId>{prefix}', content)
-    content = re.sub(r'<category id="', f'<category id="{prefix}', content)
-    content = re.sub(r'parentId="', f'parentId="{prefix}', content)
-    content = re.sub(r'<vendorCode>', f'<vendorCode>{prefix}', content)
-    
-    return content
+def load_xml(url, name):
+    print(f"--- START DOWNLOAD {name} ---", flush=True)
+    res = requests.get(url, headers=HEADERS, timeout=60)
+    res.raise_for_status()
+    print(f"--- START PARSING {name} ---", flush=True)
+    return ET.fromstring(res.content)
 
 try:
-    feed1_text = process_feed_to_memory(FEED_URL_1, "DSN_")
-    feed2_text = process_feed_to_memory(FEED_URL_2, "PKK_")
-    
-    print("Âèòÿãóâàííÿ êàòåãîð³é òà òîâàð³â...")
-    cats1 = re.findall(r'<category[\s\S]*?<\/category>', feed1_text)
-    cats2 = re.findall(r'<category[\s\S]*?<\/category>', feed2_text)
-    
-    offers1 = re.findall(r'<offer[\s\S]*?<\/offer>', feed1_text)
-    offers2 = re.findall(r'<offer[\s\S]*?<\/offer>', feed2_text)
-    
-    all_categories = "".join(cats1) + "".join(cats2)
-    all_offers = "".join(offers1) + "".join(offers2)
-    
-    print("Ôîðìóâàííÿ ô³íàëüíîãî XML ôàéëó...")
-    current_time = datetime.now().strftime("%Y-%m-%d %H:%M")
-    
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write('<?xml version="1.0" encoding="utf-8"?>\n')
-        f.write(f'<yml_catalog date="{current_time}">\n')
-        f.write('<shop>\n')
-        f.write('<categories>\n')
-        f.write(all_categories)
-        f.write('</categories>\n')
-        f.write('<offers>\n')
-        f.write(all_offers)
-        f.write('</offers>\n')
-        f.write('</shop>\n')
-        f.write('</yml_catalog>\n')
-        
-    print(f"ÓÑÏ²Õ! Ôàéë {OUTPUT_FILE} óñïåøíî ñòâîðåíî.")
+    root_out = ET.Element("yml_catalog", date=datetime.now().strftime("%Y-%m-%d %H:%M"))
+    shop_out = ET.SubElement(root_out, "shop")
+    categories_out = ET.SubElement(shop_out, "categories")
+    offers_out = ET.SubElement(shop_out, "offers")
+
+    # Обробка DSN
+    root1 = load_xml(FEED_URL_1, "DSN")
+    for cat in root1.findall(".//category"):
+        c_id = cat.get("id")
+        p_id = cat.get("parentId")
+        if c_id: cat.set("id", f"DSN_{c_id}")
+        if p_id: cat.set("parentId", f"DSN_{p_id}")
+        categories_out.append(cat)
+
+    for offer in root1.findall(".//offer"):
+        o_id = offer.get("id")
+        if o_id: offer.set("id", f"DSN_{o_id}")
+        c_id = offer.find("categoryId")
+        if c_id is not None and c_id.text: c_id.text = f"DSN_{c_id.text}"
+        v_code = offer.find("vendorCode")
+        if v_code is not None and v_code.text: v_code.text = f"DSN_{v_code.text}"
+        offers_out.append(offer)
+
+    time.sleep(2)
+
+    # Обробка PKK
+    root2 = load_xml(FEED_URL_2, "PKK")
+    for cat in root2.findall(".//category"):
+        c_id = cat.get("id")
+        p_id = cat.get("parentId")
+        if c_id: cat.set("id", f"PKK_{c_id}")
+        if p_id: cat.set("parentId", f"PKK_{p_id}")
+        categories_out.append(cat)
+
+    for offer in root2.findall(".//offer"):
+        o_id = offer.get("id")
+        if o_id: offer.set("id", f"PKK_{o_id}")
+        c_id = offer.find("categoryId")
+        if c_id is not None and c_id.text: c_id.text = f"PKK_{c_id.text}"
+        v_code = offer.find("vendorCode")
+        if v_code is not None and v_code.text: v_code.text = f"PKK_{v_code.text}"
+        offers_out.append(offer)
+
+    print("--- SAVING FILE ---", flush=True)
+    tree = ET.ElementTree(root_out)
+    tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
+    print("--- SUCCESS COMPLETE ---", flush=True)
 
 except Exception as e:
-    print(f"Êðèòè÷íà ïîìèëêà ï³ä ÷àñ âèêîíàííÿ ñêðèïòà: {e}")
+    print(f"ERROR: {e}", flush=True)
     exit(1)
