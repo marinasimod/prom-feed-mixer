@@ -8,12 +8,12 @@ FEED_URL_2 = "https://pkkopt.com.ua/content/export/e60e78a6b01d00d09fe25c1b666cc
 OUTPUT_FILE = "prom_full_auto_feed.xml"
 
 def process_feed_to_memory(url, prefix):
-    print(f"Завантаження фіда {prefix}...")
+    print(f"Г‡Г ГўГ Г­ГІГ Г¦ГҐГ­Г­Гї ГґВіГ¤Г  {prefix}...")
     response = requests.get(url, timeout=60)
     response.raise_for_status()
     content = response.text
 
-    print(f"Додавання префіксів для {prefix}...")
+    print(f"Г„Г®Г¤Г ГўГ Г­Г­Гї ГЇГ°ГҐГґВіГЄГ±ВіГў Г¤Г«Гї {prefix}...")
     content = re.sub(r'<offer id="', f'<offer id="{prefix}', content)
     content = re.sub(r'<categoryId>', f'<categoryId>{prefix}', content)
     content = re.sub(r'<category id="', f'<category id="{prefix}', content)
@@ -26,7 +26,7 @@ try:
     feed1_text = process_feed_to_memory(FEED_URL_1, "DSN_")
     feed2_text = process_feed_to_memory(FEED_URL_2, "PKK_")
     
-    print("Витягування категорій та товарів...")
+    print("Г‚ГЁГІГїГЈГіГўГ Г­Г­Гї ГЄГ ГІГҐГЈГ®Г°ВіГ© ГІГ  ГІГ®ГўГ Г°ВіГў...")
     cats1 = re.findall(r'<category[\s\S]*?<\/category>', feed1_text)
     cats2 = re.findall(r'<category[\s\S]*?<\/category>', feed2_text)
     
@@ -36,7 +36,7 @@ try:
     all_categories = "".join(cats1) + "".join(cats2)
     all_offers = "".join(offers1) + "".join(offers2)
     
-    print("Формування фінального XML файлу...")
+    print("Г”Г®Г°Г¬ГіГўГ Г­Г­Гї ГґВіГ­Г Г«ГјГ­Г®ГЈГ® XML ГґГ Г©Г«Гі...")
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M")
     
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
@@ -52,8 +52,8 @@ try:
         f.write('</shop>\n')
         f.write('</yml_catalog>\n')
         
-    print(f"УСПІХ! Файл {OUTPUT_FILE} успешно створено.")
+    print(f"Г“Г‘ГЏВІГ•! Г”Г Г©Г« {OUTPUT_FILE} ГіГ±ГЇГҐГёГ­Г® Г±ГІГўГ®Г°ГҐГ­Г®.")
 
 except Exception as e:
-    print(f"Критична помилка під час виконання скрипта: {e}")
+    print(f"ГЉГ°ГЁГІГЁГ·Г­Г  ГЇГ®Г¬ГЁГ«ГЄГ  ГЇВіГ¤ Г·Г Г± ГўГЁГЄГ®Г­Г Г­Г­Гї Г±ГЄГ°ГЁГЇГІГ : {e}")
     exit(1)
