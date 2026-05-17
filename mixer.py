@@ -53,7 +53,7 @@ try:
         if p_id: cat.set("parentId", f"PKK_{p_id}")
         categories_out.append(cat)
 
-    for offer in root2.findall("--/offer"):
+    for offer in root2.findall(".//offer"): # Описку виправлено тут!
         is_available = offer.get("available", "true")
         
         o_id = offer.get("id")
