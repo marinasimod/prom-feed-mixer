@@ -53,6 +53,7 @@ try:
         if p_id: cat.set("parentId", f"PKK_{p_id}")
         categories_out.append(cat)
 
+    # Збираємо дані головних товарів для відновлення різновидів
     group_data = {}
     all_pkk_offers = root2.findall(".//offer")
 
@@ -76,6 +77,7 @@ try:
         g_id = offer.get("group_id")
         if g_id:
             offer.set("group_id", f"77{g_id}")
+            # Лікуємо порожні відтінки блисків
             if offer.find("name") is None or not offer.find("name").text:
                 if group_data.get(g_id) and group_data[g_id]["name"]:
                     ET.SubElement(offer, "name").text = group_data[g_id]["name"]
@@ -92,33 +94,14 @@ try:
         v_code = offer.find("vendorCode")
         if v_code is not None and v_code.text: v_code.text = f"PKK_{v_code.text}"
         
+        # Прибираємо знижки
         price_tag = offer.find("price")
         oldprice_tag = offer.find("oldprice")
         if oldprice_tag is not None and oldprice_tag.text:
             if price_tag is not None: price_tag.text = oldprice_tag.text
             offer.remove(oldprice_tag)
 
-        # Читаємо оригінальну кількість
-        quantity_tag = offer.find("quantity")
-        qty = 0
-        if quantity_tag is not None and quantity_tag.text:
-            try: qty = int(quantity_tag.text)
-            except: qty = 0
-
-        # --- ХИТРИЙ КОНТРОЛЬ ЗАЛИШКІВ ---
-        if offer.get("available") == "false" or qty == 0:
-            offer.set("available", "false")
-            # Ставимо 999 штук, щоб обдурити тумблер Прому "менше 2"
-            if quantity_tag is not None:
-                quantity_tag.text = "999"
-            else:
-                ET.SubElement(offer, "quantity").text = "999"
-        else:
-            offer.set("available", "true")
-            # Для нормальних товарів (блисків) залишаємо реальну кількість (наприклад, 25 шт.)
-            if quantity_tag is not None:
-                quantity_tag.text = str(qty)
-
+        # ПЕРЕДАЄМО ДАНІ ПОСТАЧАЛЬНИКА ЯК Є (Без втручання в цифри)
         offers_out.append(offer)
 
     print("--- SAVING FILE ---", flush=True)
