@@ -53,7 +53,7 @@ try:
         if p_id: cat.set("parentId", f"PKK_{p_id}")
         categories_out.append(cat)
 
-    # Спочатку збережемо дані головних товарів груп, щоб наповнити "голі" різновиди
+    # Збираємо дані з головних товарів груп, щоб «вилікувати» порожні відтінки блисків
     group_data = {}
     all_pkk_offers = root2.findall(".//offer")
 
@@ -72,7 +72,6 @@ try:
                 }
 
     for offer in all_pkk_offers:
-        # --- ФІЛЬТР ДЕФІЦИТУ (Захист для туалетної води) ---
         quantity_tag = offer.find("quantity")
         qty = 0
         if quantity_tag is not None and quantity_tag.text:
@@ -80,11 +79,13 @@ try:
                 qty = int(quantity_tag.text)
             except:
                 qty = 0
-        
-        # Якщо товару немає або менше 2 шт — повністю видаляємо його з файлу, щоб обійти баг Прому
-        if offer.get("available") == "false" or qty < 2:
-            continue  # Пропускаємо цей товар, він не потрапить у фід
-        # --------------------------------------------------
+
+        # --- ЗАХИСТ ВІД БАГУ ПРОМУ (Для туалетної води) ---
+        # Якщо у постачальника товар закінчився (наявність false або кількість менше 1)
+        # Ми повністю ВИДАЛЯЄМО його з файлу, щоб заклинене правило Прому не змогло його увімкнути
+        if offer.get("available") == "false" or qty < 1:
+            continue
+        # -------------------------------------------------
 
         o_id = offer.get("id")
         if o_id: offer.set("id", f"PKK_{o_id}")
@@ -92,7 +93,8 @@ try:
         g_id = offer.get("group_id")
         if g_id:
             offer.set("group_id", f"77{g_id}")
-            # Наповнюємо товар даними, якщо їх немає (лікуємо блиски)
+            
+            # Якщо у додаткового відтінку блиску немає імені/опису, копіюємо їх з головного товару групи
             if offer.find("name") is None or not offer.find("name").text:
                 if group_data.get(g_id) and group_data[g_id]["name"]:
                     ET.SubElement(offer, "name").text = group_data[g_id]["name"]
@@ -112,7 +114,7 @@ try:
         v_code = offer.find("vendorCode")
         if v_code is not None and v_code.text: v_code.text = f"PKK_{v_code.text}"
         
-        # Захист від знижок
+        # Видаляємо старі ціни зі знижками
         price_tag = offer.find("price")
         oldprice_tag = offer.find("oldprice")
         if oldprice_tag is not None and oldprice_tag.text:
