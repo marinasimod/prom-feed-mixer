@@ -44,7 +44,7 @@ try:
 
     time.sleep(2)
 
-    # 2. ОБРОБКА PKK (З суто цифровими групами різновидів)
+    # 2. ОБРОБКА PKK (З жорстким контролем наявності)
     root2 = load_xml(FEED_URL_2, "PKK")
     for cat in root2.findall(".//category"):
         c_id = cat.get("id")
@@ -54,12 +54,9 @@ try:
         categories_out.append(cat)
 
     for offer in root2.findall(".//offer"):
-        is_available = offer.get("available", "true")
-        
         o_id = offer.get("id")
         if o_id: offer.set("id", f"PKK_{o_id}")
         
-        # ВИКОРИСТОВУЄМО СУТО ЦИФРОВИЙ ПРЕФІКС 77 ДЛЯ НОМЕРА ГРУПИ
         g_id = offer.get("group_id")
         if g_id:
             offer.set("group_id", f"77{g_id}")
@@ -73,14 +70,29 @@ try:
         # --- ЗАХИСТ ВІД ЗНИЖОК ДЛЯ PKK ---
         price_tag = offer.find("price")
         oldprice_tag = offer.find("oldprice")
-        
         if oldprice_tag is not None and oldprice_tag.text:
             if price_tag is not None:
                 price_tag.text = oldprice_tag.text
             offer.remove(oldprice_tag)
         # ---------------------------------
 
-        offer.set("available", is_available)
+        # --- КУСТАРНИЙ КОНТРОЛЬ НАЯВНОСТІ ДЛЯ PKK ---
+        # Витягуємо кількість з тегу <quantity> або залишаємо статус постачальника
+        quantity_tag = offer.find("quantity")
+        qty = 0
+        if quantity_tag is not None and quantity_tag.text:
+            try:
+                qty = int(quantity_tag.text)
+            except:
+                qty = 0
+        
+        # Якщо постачальник каже "немає" АБО кількість менша за 2 штук — примусово вимикаємо товар
+        if offer.get("available") == "false" or qty < 2:
+            offer.set("available", "false")
+        else:
+            offer.set("available", "true")
+        # --------------------------------------------
+
         offers_out.append(offer)
 
     print("--- SAVING FILE ---", flush=True)
