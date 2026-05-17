@@ -44,7 +44,7 @@ try:
 
     time.sleep(2)
 
-    # 2. ОБРОБКА PKK (З коректним оновленням груп різновидів)
+    # 2. ОБРОБКА PKK (З суто цифровими групами різновидів)
     root2 = load_xml(FEED_URL_2, "PKK")
     for cat in root2.findall(".//category"):
         c_id = cat.get("id")
@@ -59,10 +59,10 @@ try:
         o_id = offer.get("id")
         if o_id: offer.set("id", f"PKK_{o_id}")
         
-        # ДОДАЄМО ПРЕФІКС ДО ГРУПИ РІЗНОВИДІВ, ЩОБ УНИКНУТИ ПОМИЛОК PROM
+        # ВИКОРИСТОВУЄМО СУТО ЦИФРОВИЙ ПРЕФІКС 77 ДЛЯ НОМЕРА ГРУПИ
         g_id = offer.get("group_id")
         if g_id:
-            offer.set("group_id", f"PKK_{g_id}")
+            offer.set("group_id", f"77{g_id}")
         
         c_id = offer.find("categoryId")
         if c_id is not None and c_id.text: c_id.text = f"PKK_{c_id.text}"
