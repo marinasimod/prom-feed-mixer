@@ -53,7 +53,7 @@ try:
         if p_id: cat.set("parentId", f"PKK_{p_id}")
         categories_out.append(cat)
 
-    # Збираємо дані з головних товарів груп, щоб «вилікувати» порожні відтінки блисків
+    # Збираємо мета-дані для блисків
     group_data = {}
     all_pkk_offers = root2.findall(".//offer")
 
@@ -72,21 +72,6 @@ try:
                 }
 
     for offer in all_pkk_offers:
-        quantity_tag = offer.find("quantity")
-        qty = 0
-        if quantity_tag is not None and quantity_tag.text:
-            try:
-                qty = int(quantity_tag.text)
-            except:
-                qty = 0
-
-        # --- ЗАХИСТ ВІД БАГУ ПРОМУ (Для туалетної води) ---
-        # Якщо у постачальника товар закінчився (наявність false або кількість менше 1)
-        # Ми повністю ВИДАЛЯЄМО його з файлу, щоб заклинене правило Прому не змогло його увімкнути
-        if offer.get("available") == "false" or qty < 1:
-            continue
-        # -------------------------------------------------
-
         o_id = offer.get("id")
         if o_id: offer.set("id", f"PKK_{o_id}")
         
@@ -94,7 +79,7 @@ try:
         if g_id:
             offer.set("group_id", f"77{g_id}")
             
-            # Якщо у додаткового відтінку блиску немає імені/опису, копіюємо їх з головного товару групи
+            # Відновлення назв/описів для блисків
             if offer.find("name") is None or not offer.find("name").text:
                 if group_data.get(g_id) and group_data[g_id]["name"]:
                     ET.SubElement(offer, "name").text = group_data[g_id]["name"]
@@ -114,7 +99,7 @@ try:
         v_code = offer.find("vendorCode")
         if v_code is not None and v_code.text: v_code.text = f"PKK_{v_code.text}"
         
-        # Видаляємо старі ціни зі знижками
+        # Видаляємо знижки постачальника
         price_tag = offer.find("price")
         oldprice_tag = offer.find("oldprice")
         if oldprice_tag is not None and oldprice_tag.text:
@@ -122,7 +107,23 @@ try:
                 price_tag.text = oldprice_tag.text
             offer.remove(oldprice_tag)
 
-        offer.set("available", "true")
+        # --- КОРЕКТНА ЛОГІКА НАЯВНОСТІ ---
+        quantity_tag = offer.find("quantity")
+        qty = 0
+        if quantity_tag is not None and quantity_tag.text:
+            try:
+                qty = int(quantity_tag.text)
+            except:
+                qty = 0
+
+        # Якщо у постачальника вказано available="false" АБО кількість на складі 0
+        # жорстко прописуємо false, в інших випадках — true
+        if offer.get("available") == "false" or qty == 0:
+            offer.set("available", "false")
+        else:
+            offer.set("available", "true")
+        # ---------------------------------
+
         offers_out.append(offer)
 
     print("--- SAVING FILE ---", flush=True)
