@@ -44,7 +44,7 @@ try:
 
     time.sleep(2)
 
-    # 2. ОБРОБКА PKK
+    # 2. ОБРОБКА PKK (З роз'єднанням різновидів для уникнення помилок)
     root2 = load_xml(FEED_URL_2, "PKK")
     for cat in root2.findall(".//category"):
         c_id = cat.get("id")
@@ -53,11 +53,15 @@ try:
         if p_id: cat.set("parentId", f"PKK_{p_id}")
         categories_out.append(cat)
 
-    for offer in root2.findall(".//offer"):
+    for offer in root2.findall("--/offer"):
         is_available = offer.get("available", "true")
         
         o_id = offer.get("id")
         if o_id: offer.set("id", f"PKK_{o_id}")
+        
+        # ВИДАЛЯЄМО group_id, ЩОБ ПРИБРАТИ ПОМИЛКУ РІЗНОВИДІВ PROM.UA
+        if "group_id" in offer.attrib:
+            del offer.attrib["group_id"]
         
         c_id = offer.find("categoryId")
         if c_id is not None and c_id.text: c_id.text = f"PKK_{c_id.text}"
