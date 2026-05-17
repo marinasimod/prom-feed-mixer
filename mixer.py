@@ -44,7 +44,7 @@ try:
 
     time.sleep(2)
 
-    # 2. ОБРОБКА PKK (З жорстким контролем наявності)
+    # 2. ОБРОБКА PKK
     root2 = load_xml(FEED_URL_2, "PKK")
     for cat in root2.findall(".//category"):
         c_id = cat.get("id")
@@ -53,31 +53,26 @@ try:
         if p_id: cat.set("parentId", f"PKK_{p_id}")
         categories_out.append(cat)
 
-    for offer in root2.findall(".//offer"):
-        o_id = offer.get("id")
-        if o_id: offer.set("id", f"PKK_{o_id}")
-        
+    # Спочатку збережемо дані головних товарів груп, щоб наповнити "голі" різновиди
+    group_data = {}
+    all_pkk_offers = root2.findall(".//offer")
+
+    for offer in all_pkk_offers:
         g_id = offer.get("group_id")
         if g_id:
-            offer.set("group_id", f"77{g_id}")
-        
-        c_id = offer.find("categoryId")
-        if c_id is not None and c_id.text: c_id.text = f"PKK_{c_id.text}"
-        
-        v_code = offer.find("vendorCode")
-        if v_code is not None and v_code.text: v_code.text = f"PKK_{v_code.text}"
-        
-        # --- ЗАХИСТ ВІД ЗНИЖОК ДЛЯ PKK ---
-        price_tag = offer.find("price")
-        oldprice_tag = offer.find("oldprice")
-        if oldprice_tag is not None and oldprice_tag.text:
-            if price_tag is not None:
-                price_tag.text = oldprice_tag.text
-            offer.remove(oldprice_tag)
-        # ---------------------------------
+            name = offer.find("name")
+            description = offer.find("description")
+            pictures = offer.findall("picture")
+            
+            if g_id not in group_data or (name is not None and description is not None):
+                group_data[g_id] = {
+                    "name": name.text if name is not None else None,
+                    "description": description.text if description is not None else None,
+                    "pictures": [p.text for p in pictures if p.text]
+                }
 
-        # --- КУСТАРНИЙ КОНТРОЛЬ НАЯВНОСТІ ДЛЯ PKK ---
-        # Витягуємо кількість з тегу <quantity> або залишаємо статус постачальника
+    for offer in all_pkk_offers:
+        # --- ФІЛЬТР ДЕФІЦИТУ (Захист для туалетної води) ---
         quantity_tag = offer.find("quantity")
         qty = 0
         if quantity_tag is not None and quantity_tag.text:
@@ -86,13 +81,46 @@ try:
             except:
                 qty = 0
         
-        # Якщо постачальник каже "немає" АБО кількість менша за 2 штук — примусово вимикаємо товар
+        # Якщо товару немає або менше 2 шт — повністю видаляємо його з файлу, щоб обійти баг Прому
         if offer.get("available") == "false" or qty < 2:
-            offer.set("available", "false")
-        else:
-            offer.set("available", "true")
-        # --------------------------------------------
+            continue  # Пропускаємо цей товар, він не потрапить у фід
+        # --------------------------------------------------
 
+        o_id = offer.get("id")
+        if o_id: offer.set("id", f"PKK_{o_id}")
+        
+        g_id = offer.get("group_id")
+        if g_id:
+            offer.set("group_id", f"77{g_id}")
+            # Наповнюємо товар даними, якщо їх немає (лікуємо блиски)
+            if offer.find("name") is None or not offer.find("name").text:
+                if group_data.get(g_id) and group_data[g_id]["name"]:
+                    ET.SubElement(offer, "name").text = group_data[g_id]["name"]
+            
+            if offer.find("description") is None or not offer.find("description").text:
+                if group_data.get(g_id) and group_data[g_id]["description"]:
+                    ET.SubElement(offer, "description").text = group_data[g_id]["description"]
+            
+            if offer.find("picture") is None:
+                if group_data.get(g_id) and group_data[g_id]["pictures"]:
+                    for pic_url in group_data[g_id]["pictures"]:
+                        ET.SubElement(offer, "picture").text = pic_url
+
+        c_id = offer.find("categoryId")
+        if c_id is not None and c_id.text: c_id.text = f"PKK_{c_id.text}"
+        
+        v_code = offer.find("vendorCode")
+        if v_code is not None and v_code.text: v_code.text = f"PKK_{v_code.text}"
+        
+        # Захист від знижок
+        price_tag = offer.find("price")
+        oldprice_tag = offer.find("oldprice")
+        if oldprice_tag is not None and oldprice_tag.text:
+            if price_tag is not None:
+                price_tag.text = oldprice_tag.text
+            offer.remove(oldprice_tag)
+
+        offer.set("available", "true")
         offers_out.append(offer)
 
     print("--- SAVING FILE ---", flush=True)
