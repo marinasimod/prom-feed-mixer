@@ -24,7 +24,7 @@ try:
     categories_out = ET.SubElement(shop_out, "categories")
     offers_out = ET.SubElement(shop_out, "offers")
 
-    # 1. ОБРОБКА DSN (Залишаємо як було)
+    # 1. ОБРОБКА DSN
     root1 = load_xml(FEED_URL_1, "DSN")
     for cat in root1.findall(".//category"):
         c_id = cat.get("id")
@@ -44,7 +44,7 @@ try:
 
     time.sleep(2)
 
-    # 2. ОБРОБКА PKK (З захистом від знижок)
+    # 2. ОБРОБКА PKK
     root2 = load_xml(FEED_URL_2, "PKK")
     for cat in root2.findall(".//category"):
         c_id = cat.get("id")
@@ -54,6 +54,8 @@ try:
         categories_out.append(cat)
 
     for offer in root2.findall(".//offer"):
+        is_available = offer.get("available", "true")
+        
         o_id = offer.get("id")
         if o_id: offer.set("id", f"PKK_{o_id}")
         
@@ -67,15 +69,13 @@ try:
         price_tag = offer.find("price")
         oldprice_tag = offer.find("oldprice")
         
-        # Якщо є стара ціна, значить товар акційний
         if oldprice_tag is not None and oldprice_tag.text:
             if price_tag is not None:
-                # Ставимо стару (повну) ціну замість акційної дешевшої
                 price_tag.text = oldprice_tag.text
-            # Видаляємо тег oldprice, щоб на Промі товар не вважався акційним
             offer.remove(oldprice_tag)
         # ---------------------------------
 
+        offer.set("available", is_available)
         offers_out.append(offer)
 
     print("--- SAVING FILE ---", flush=True)
