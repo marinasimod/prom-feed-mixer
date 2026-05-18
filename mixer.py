@@ -19,7 +19,6 @@ def load_xml(url, name):
     res.raise_for_status()
     return ET.fromstring(res.content)
 
-# Зчитуємо ваш експорт, щоб знайти внутрішні ID Прому для зв'язки
 id_map = {}
 try:
     import zipfile
@@ -57,28 +56,26 @@ try:
                 if r_data:
                     rows.append(r_data)
             
-            id_col, art_col = None, None
+            # Шукаємо колонку з ID Прому (зазвичай колонка А)
+            id_col = None
             if rows:
-                first_row = rows[0]
-                for col, val in first_row.items():
-                    val_lower = val.lower()
-                    if "ідентифікатор" in val_lower or "id" in val_lower:
+                for col, val in rows[0].items():
+                    if "ідентифікатор" in val.lower() or "id" in val.lower():
                         id_col = col
-                    if "код" in val_lower or "артикул" in val_lower:
-                        art_col = col
-                
+                        break
                 if not id_col: id_col = 'A'
-                if not art_col: art_col = 'B'
                 
+                # ТОТАЛЬНИЙ ПОШУК: перевіряємо всі клітинки в рядку
                 for r in rows[1:]:
                     p_id = r.get(id_col)
-                    p_art = r.get(art_col)
-                    if p_id and p_art and p_id.isdigit():
-                        id_map[str(p_art)] = str(p_id)
-                        
-        print(f"--- MATCHED {len(id_map)} REALS ID FROM PROM EXPORT ---", flush=True)
+                    if p_id and p_id.isdigit():
+                        for col_letter, cell_value in r.items():
+                            if col_letter != id_col and cell_value and cell_value.isdigit():
+                                id_map[str(cell_value)] = str(p_id)
+                                
+        print(f"--- TOTAL DEEP MATCHED {len(id_map)} ARTIFACTS FROM EXCEL ---", flush=True)
 except Exception as e:
-    print(f"--- EXCEL MAPPER NOTICE: {e} ---", flush=True)
+    print(f"--- EXCEL DEEP MAPPER NOTICE: {e} ---", flush=True)
 
 try:
     root_out = ET.Element("yml_catalog", date=datetime.now().strftime("%Y-%m-%d %H:%M"))
@@ -86,7 +83,7 @@ try:
     categories_out = ET.SubElement(shop_out, "categories")
     offers_out = ET.SubElement(shop_out, "offers")
 
-    # 1. ОБРОБКА DSN
+    # DSN
     root1 = load_xml(FEED_URL_1, "DSN")
     for cat in root1.findall(".//category"):
         c_id = cat.get("id")
@@ -106,18 +103,17 @@ try:
 
     time.sleep(1)
 
-    # 2. ОБРОБКА PKK (Повертаємо ОРИГІНАЛЬНІ коди постачальника)
+    # PKK (Зустрічний глибокий пошук)
     root2 = load_xml(FEED_URL_2, "PKK")
     for cat in root2.findall(".//category"):
         categories_out.append(cat)
 
-    all_pkk_offers = root2.findall(".//offer")
-    for offer in all_pkk_offers:
+    for offer in root2.findall(".//offer"):
         o_id = offer.get("id")
         
         clean_offer = ET.Element("offer")
         
-        # Передаємо оригінальний ID Прому (паспорт картки), якщо знайшли в Excel
+        # Якщо оригінальний код хоч десь був в Excel — даємо картці її рідний ID Прому
         if o_id in id_map:
             clean_offer.set("id", id_map[o_id])
         else:
