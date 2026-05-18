@@ -114,7 +114,7 @@ try:
         if c_id is not None and c_id.text: c_id.text = f"PKK_{c_id.text}"
         
         v_code = offer.find("vendorCode")
-        if v_code is not None and v_code.text: v_code.text = f"PKK_{v_code.text}"
+       if v_code is not None and v_code.text: v_code.text = f"PKK_V_{v_code.text}"
         
         price_tag = offer.find("price")
         oldprice_tag = offer.find("oldprice")
