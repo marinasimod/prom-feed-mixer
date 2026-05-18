@@ -23,7 +23,7 @@ try:
     categories_out = ET.SubElement(shop_out, "categories")
     offers_out = ET.SubElement(shop_out, "offers")
 
-    # 1. DSN
+    # 1. ОБРОБКА DSN (Захищено префіксами від накладання)
     root1 = load_xml(FEED_URL_1, "DSN")
     for cat in root1.findall(".//category"):
         c_id = cat.get("id")
@@ -43,47 +43,49 @@ try:
 
     time.sleep(1)
 
-    # 2. PKK
+    # 2. ОБРОБКА PKK (Математичний захист без букв)
     root2 = load_xml(FEED_URL_2, "PKK")
     for cat in root2.findall(".//category"):
         c_id = cat.get("id")
         p_id = cat.get("parentId")
-        if c_id: cat.set("id", f"PKK_{c_id}")
-        if p_id: cat.set("parentId", f"PKK_{p_id}")
+        # Зсуваємо ID категорій у зону чистих мільярдів, щоб не накладалися на DSN
+        if c_id and c_id.isdigit(): cat.set("id", str(int(c_id) + 900000000))
+        if p_id and p_id.isdigit(): cat.set("parentId", str(int(p_id) + 900000000))
         categories_out.append(cat)
 
     group_data = {}
     all_pkk_offers = root2.findall(".//offer")
 
-    # Збір даних головного товару групи для відновлення пустих відтінків
+    # Збір бази для пустих різновидів
     for offer in all_pkk_offers:
         g_id = offer.get("group_id")
         if g_id:
             name = offer.find("name")
             description = offer.find("description")
             pictures = offer.findall("picture")
-            params = offer.findall("param")
-            
-            if g_id not in group_data or (name is not None and description is not None and len(params) > 0):
+            if g_id not in group_data or (name is not None and description is not None):
                 group_data[g_id] = {
                     "name": name.text if name is not None else None,
                     "description": description.text if description is not None else None,
-                    "pictures": [p.text for p in pictures if p.text],
-                    "params": [(p.get("name"), p.text) for p in params]
+                    "pictures": [p.text for p in pictures if p.text]
                 }
 
     for offer in all_pkk_offers:
-        o_id = offer.get("id")
-        if o_id: offer.set("id", f"PKK_{o_id}")
-        
+        o_id = offer.get("id")  # Оригінальний ID товару (наприклад, 326622)
         g_id = offer.get("group_id")
+        
+        # ЗАХИСТ: ID товару залишаємо ЧИСТО ЧИСЛОВИМ, щоб Пром його впізнав!
+        # Але додаємо зсув на 900 мільйонів, ТІЛЬКИ якщо ваші картки колись завантажувалися через PKK-коди.
+        # Оскільки на скріншоті видно чистий код PKK, ми просто віддаємо чистий числовий ID.
+        if o_id and o_id.isdigit():
+            offer.set("id", o_id) 
+            
         if g_id and g_id.isdigit():
-            # Передаємо ВИКЛЮЧНО ЧИСЛОВЕ значення групи, щоб Пром не видавав помилку
-            # Додаємо 900000000, щоб ID груп PKK гарантовано не перетиналися з іншими постачальниками
+            # Зсув груп у числу зону, щоб не перетиналися з групами DSN
             numeric_group_id = int(g_id) + 900000000
             offer.set("group_id", str(numeric_group_id))
             
-            # Відновлення текстів та фото для порожніх позицій
+            # Відновлення порожніх карток
             if offer.find("name") is None or not offer.find("name").text:
                 if group_data.get(g_id) and group_data[g_id]["name"]:
                     ET.SubElement(offer, "name").text = group_data[g_id]["name"]
@@ -97,25 +99,32 @@ try:
                     for pic_url in group_data[g_id]["pictures"]:
                         ET.SubElement(offer, "picture").text = pic_url
 
-            # Додаємо унікальну мітку кольору для відтінків, щоб не було дублів характеристик
-            existing_param_names = [p.get("name") for p in offer.findall("param")]
-            if "Цвет" not in existing_param_names and "Колір" not in existing_param_names:
-                added = False
-                if group_data.get(g_id) and group_data[g_id]["params"]:
-                    for p_name, p_val in group_data[g_id]["params"]:
-                        if p_name in ["Цвет", "Колір"]:
-                            ET.SubElement(offer, "param", name=p_name).text = f"{p_val} (Тон {o_id})"
-                            added = True
-                            break
-                if not added:
-                    ET.SubElement(offer, "param", name="Колір").text = f"Тон {o_id}"
+            # Унікальний тон, щоб не було дублів характеристик
+            for p in offer.findall("param"):
+                if p.get("name") in ["Цвет", "Колір"]:
+                    offer.remove(p)
+            ET.SubElement(offer, "param", name="Колір").text = f"№ {o_id}"
 
         c_id = offer.find("categoryId")
-        if c_id is not None and c_id.text: c_id.text = f"PKK_{c_id.text}"
+        if c_id is not None and c_id.text and c_id.text.isdigit():
+            c_id.text = str(int(c_id.text) + 900000000)
         
+        # Артикул віддаємо чистим числом, як у картці Прому
         v_code = offer.find("vendorCode")
-       if v_code is not None and v_code.text: v_code.text = f"PKK_V_{v_code.text}"
+        if v_code is not None and v_code.text:
+            v_code.text = v_code.text.strip()
+
+        # Контроль кількості
+        quantity_tag = offer.find("quantity")
+        is_available = offer.get("available")
         
+        if is_available == "false" or (quantity_tag is not None and quantity_tag.text == "0"):
+            offer.set("available", "false")
+            if quantity_tag is not None: quantity_tag.text = "0"
+            else: ET.SubElement(offer, "quantity").text = "0"
+        elif quantity_tag is None or not quantity_tag.text:
+            ET.SubElement(offer, "quantity").text = "5"
+
         price_tag = offer.find("price")
         oldprice_tag = offer.find("oldprice")
         if oldprice_tag is not None and oldprice_tag.text:
@@ -124,7 +133,7 @@ try:
 
         offers_out.append(offer)
 
-    print("--- SAVING ---", flush=True)
+    print("--- SAVING SAFE SMART FEED ---", flush=True)
     tree = ET.ElementTree(root_out)
     tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
     print("--- SUCCESS ---", flush=True)
