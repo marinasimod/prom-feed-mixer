@@ -19,6 +19,7 @@ def load_xml(url, name):
     res.raise_for_status()
     return ET.fromstring(res.content)
 
+# Зчитуємо ваш експорт, щоб знайти внутрішні ID Прому для зв'язки
 id_map = {}
 try:
     import zipfile
@@ -105,35 +106,29 @@ try:
 
     time.sleep(1)
 
-    # 2. ОБРОБКА PKK (Полегшений варіант для оновлення залишків і цін)
+    # 2. ОБРОБКА PKK (Повертаємо ОРИГІНАЛЬНІ коди постачальника)
     root2 = load_xml(FEED_URL_2, "PKK")
     for cat in root2.findall(".//category"):
-        c_id = cat.get("id")
-        p_id = cat.get("parentId")
-        if c_id and c_id.isdigit(): cat.set("id", str(int(c_id) + 900000000))
-        if p_id and p_id.isdigit(): cat.set("parentId", str(int(p_id) + 900000000))
         categories_out.append(cat)
 
     all_pkk_offers = root2.findall(".//offer")
     for offer in all_pkk_offers:
         o_id = offer.get("id")
-        g_id = offer.get("group_id")
         
         clean_offer = ET.Element("offer")
         
-        # ЗШИВАННЯ: Якщо товар є в Excel, даємо йому рідний ID Прому
+        # Передаємо оригінальний ID Прому (паспорт картки), якщо знайшли в Excel
         if o_id in id_map:
             clean_offer.set("id", id_map[o_id])
         else:
-            if o_id and o_id.isdigit():
-                clean_offer.set("id", o_id)
+            if o_id: clean_offer.set("id", o_id)
 
-        if g_id and g_id.isdigit():
-            clean_offer.set("group_id", str(int(g_id) + 900000000))
+        g_id = offer.get("group_id")
+        if g_id: clean_offer.set("group_id", g_id)
 
         c_id = offer.find("categoryId")
-        if c_id is not None and c_id.text and c_id.text.isdigit():
-            ET.SubElement(clean_offer, "categoryId").text = str(int(c_id.text) + 900000000)
+        if c_id is not None and c_id.text:
+            ET.SubElement(clean_offer, "categoryId").text = c_id.text
             
         v_code = offer.find("vendorCode")
         if v_code is not None and v_code.text:
@@ -163,7 +158,6 @@ try:
             clean_offer.set("available", "true")
             ET.SubElement(clean_offer, "quantity").text = "5"
 
-        ET.SubElement(clean_offer, "param", name="Колір").text = f"№ {o_id}"
         offers_out.append(clean_offer)
 
     print("--- SAVING TOTAL PERFECT FEED ---", flush=True)
@@ -174,4 +168,3 @@ try:
 except Exception as e:
     print(f"ERROR: {e}", flush=True)
     exit(1)
-
