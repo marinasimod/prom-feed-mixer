@@ -1,1 +1,25 @@
+name: Update Prom Feed
 
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install openpyxl requests
+      - name: Run script
+        run: python mixer.py
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add prom_full_auto_feed.xml
+          git commit -m "Auto-update feed via manually triggered workflow" || exit 0
+          git push origin main || git push origin головний
