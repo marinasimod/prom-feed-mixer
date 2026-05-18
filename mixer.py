@@ -55,7 +55,7 @@ try:
     group_data = {}
     all_pkk_offers = root2.findall(".//offer")
 
-    # Збір мета-даних (назва, опис, фото, характеристики) з головного товару групи
+    # Збір даних головного товару групи для відновлення пустих відтінків
     for offer in all_pkk_offers:
         g_id = offer.get("group_id")
         if g_id:
@@ -77,11 +77,13 @@ try:
         if o_id: offer.set("id", f"PKK_{o_id}")
         
         g_id = offer.get("group_id")
-        if g_id:
-            # Повертаємо чистий ID групи без штучних префіксів, щоб Пром не ламав зв'язки
-            offer.set("group_id", f"PKK_G_{g_id}")
+        if g_id and g_id.isdigit():
+            # Передаємо ВИКЛЮЧНО ЧИСЛОВЕ значення групи, щоб Пром не видавав помилку
+            # Додаємо 900000000, щоб ID груп PKK гарантовано не перетиналися з іншими постачальниками
+            numeric_group_id = int(g_id) + 900000000
+            offer.set("group_id", str(numeric_group_id))
             
-            # Відновлення для порожніх відтінків блисків
+            # Відновлення текстів та фото для порожніх позицій
             if offer.find("name") is None or not offer.find("name").text:
                 if group_data.get(g_id) and group_data[g_id]["name"]:
                     ET.SubElement(offer, "name").text = group_data[g_id]["name"]
@@ -95,19 +97,18 @@ try:
                     for pic_url in group_data[g_id]["pictures"]:
                         ET.SubElement(offer, "picture").text = pic_url
 
-            # ГАРАНТОВАНО додаємо унікальні характеристики кольору, щоб Пром не вважав їх дублями
+            # Додаємо унікальну мітку кольору для відтінків, щоб не було дублів характеристик
             existing_param_names = [p.get("name") for p in offer.findall("param")]
             if "Цвет" not in existing_param_names and "Колір" not in existing_param_names:
-                # Якщо у самого відтінку немає параметра, беремо з бази або створюємо з ID
                 added = False
                 if group_data.get(g_id) and group_data[g_id]["params"]:
                     for p_name, p_val in group_data[g_id]["params"]:
                         if p_name in ["Цвет", "Колір"]:
-                            ET.SubElement(offer, "param", name=p_name).text = f"{p_val} ({o_id})"
+                            ET.SubElement(offer, "param", name=p_name).text = f"{p_val} (Тон {o_id})"
                             added = True
                             break
                 if not added:
-                    ET.SubElement(offer, "param", name="Колір").text = f"Відтінок {o_id}"
+                    ET.SubElement(offer, "param", name="Колір").text = f"Тон {o_id}"
 
         c_id = offer.find("categoryId")
         if c_id is not None and c_id.text: c_id.text = f"PKK_{c_id.text}"
