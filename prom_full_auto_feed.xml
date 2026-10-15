@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-14 22:45"><shop><categories><category id="DSN_1175">Розпродаж</category>
+<yml_catalog date="2026-10-15 02:05"><shop><categories><category id="DSN_1175">Розпродаж</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
       <category id="DSN_1331" parentId="DSN_1110">American Health</category>
@@ -6147,10 +6147,10 @@ L-теанин - 30 мг&lt;br /&gt;
         <param name="Вміст цукру" key="xarakteristikaRezerv3" id="1" lang="ua">Без цукру</param>
         <param name="Содержание сахара" key="xarakteristikaRezerv3" id="1" lang="ru">Без цукру</param>
       </offer>
-      <offer id="DSN_5631" available="true">
+      <offer id="DSN_5631" available="false">
         <price>297.20</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Stark Astaxanthin 5mg - 30caps</name>
         <name lang="ru">Stark Astaxanthin 5mg - 30caps</name>
         <vendorCode>DSN_100-20-2288932-20</vendorCode>
@@ -17304,7 +17304,7 @@ Swanson Vitamin C с шиповником &amp;mdash; идеальная пар�
       <offer id="DSN_8019" available="true">
         <price>203.84</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>608</quantity_in_stock>
+        <quantity_in_stock>607</quantity_in_stock>
         <name lang="ua">Melatonin 3 mg - 120 caps</name>
         <name lang="ru">Melatonin 3 mg - 120 caps</name>
         <vendorCode>DSN_100-51-9621563-20</vendorCode>
@@ -48719,7 +48719,7 @@ Puritan&amp;#39;s Pride&amp;reg; Super Strength Melatonin Nighttime Sleep Aid* 1
       <offer id="DSN_14552" available="true">
         <price>1195.16</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>180</quantity_in_stock>
+        <quantity_in_stock>179</quantity_in_stock>
         <name lang="ua">Alpha Men - 240tabs</name>
         <name lang="ru">Alpha Men - 240tabs</name>
         <vendorCode>DSN_2022-09-0895</vendorCode>
@@ -51243,7 +51243,7 @@ MyVitamins Creatine Monohydrate рекомендуется к употребле
       <offer id="DSN_17630" available="true">
         <price>146.51</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2235</quantity_in_stock>
+        <quantity_in_stock>2231</quantity_in_stock>
         <name lang="ua">Zinc Citrate 30 mg - 60caps</name>
         <name lang="ru">Zinc Citrate 30 mg - 60caps</name>
         <vendorCode>DSN_100-74-2160613-20</vendorCode>
@@ -55803,7 +55803,7 @@ NOW&amp;reg; Chewable Vitamin D-3 поставляет этот ключевой
       <offer id="DSN_18328" available="true">
         <price>390.39</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>936</quantity_in_stock>
+        <quantity_in_stock>937</quantity_in_stock>
         <name lang="ua">VIT D-3 5000 IU - 120 sgels</name>
         <name lang="ru">VIT D-3 5000 IU - 120 sgels</name>
         <vendorCode>DSN_2022-09-1189</vendorCode>
@@ -57652,7 +57652,7 @@ Ferrochel&amp;reg; обеспечивает высокую биодоступн�
       <offer id="DSN_18384" available="true">
         <price>297.57</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>78</quantity_in_stock>
+        <quantity_in_stock>79</quantity_in_stock>
         <name lang="ua">Zinc Gluconate 50 mg - 100 tabs</name>
         <name lang="ru">Zinc Gluconate 50 mg - 100 tabs</name>
         <vendorCode>DSN_2022-10-0044</vendorCode>
@@ -58028,10 +58028,10 @@ Ferrochel&amp;reg; обеспечивает высокую биодоступн�
         <param name="Кількість порцій" key="xarakteristikaRezerv4" id="5" lang="ua">50</param>
         <param name="Количество порций" key="xarakteristikaRezerv4" id="5" lang="ru">50</param>
       </offer>
-      <offer id="DSN_18394" available="false">
+      <offer id="DSN_18394" available="true">
         <price>831.74</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name lang="ua">Omega-3 1000mg - 200 sgels</name>
         <name lang="ru">Omega-3 1000mg - 200 sgels</name>
         <vendorCode>DSN_2022-10-0054</vendorCode>
@@ -59994,7 +59994,7 @@ NOW&amp;reg; Menopause Support содержит рекомендуемые мо�
       <offer id="DSN_18455" available="true">
         <price>601.06</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1339</quantity_in_stock>
+        <quantity_in_stock>1338</quantity_in_stock>
         <name lang="ua">Ashwagandha 450 mg - 90 vcaps</name>
         <name lang="ru">Ashwagandha 450 mg - 90 vcaps</name>
         <vendorCode>DSN_2022-10-0114</vendorCode>
@@ -62752,7 +62752,7 @@ Ultra Immune содержит 17 основных витаминов и мине
       <offer id="DSN_18135" available="true">
         <price>55.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1583</quantity_in_stock>
+        <quantity_in_stock>1543</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Chocolate (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g Chocolate (Поштучно)</name>
         <vendorCode>DSN_2022-09-1027</vendorCode>
@@ -78030,7 +78030,7 @@ L-5-MTHF&lt;br /&gt;
       <offer id="DSN_23550" available="true">
         <price>922.74</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1270</quantity_in_stock>
+        <quantity_in_stock>1271</quantity_in_stock>
         <name lang="ua">Magnesium Citrate 400mg - 180 vcaps</name>
         <name lang="ru">Magnesium Citrate 400mg - 180 vcaps</name>
         <vendorCode>DSN_2022-10-1034</vendorCode>
@@ -103061,7 +103061,7 @@ Power-Teen&amp;reg; &amp;ndash; это тщательно выверенная �
       <offer id="DSN_25820" available="true">
         <price>611.98</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>408</quantity_in_stock>
+        <quantity_in_stock>407</quantity_in_stock>
         <name lang="ua">Gentle Iron - 90 vcaps</name>
         <name lang="ru">Gentle Iron - 90 vcaps</name>
         <vendorCode>DSN_2022-10-1529</vendorCode>
@@ -105334,7 +105334,7 @@ Prebiotic Bifido Boost&amp;trade; Powder &amp;ndash; это усовершенс
       <offer id="DSN_26014" available="true">
         <price>1262.63</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>62</quantity_in_stock>
+        <quantity_in_stock>61</quantity_in_stock>
         <name lang="ua">Men's Complete Multivitamin - 130 tabs</name>
         <name lang="ru">Men's Complete Multivitamin - 130 tabs</name>
         <vendorCode>DSN_2022-10-1716</vendorCode>
@@ -105951,7 +105951,7 @@ Prebiotic Bifido Boost&amp;trade; Powder &amp;ndash; это усовершенс
       <offer id="DSN_26054" available="true">
         <price>816.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>72</quantity_in_stock>
+        <quantity_in_stock>71</quantity_in_stock>
         <name lang="ua">FitWin - 12х60g Coconat Cream</name>
         <name lang="ru">FitWin - 12х60g Coconat Cream</name>
         <vendorCode>DSN_2022-10-1735</vendorCode>
@@ -107260,7 +107260,7 @@ Solaray Opti Zinc 30mg - це дієтична добавка, що містит
       <offer id="DSN_26127" available="true">
         <price>589.23</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>554</quantity_in_stock>
+        <quantity_in_stock>553</quantity_in_stock>
         <name lang="ua">Zinc Copper - 100 vcaps</name>
         <name lang="ru">Zinc Copper - 100 vcaps</name>
         <vendorCode>DSN_2022-10-1796</vendorCode>
@@ -115921,7 +115921,7 @@ ALLNUTRITION HEALTH &amp; CARE LIPOMAX-C &amp;ndash; это еще одна ст
       <offer id="DSN_26850" available="true">
         <price>435.89</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>927</quantity_in_stock>
+        <quantity_in_stock>929</quantity_in_stock>
         <name lang="ua">Ultra-Mag Magnesium Complex - 60 tabs</name>
         <name lang="ru">Ultra-Mag Magnesium Complex - 60 tabs</name>
         <vendorCode>DSN_2023-10-2353</vendorCode>
@@ -118256,7 +118256,7 @@ NOW Probiotic-10 предлагает сбалансированный спек�
       <offer id="DSN_27012" available="true">
         <price>1719.34</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>293</quantity_in_stock>
+        <quantity_in_stock>292</quantity_in_stock>
         <name lang="ua">Compact Whey Gold - 1000g Peach Yoghurt</name>
         <name lang="ru">Compact Whey Gold - 1000g Peach Yoghurt</name>
         <vendorCode>DSN_2023-10-2449</vendorCode>
@@ -127384,7 +127384,7 @@ AAKG и цитруллина малат являются мощными усил
       <offer id="DSN_27717" available="true">
         <price>55.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>218</quantity_in_stock>
+        <quantity_in_stock>188</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Nuts Mix (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g Nuts Mix (Поштучно)</name>
         <vendorCode>DSN_2023-10-2995</vendorCode>
@@ -135190,10 +135190,10 @@ Nutrex Lipo-6 Black Ultra Concentrate настолько силен, что ва
 Использовать только согласно инструкции. Принимать по 1 леденцу в день. Поместите в рот или язык и дайте ему медленно раствориться.&lt;/p&gt; &lt;p&gt;Другие ингредиенты&lt;br /&gt;
 Ксилитол, целлюлоза, натуральные ароматизаторы (лимон и малина с другими натуральными ароматизаторами), магния стеарат, смесь фосфора (фруктоолигосахариды, экстракт пророщенных бобов мунг), лимонная кислота, диоксид кремния и яблочная кислота.&lt;/p&gt;</description>
       </offer>
-      <offer id="DSN_28329" available="false">
+      <offer id="DSN_28329" available="true">
         <price>867.23</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name lang="ua">Methyl Folate 800mcg - 60 lozenges</name>
         <name lang="ru">Methyl Folate 800mcg - 60 lozenges</name>
         <vendorCode>DSN_2023-10-3436</vendorCode>
@@ -139369,7 +139369,7 @@ L-тирозин &amp;ndash; это аминокислота, которая п�
       <offer id="DSN_28735" available="true">
         <price>936.39</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>705</quantity_in_stock>
+        <quantity_in_stock>706</quantity_in_stock>
         <name lang="ua">Magnesium with Vitamin B6 - 250 tabs</name>
         <name lang="ru">Magnesium with Vitamin B6 - 250 tabs</name>
         <vendorCode>DSN_2023-10-3676</vendorCode>
@@ -139773,7 +139773,7 @@ OptiMSM&amp;reg;&lt;br /&gt;
       <offer id="DSN_28746" available="true">
         <price>555.56</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1920</quantity_in_stock>
+        <quantity_in_stock>1919</quantity_in_stock>
         <name lang="ua">Chelated Iron - 100 tabs</name>
         <name lang="ru">Chelated Iron - 100 tabs</name>
         <vendorCode>DSN_2023-10-3687</vendorCode>
@@ -141398,7 +141398,7 @@ L-селенометионин&lt;br /&gt;
       <offer id="DSN_28794" available="true">
         <price>66.32</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>181</quantity_in_stock>
+        <quantity_in_stock>131</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Cherry (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g Cherry (Поштучно)</name>
         <vendorCode>DSN_2023-10-3728</vendorCode>
@@ -148164,7 +148164,7 @@ FitWin Crunch Bar 25% &amp;ndash; это идеальный перекус дл�
       <offer id="DSN_29290" available="true">
         <price>720.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>319</quantity_in_stock>
+        <quantity_in_stock>316</quantity_in_stock>
         <name lang="ua">Crunch Bar - 12x50g Ice Cream and Salted Caramel</name>
         <name lang="ru">Crunch Bar - 12x50g Ice Cream and Salted Caramel</name>
         <vendorCode>DSN_2023-10-4080</vendorCode>
@@ -148234,7 +148234,7 @@ FitWin Crunch Bar 25% &amp;ndash; это идеальный перекус дл�
       <offer id="DSN_29292" available="true">
         <price>720.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>387</quantity_in_stock>
+        <quantity_in_stock>385</quantity_in_stock>
         <name lang="ua">Crunch Bar - 12x50g Chocolate and Milk Caramel</name>
         <name lang="ru">Crunch Bar - 12x50g Chocolate and Milk Caramel</name>
         <vendorCode>DSN_2023-10-4082</vendorCode>
@@ -158932,7 +158932,7 @@ Wellness Formula&amp;reg; содержит высокоэффективный в
       <offer id="DSN_29796" available="true">
         <price>891.35</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1707</quantity_in_stock>
+        <quantity_in_stock>1708</quantity_in_stock>
         <name lang="ua">Magnesium Glycinate - 120 tabs</name>
         <name lang="ru">Magnesium Glycinate - 120 tabs</name>
         <vendorCode>DSN_2023-10-4633</vendorCode>
@@ -173791,7 +173791,7 @@ Kaneka Q10&amp;reg;&lt;br /&gt;
       <offer id="DSN_30642" available="true">
         <price>1719.34</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>327</quantity_in_stock>
+        <quantity_in_stock>326</quantity_in_stock>
         <name lang="ua">Compact Whey Gold - 1000g Banana Cream</name>
         <name lang="ru">Compact Whey Gold - 1000g Banana Cream</name>
         <vendorCode>DSN_2023-10-5629</vendorCode>
@@ -179606,7 +179606,7 @@ Nordic Naturals Omega-3D&amp;trade; предлагает 690 мг омега-3 �
       <offer id="DSN_31128" available="true">
         <price>1377.74</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name lang="ua">Children's DHA - 180 mini softgels</name>
         <name lang="ru">Children's DHA - 180 mini softgels</name>
         <vendorCode>DSN_2023-10-5959</vendorCode>
@@ -181675,7 +181675,7 @@ ALLNUTRITION VITAMINALL VITAMINS &amp; MINERALS &amp;ndash; это компле�
       <offer id="DSN_31268" available="true">
         <price>1719.34</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>356</quantity_in_stock>
+        <quantity_in_stock>355</quantity_in_stock>
         <name lang="ua">Compact Whey Gold - 1000g Strawberry Ice Cream</name>
         <name lang="ru">Compact Whey Gold - 1000g Strawberry Ice Cream</name>
         <vendorCode>DSN_2023-10-6051</vendorCode>
@@ -181905,7 +181905,7 @@ ALLNUTRITION VITAMINALL VITAMINS &amp; MINERALS &amp;ndash; это компле�
       <offer id="DSN_31278" available="true">
         <price>1005.97</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name lang="ua">Compact Whey Gold - 500g Strawberry Ice Cream</name>
         <name lang="ru">Compact Whey Gold - 500g Strawberry Ice Cream</name>
         <vendorCode>DSN_2023-10-6061</vendorCode>
@@ -189633,10 +189633,10 @@ Sytrinol&amp;reg; для здорового сердца&lt;br /&gt;
         <description lang="ua">&lt;p&gt;Штрихкод: 097467299412&lt;/p&gt; &lt;p&gt;Не завжди легко отримати добову потребу у вітаміні D, оскільки він здебільшого виникає внаслідок перебування на сонці та відсутній&amp;nbsp;у багатьох продуктах харчування. Наші зручні м&amp;#39;які желатинові капсули &amp;ndash; це захищений від негоди спосіб отримати всі корисні властивості вітаміну D.&lt;/p&gt; &lt;p&gt;Вітамін D3 - це жиророзчинний вітамін D під назвою холекальциферол, який необхідний для підтримки здоров&amp;#39;я кісток, м&amp;#39;язів, для підтримки імунної системи, і допомагає організму засвоювати кальцій, що допомагає підтримувати нормальну функцію м&amp;#39;язів. Ваше тіло може виробляти вітамін D, але це відбувається через вплив сонячного світла, тому він відомий як сонячний вітамін. Ви можете знайти вітамін D3 у невеликих кількостях у таких продуктах, як жирна риба, яєчні жовтки та вітамінізовані продукти, але більшість людей не отримують його у повсякденному раціоні. Ось де ми вступаємо. Надзвичайно важливо отримувати достатню кількість вітаміну D, і наші капсули - це дійсно зручний варіант, коли ви не можете отримати його достатньо зі свого раціону та одного сонця.&lt;/p&gt;</description>
         <description lang="ru">&lt;p&gt;Штрихкод: 097467299412&lt;/p&gt; &lt;p&gt;Не всегда легко получить суточную потребность в витамине D, поскольку он в основном возникает в результате пребывания на солнце и отсутствует во многих продуктах питания. Наши удобные мягкие желатиновые капсулы - это защищенный от непогоды способ получить все полезные свойства витамина D.&lt;/p&gt; &lt;p&gt;Витамин D3 - это жирорастворимый витамин D под названием холекальциферол, который необходим для поддержания здоровья костей,мышц,для поддержки иммунной системы,и помогает организму усваивать кальций, что помогает поддерживать нормальную функцию мышц. Ваше тело может вырабатывать витамин D, но это происходит из-за воздействия солнечного света, поэтому он известен как солнечный витамин. Вы можете найти витамин D3 в небольших количествах в таких продуктах, как жирная рыба, яичные желтки и витаминизированные продукты, но большинство людей не получают его в повседневном рационе. Вот где мы вступаем. Способствует нормальной функции костей и мышц Способствует нормальной иммунной функции Способствует нормальному уровню кальция Чрезвычайно важно получать достаточное количество витамина D, и наши капсулы - это действительно удобный вариант, когда вы не можете получить его достаточно из своего рациона и одного солнца.&lt;/p&gt;</description>
       </offer>
-      <offer id="DSN_31647" available="true">
+      <offer id="DSN_31647" available="false">
         <price>1038.77</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Children’s Gold Multivitamin Liquid - 480 ml Tropical Berry</name>
         <name lang="ru">Children’s Gold Multivitamin Liquid - 480 ml Tropical Berry</name>
         <vendorCode>DSN_2023-10-6472</vendorCode>
@@ -191877,7 +191877,7 @@ Big Friends Multi-Probiotic &amp;ndash; это источник пробиоти
       <offer id="DSN_31746" available="true">
         <price>3521.41</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>99</quantity_in_stock>
+        <quantity_in_stock>98</quantity_in_stock>
         <name lang="ua">Compact Whey Gold - 2300g Strawberry Ice Cream</name>
         <name lang="ru">Compact Whey Gold - 2300g Strawberry Ice Cream</name>
         <vendorCode>DSN_2023-10-6567</vendorCode>
@@ -208384,7 +208384,7 @@ Lifeable&amp;reg;&lt;/p&gt; &lt;p&gt;Не стоит жертвовать отл
       <offer id="DSN_32565" available="true">
         <price>594.23</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>313</quantity_in_stock>
+        <quantity_in_stock>312</quantity_in_stock>
         <name lang="ua">Multivitamin Kids - 60 gummies</name>
         <name lang="ru">Multivitamin Kids - 60 gummies</name>
         <vendorCode>DSN_2023-10-7284</vendorCode>
@@ -225003,7 +225003,7 @@ Energizer&amp;trade; с пищевыми смесями, порошковые с
       <offer id="DSN_33755" available="true">
         <price>63.16</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>100</quantity_in_stock>
+        <quantity_in_stock>80</quantity_in_stock>
         <name lang="ua">Protein Cookie - 74g Pistachio</name>
         <name lang="ru">Protein Cookie - 74g Pistachio</name>
         <vendorCode>DSN_2023-10-7973</vendorCode>
@@ -225016,7 +225016,7 @@ Energizer&amp;trade; с пищевыми смесями, порошковые с
       <offer id="DSN_33756" available="true">
         <price>63.16</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>113</quantity_in_stock>
+        <quantity_in_stock>93</quantity_in_stock>
         <name lang="ua">Protein Cookie - 74g Chocolate</name>
         <name lang="ru">Protein Cookie - 74g Chocolate</name>
         <vendorCode>DSN_2023-10-7974</vendorCode>
@@ -243461,7 +243461,7 @@ Super Amino Night&amp;trade; &amp;ndash; это эффективная ночн�
       <offer id="DSN_2024-11-0417" available="true">
         <price>63.16</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>105</quantity_in_stock>
+        <quantity_in_stock>85</quantity_in_stock>
         <name lang="ua">Protein Cookie - 74g Banana</name>
         <name lang="ru">Protein Cookie - 74g Banana</name>
         <vendorCode>DSN_2024-11-0417</vendorCode>
