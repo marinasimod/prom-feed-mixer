@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-15 19:31"><shop><categories><category id="DSN_1175">Розпродаж</category>
+<yml_catalog date="2026-10-15 22:43"><shop><categories><category id="DSN_1175">Розпродаж</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
       <category id="DSN_1331" parentId="DSN_1110">American Health</category>
@@ -72983,7 +72983,7 @@ Albion Minerals&lt;br /&gt;
       <offer id="DSN_22814" available="true">
         <price>708.44</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>32</quantity_in_stock>
+        <quantity_in_stock>31</quantity_in_stock>
         <name lang="ua">Folate 400 mcg (as Metafolin) - 100 Tabs</name>
         <name lang="ru">Folate 400 mcg (as Metafolin) - 100 Tabs</name>
         <vendorCode>DSN_2022-10-0753</vendorCode>
@@ -77988,7 +77988,7 @@ L-5-MTHF&lt;br /&gt;
       <offer id="DSN_23545" available="true">
         <price>694.33</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>334</quantity_in_stock>
+        <quantity_in_stock>333</quantity_in_stock>
         <name lang="ua">High Potency Betain HCl with Pepsin 650mg - 100 vcaps</name>
         <name lang="ru">High Potency Betain HCl with Pepsin 650mg - 100 vcaps</name>
         <vendorCode>DSN_2022-10-1029</vendorCode>
@@ -132709,7 +132709,7 @@ OptiMSM Оптимальная чистота. Оптимальное здоро
       <offer id="DSN_28037" available="true">
         <price>569.66</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>47</quantity_in_stock>
+        <quantity_in_stock>46</quantity_in_stock>
         <name lang="ua">VIT D &amp; K Complex 125mcg 5000 IU/ 240 mcg - 60 tabs</name>
         <name lang="ru">VIT D &amp; K Complex 125mcg 5000 IU/ 240 mcg - 60 tabs</name>
         <vendorCode>DSN_2023-10-3238</vendorCode>
@@ -144046,7 +144046,7 @@ Cholesterol Pro&amp;trade; &amp;mdash; комбинация двух уника�
       <offer id="DSN_28891" available="true">
         <price>469.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>416</quantity_in_stock>
+        <quantity_in_stock>415</quantity_in_stock>
         <name lang="ua">Magnesium Citrate 150mg - 90 caps</name>
         <name lang="ru">Magnesium Citrate 150mg - 90 caps</name>
         <vendorCode>DSN_2023-10-3823</vendorCode>
@@ -175748,7 +175748,7 @@ NMN является прекурсором NAD+, важного для подд
       <offer id="DSN_30818" available="true">
         <price>455.46</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>82</quantity_in_stock>
+        <quantity_in_stock>81</quantity_in_stock>
         <name lang="ua">Calcium Citrate 350mg - 90 tabs</name>
         <name lang="ru">Calcium Citrate 350mg - 90 tabs</name>
         <vendorCode>DSN_2023-10-5742</vendorCode>
@@ -178057,7 +178057,7 @@ PQQ (пирролохинолинхинон), доступный в Swanson Heal
       <offer id="DSN_30966" available="true">
         <price>220.68</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>27</quantity_in_stock>
+        <quantity_in_stock>26</quantity_in_stock>
         <name lang="ua">Full Spectrum Moringa Oleifera 400mg - 60 caps</name>
         <name lang="ru">Full Spectrum Moringa Oleifera 400mg - 60 caps</name>
         <vendorCode>DSN_2023-10-5875</vendorCode>
@@ -184039,7 +184039,7 @@ TAURINE 1000&amp;trade; от Source Naturals &amp;ndash; это кристалл
       <offer id="DSN_31376" available="true">
         <price>304.85</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>49</quantity_in_stock>
+        <quantity_in_stock>48</quantity_in_stock>
         <name lang="ua">L-Arginine 500 mg - 50 tabs</name>
         <name lang="ru">L-Arginine 500 mg - 50 tabs</name>
         <vendorCode>DSN_2023-10-6160</vendorCode>
@@ -191413,7 +191413,7 @@ Nutrex Research Outlift Amped Pre-Workout особенно рекомендуе�
       <offer id="DSN_31714" available="true">
         <price>492.31</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>11</quantity_in_stock>
+        <quantity_in_stock>10</quantity_in_stock>
         <name lang="ua">Hi Potency B Complex 50mg - 90 caps</name>
         <name lang="ru">Hi Potency B Complex 50mg - 90 caps</name>
         <vendorCode>DSN_2023-10-6538</vendorCode>
@@ -192075,7 +192075,7 @@ Nutrex Research Outlift Amped Pre-Workout особенно рекомендуе�
       <offer id="DSN_31735" available="true">
         <price>262.08</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>76</quantity_in_stock>
+        <quantity_in_stock>75</quantity_in_stock>
         <name lang="ua">Potassium Citrate 99mg - 90 tabs</name>
         <name lang="ru">Potassium Citrate 99mg - 90 tabs</name>
         <vendorCode>DSN_2023-10-6559</vendorCode>
@@ -202068,7 +202068,7 @@ Use only as directed. Take 2 vegetarian capsules up to twice daily, preferably o
       <offer id="DSN_32262" available="true">
         <price>647.47</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>431</quantity_in_stock>
+        <quantity_in_stock>430</quantity_in_stock>
         <name lang="ua">Calcium Magnesium Zinc +D3 - 250 tabs</name>
         <name lang="ru">Calcium Magnesium Zinc +D3 - 250 tabs</name>
         <vendorCode>DSN_2023-10-7044</vendorCode>
@@ -208026,7 +208026,7 @@ Nutr Free&lt;br /&gt;
       <offer id="DSN_32537" available="true">
         <price>546.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>162</quantity_in_stock>
+        <quantity_in_stock>161</quantity_in_stock>
         <name lang="ua">Vitamin B12 Kids - 60 gummies</name>
         <name lang="ru">Vitamin B12 Kids - 60 gummies</name>
         <vendorCode>DSN_2023-10-7259</vendorCode>
@@ -217365,7 +217365,7 @@ TMG&lt;br /&gt;
       <offer id="DSN_33495" available="true">
         <price>1410.05</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>11</quantity_in_stock>
+        <quantity_in_stock>10</quantity_in_stock>
         <name lang="ua">Liposomal Turmeric+ - 90 vcaps</name>
         <name lang="ru">Liposomal Turmeric+ - 90 vcaps</name>
         <vendorCode>DSN_2023-10-7725</vendorCode>
@@ -221018,7 +221018,7 @@ NaturesPlus Mega-Stress особенно рекомендуется к упот�
       <offer id="DSN_33613" available="true">
         <price>1657.76</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>13</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name lang="ua">Candida Cleanse 7 Day Program - 28 caps</name>
         <name lang="ru">Candida Cleanse 7 Day Program - 28 caps</name>
         <vendorCode>DSN_2023-10-6843</vendorCode>
