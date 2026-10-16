@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-15 22:43"><shop><categories><category id="DSN_1175">Розпродаж</category>
+<yml_catalog date="2026-10-16 01:55"><shop><categories><category id="DSN_1175">Розпродаж</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
       <category id="DSN_1331" parentId="DSN_1110">American Health</category>
@@ -33447,7 +33447,7 @@ L-теанин &amp;ndash; 200 мг&lt;br /&gt;
       <offer id="DSN_11385" available="true">
         <price>1169.81</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>45</quantity_in_stock>
+        <quantity_in_stock>46</quantity_in_stock>
         <name lang="ua">Anabol Hardcore PM - 60 liquid caps</name>
         <name lang="ru">Anabol Hardcore PM - 60 liquid caps</name>
         <vendorCode>DSN_100-62-3750073-20</vendorCode>
@@ -86023,7 +86023,7 @@ USDA Organic&lt;br /&gt;
       <offer id="DSN_24511" available="true">
         <price>384.02</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>354</quantity_in_stock>
+        <quantity_in_stock>355</quantity_in_stock>
         <name lang="ua">Zinc Citrate 50mg - 60 vcaps</name>
         <name lang="ru">Zinc Citrate 50mg - 60 vcaps</name>
         <vendorCode>DSN_2022-10-2448</vendorCode>
@@ -107393,7 +107393,7 @@ ActivMelt&amp;trade; Instant Dissolve&lt;br /&gt;
       <offer id="DSN_26120" available="true">
         <price>256.62</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>99</quantity_in_stock>
+        <quantity_in_stock>98</quantity_in_stock>
         <name lang="ua">Chromium Picolinate 200mcg - 50 tabs</name>
         <name lang="ru">Chromium Picolinate 200mcg - 50 tabs</name>
         <vendorCode>DSN_2022-10-1789</vendorCode>
@@ -140385,7 +140385,7 @@ OptiMSM&lt;br /&gt;
       <offer id="DSN_28753" available="true">
         <price>1152.97</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>242</quantity_in_stock>
+        <quantity_in_stock>241</quantity_in_stock>
         <name lang="ua">Gentle Iron - 180 caps</name>
         <name lang="ru">Gentle Iron - 180 caps</name>
         <vendorCode>DSN_2023-10-3694</vendorCode>
@@ -175123,7 +175123,7 @@ Power Pro Paste Bar &amp;ndash; идеальный выбор для ищущи�
       <offer id="DSN_30772" available="true">
         <price>586.04</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name lang="ua">Lactase Enzyme 250mg - 60 softgels</name>
         <name lang="ru">Lactase Enzyme 250mg - 60 softgels</name>
         <vendorCode>DSN_2023-10-5695</vendorCode>
@@ -202533,7 +202533,7 @@ Use only as directed. Take 2 vegetarian capsules up to twice daily, preferably o
       <offer id="DSN_32276" available="true">
         <price>357.18</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>16</quantity_in_stock>
+        <quantity_in_stock>17</quantity_in_stock>
         <name lang="ua">B Complex plus Vitamin C - 100 tabs</name>
         <name lang="ru">B Complex plus Vitamin C - 100 tabs</name>
         <vendorCode>DSN_2023-10-7059</vendorCode>
