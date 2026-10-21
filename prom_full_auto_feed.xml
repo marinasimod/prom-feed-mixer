@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-20 22:45"><shop><categories><category id="DSN_1175">Розпродаж</category>
+<yml_catalog date="2026-10-21 02:15"><shop><categories><category id="DSN_1175">Розпродаж</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
       <category id="DSN_1331" parentId="DSN_1110">American Health</category>
@@ -10492,7 +10492,7 @@ FITPLAN NUT MIX &amp;ndash; это натуральный источник по�
       <offer id="DSN_6729" available="true">
         <price>584.22</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>610</quantity_in_stock>
+        <quantity_in_stock>611</quantity_in_stock>
         <name lang="ua">Ultra Man™ 50 Plus - 60 Caplets</name>
         <name lang="ru">Ultra Man™ 50 Plus - 60 Caplets</name>
         <vendorCode>DSN_100-41-2969026-20</vendorCode>
@@ -24065,13 +24065,13 @@ Swanson DHEA является предшественником эстроген�
         <vendorCode>DSN_100-50-6275531-20</vendorCode>
         <old_offer_id>9206</old_offer_id>
         <vendor>Swanson</vendor>
-        <categoryId>DSN_1458</categoryId>
+        <categoryId>DSN_1420</categoryId>
         <additionalCategories>
+          <id>1458</id>
           <id>1382</id>
           <id>1381</id>
           <id>1465</id>
           <id>1418</id>
-          <id>1420</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/7/swansonmaca-500mg-60caps-19832683551186_+624faa5c8c.jpg</picture>
         <picture>https://dsn.ua/content/images/7/swansonmaca-500mg-60caps-24999910716315_+4dbab17bf3.jpg</picture>
@@ -34026,9 +34026,9 @@ All Nutrition Fitking Delicious cookie выпускается в пяти фан
         <vendorCode>DSN_100-21-1521552-20</vendorCode>
         <old_offer_id>11648</old_offer_id>
         <vendor>Myprotein</vendor>
-        <categoryId>DSN_1408</categoryId>
+        <categoryId>DSN_1373</categoryId>
         <additionalCategories>
-          <id>1373</id>
+          <id>1408</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/49/myproteinessential-omega-3-90caps-55680518848608_+9ae26a7f66.png</picture>
         <picture>https://dsn.ua/content/images/49/myproteinessential-omega-3-90caps-26260220718080_+fe436c933e.png</picture>
@@ -41604,7 +41604,7 @@ Swanson St. John&amp;#39;s Wort лидирует в добавках для пс
       <offer id="DSN_13329" available="true">
         <price>98.28</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name lang="ua">Green Tea 500mg - 30caps</name>
         <name lang="ru">Green Tea 500mg - 30caps</name>
         <vendorCode>DSN_100-78-9852234-20</vendorCode>
@@ -59861,9 +59861,9 @@ NOW&amp;reg; Menopause Support содержит рекомендуемые мо�
         <vendorCode>DSN_2022-10-0111</vendorCode>
         <old_offer_id>18452</old_offer_id>
         <vendor>Now Foods</vendor>
-        <categoryId>DSN_1420</categoryId>
+        <categoryId>DSN_1393</categoryId>
         <additionalCategories>
-          <id>1393</id>
+          <id>1420</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/3/now-foodsadam-90-vcaps-70238930310338_+7d065ddca5.jpg</picture>
         <picture>https://dsn.ua/content/images/3/now-foodsadam-90-vcaps-87541798146617_+856a19ddd0.jpg</picture>
@@ -70427,8 +70427,8 @@ Orchard Fruits&amp;trade; и Garden Veggies&amp;trade;&lt;br /&gt;
         <vendor>Nature's Way</vendor>
         <categoryId>DSN_1404</categoryId>
         <additionalCategories>
-          <id>1381</id>
           <id>1405</id>
+          <id>1381</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/5/natures-wayneem-leaf-100-vcaps-57093915100822_+656fdb6507.jpg</picture>
         <picture>https://dsn.ua/content/images/5/natures-wayneem-leaf-100-vcaps-95883924411831_+ea1c66c570.jpg</picture>
@@ -79926,10 +79926,10 @@ Take 3 capsules twice daily, preferably with food.&lt;/p&gt; &lt;p&gt;Інші �
         <vendorCode>DSN_2022-10-1077</vendorCode>
         <old_offer_id>23594</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1349</categoryId>
+        <categoryId>DSN_1409</categoryId>
         <additionalCategories>
-          <id>1409</id>
           <id>1411</id>
+          <id>1349</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/45/choline-500-mg-100-tabs-29910587341851_+f900c2fbbd.jpg</picture>
         <picture>https://dsn.ua/content/images/45/choline-500-mg-100-tabs-33534323607949_+a60ebb2fcc.jpg</picture>
@@ -80194,10 +80194,10 @@ Take 3 capsules twice daily, preferably with food.&lt;/p&gt; &lt;p&gt;Інші �
         <vendorCode>DSN_2022-10-1086</vendorCode>
         <old_offer_id>23603</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1468</categoryId>
+        <categoryId>DSN_1382</categoryId>
         <additionalCategories>
-          <id>1382</id>
           <id>1401</id>
+          <id>1468</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/4/kelp-180-vcaps-82451598540286_+0e3097dfb1.jpg</picture>
         <picture>https://dsn.ua/content/images/4/kelp-180-vcaps-77680133275812_+2804890ed6.jpg</picture>
@@ -80786,10 +80786,10 @@ USDA Organic&lt;br /&gt;
         <vendorCode>DSN_2022-10-1097</vendorCode>
         <old_offer_id>23614</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1414</categoryId>
+        <categoryId>DSN_1381</categoryId>
         <additionalCategories>
-          <id>1381</id>
           <id>1405</id>
+          <id>1414</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/15/pau-darco-inner-bark-180-vcaps-69025983430923_+3690db4f50.jpg</picture>
         <picture>https://dsn.ua/content/images/15/pau-darco-inner-bark-180-vcaps-50309615954343_+acf6b5f175.jpg</picture>
@@ -81725,10 +81725,10 @@ The Smarter Probiotic&amp;trade;&lt;br /&gt;
         <vendorCode>DSN_2022-10-1115</vendorCode>
         <old_offer_id>23632</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1381</categoryId>
+        <categoryId>DSN_1418</categoryId>
         <additionalCategories>
-          <id>1418</id>
           <id>1399</id>
+          <id>1381</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/33/wild-yam-180-vcaps-14668103836146_+0b5019311a.jpg</picture>
         <picture>https://dsn.ua/content/images/33/wild-yam-180-vcaps-62133537364868_+fdcdf0462f.jpg</picture>
@@ -94433,7 +94433,7 @@ Nature&amp;#39;s Plus Animal Parade MagKidz обеспечивает получ�
       <offer id="DSN_25224" available="true">
         <price>937.30</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>95</quantity_in_stock>
+        <quantity_in_stock>94</quantity_in_stock>
         <name lang="ua">Kids Inner Ear Support Chewable - 90 tabs</name>
         <name lang="ru">Kids Inner Ear Support Chewable - 90 tabs</name>
         <vendorCode>DSN_2022-10-2852</vendorCode>
@@ -103279,7 +103279,7 @@ Power-Teen&amp;reg; &amp;ndash; это тщательно выверенная �
       <offer id="DSN_25820" available="true">
         <price>611.98</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>103</quantity_in_stock>
+        <quantity_in_stock>104</quantity_in_stock>
         <name lang="ua">Gentle Iron - 90 vcaps</name>
         <name lang="ru">Gentle Iron - 90 vcaps</name>
         <vendorCode>DSN_2022-10-1529</vendorCode>
@@ -103710,7 +103710,7 @@ Solgar Lipotropic Factors сертифицированный KOF-K Kosher, пр�
       <offer id="DSN_25841" available="true">
         <price>481.85</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>212</quantity_in_stock>
+        <quantity_in_stock>213</quantity_in_stock>
         <name lang="ua">Vitamin B6 50mg - 100 tabs</name>
         <name lang="ru">Vitamin B6 50mg - 100 tabs</name>
         <vendorCode>DSN_2022-10-1547</vendorCode>
@@ -103791,10 +103791,10 @@ Solgar Lipotropic Factors сертифицированный KOF-K Kosher, пр�
         <vendorCode>DSN_2022-10-1550</vendorCode>
         <old_offer_id>25845</old_offer_id>
         <vendor>Solgar</vendor>
-        <categoryId>DSN_1358</categoryId>
+        <categoryId>DSN_1416</categoryId>
         <additionalCategories>
+          <id>1358</id>
           <id>1414</id>
-          <id>1416</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/46/vit-d-1000iu-100sfg-72713526246342_+c94019a17b.jpg</picture>
         <picture>https://dsn.ua/content/images/46/vit-d-1000iu-100sfg-39838888376374_+2eec42bee7.png</picture>
@@ -105778,10 +105778,10 @@ Prebiotic Bifido Boost&amp;trade; Powder &amp;ndash; это усовершенс
         <vendorCode>DSN_2022-10-1721</vendorCode>
         <old_offer_id>26019</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1381</categoryId>
+        <categoryId>DSN_1458</categoryId>
         <additionalCategories>
+          <id>1381</id>
           <id>1414</id>
-          <id>1458</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/20/astragalus-root-100-vcaps-15062089154020_+8754cf15cd.jpg</picture>
         <picture>https://dsn.ua/content/images/20/astragalus-root-100-vcaps-28143467619853_+d60ad61a5a.jpg</picture>
@@ -110853,7 +110853,7 @@ NT2 Collagen&amp;trade;&lt;br /&gt;
       <offer id="DSN_26364" available="true">
         <price>659.30</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>67</quantity_in_stock>
+        <quantity_in_stock>68</quantity_in_stock>
         <name lang="ua">Two-Per-Day Multivitamin - 60 tabs</name>
         <name lang="ru">Two-Per-Day Multivitamin - 60 tabs</name>
         <vendorCode>DSN_2022-10-1970</vendorCode>
@@ -113065,11 +113065,11 @@ Clear Quality&amp;trade;&lt;br /&gt;
         <vendorCode>DSN_2023-10-2120</vendorCode>
         <old_offer_id>26576</old_offer_id>
         <vendor>Solaray</vendor>
-        <categoryId>DSN_1382</categoryId>
+        <categoryId>DSN_1411</categoryId>
         <additionalCategories>
+          <id>1382</id>
           <id>1383</id>
           <id>1472</id>
-          <id>1411</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/27/organic-lions-mane-fermented-1000mg-60-caps-15587501006357_+99ae4ce4ad.jpg</picture>
         <picture>https://dsn.ua/content/images/27/organic-lions-mane-fermented-1000mg-60-caps-92315066797282_+e7e8a7755e.jpg</picture>
@@ -114516,9 +114516,9 @@ Clear Quality&amp;trade;&lt;br /&gt;
         <vendorCode>DSN_2023-10-2175</vendorCode>
         <old_offer_id>26634</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1421</categoryId>
+        <categoryId>DSN_1399</categoryId>
         <additionalCategories>
-          <id>1399</id>
+          <id>1421</id>
           <id>1385</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/35/primadophilus-orange-30-chew-tabs-44516656141880_+a5143020db.jpg</picture>
@@ -122360,10 +122360,10 @@ L-лизин &amp;ndash; это незаменимая аминокислота 
         <vendorCode>DSN_2023-10-2677</vendorCode>
         <old_offer_id>27321</old_offer_id>
         <vendor>Source Naturals</vendor>
-        <categoryId>DSN_1365</categoryId>
+        <categoryId>DSN_1409</categoryId>
         <additionalCategories>
-          <id>1409</id>
           <id>1412</id>
+          <id>1365</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/22/magnesium-malate-1250mg-90-tabs-86668042148479_+e9378c46c4.jpg</picture>
         <picture>https://dsn.ua/content/images/22/magnesium-malate-1250mg-90-tabs-55750627107148_+6b4fc3e587.jpg</picture>
@@ -131858,7 +131858,7 @@ MEX AMINO 20K уменьшает разрушение мышц, способст
       <offer id="DSN_28012" available="true">
         <price>1211.67</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>333</quantity_in_stock>
+        <quantity_in_stock>332</quantity_in_stock>
         <name lang="ua">Mega Benfotiamine 250 mg - 120 vcaps</name>
         <name lang="ru">Mega Benfotiamine 250 mg - 120 vcaps</name>
         <vendorCode>DSN_2023-10-3213</vendorCode>
@@ -139274,13 +139274,13 @@ FiberMend сочетает Sunfiber&amp;reg; &amp;ndash; частично гид
         <vendorCode>DSN_2023-10-3657</vendorCode>
         <old_offer_id>28716</old_offer_id>
         <vendor>Thorne</vendor>
-        <categoryId>DSN_1381</categoryId>
+        <categoryId>DSN_1403</categoryId>
         <additionalCategories>
+          <id>1381</id>
           <id>1460</id>
           <id>1406</id>
           <id>1407</id>
           <id>1399</id>
-          <id>1403</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/17/berberine-60-caps-83103707776746_+855e285820.jpg</picture>
         <picture>https://dsn.ua/content/images/17/berberine-60-caps-99025544870936_+5df6c7fa29.jpg</picture>
@@ -143825,10 +143825,10 @@ Cholesterol Pro&amp;trade; &amp;mdash; комбинация двух уника�
         <vendorCode>DSN_2023-10-3814</vendorCode>
         <old_offer_id>28882</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1359</categoryId>
+        <categoryId>DSN_1405</categoryId>
         <additionalCategories>
-          <id>1405</id>
           <id>1408</id>
+          <id>1359</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/33/25633837735650_+d71b15ac3f.jpg</picture>
         <picture>https://dsn.ua/content/images/33/mixed-vitamin-e-134-mg-200-iu-90-softgels-87355421530510_+eb72449f65.jpg</picture>
@@ -144093,10 +144093,10 @@ Cholesterol Pro&amp;trade; &amp;mdash; комбинация двух уника�
         <vendorCode>DSN_2023-10-3821</vendorCode>
         <old_offer_id>28889</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1409</categoryId>
+        <categoryId>DSN_1365</categoryId>
         <additionalCategories>
+          <id>1409</id>
           <id>1410</id>
-          <id>1365</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/40/76058100507219_+8e57c66aa3.jpg</picture>
         <picture>https://dsn.ua/content/images/40/magnesium-bisglycinate-200mg-145g-pure-62524723327407_+5c32c607e7.jpg</picture>
@@ -144505,10 +144505,10 @@ NAC (N-ацетил-L-цистеин) &amp;ndash; это высокостаби�
         <vendorCode>DSN_2023-10-3832</vendorCode>
         <old_offer_id>28900</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1405</categoryId>
+        <categoryId>DSN_1381</categoryId>
         <additionalCategories>
+          <id>1405</id>
           <id>1414</id>
-          <id>1381</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/1/62075695904374_+0d9b664ffe.jpg</picture>
         <picture>https://dsn.ua/content/images/1/lung-bronchial-sinus-health-45-tabs-55525396415348_+3f5eb54c21.jpg</picture>
@@ -144602,10 +144602,10 @@ NAC (N-ацетил-L-цистеин) &amp;ndash; это высокостаби�
         <vendorCode>DSN_2023-10-3834</vendorCode>
         <old_offer_id>28902</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1458</categoryId>
+        <categoryId>DSN_1381</categoryId>
         <additionalCategories>
-          <id>1381</id>
           <id>1399</id>
+          <id>1458</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/3/47168145070438_+b628c3facd.jpg</picture>
         <picture>https://dsn.ua/content/images/3/dgl-400mg-90-tabs-25503591908934_+0bf663ca9f.jpg</picture>
@@ -147905,7 +147905,7 @@ Power Pro Isotonic эффективно восстанавливает водн�
       <offer id="DSN_29235" available="true">
         <price>508.29</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>22</quantity_in_stock>
+        <quantity_in_stock>21</quantity_in_stock>
         <name lang="ua">CranRich 500mg - 90 caps</name>
         <name lang="ru">CranRich 500mg - 90 caps</name>
         <vendorCode>DSN_2023-10-4054</vendorCode>
@@ -158177,12 +158177,12 @@ Carlson&amp;reg; создает диетические добавки высоч
         <vendorCode>DSN_2023-10-4585</vendorCode>
         <old_offer_id>29748</old_offer_id>
         <vendor>Puritans Pride</vendor>
-        <categoryId>DSN_1459</categoryId>
+        <categoryId>DSN_1378</categoryId>
         <additionalCategories>
-          <id>1409</id>
-          <id>1378</id>
           <id>1458</id>
           <id>1381</id>
+          <id>1459</id>
+          <id>1409</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/49/ashwagandha-ksm-66-l-theanine-60-tabs-29718855800680_+2ff373e5ac.jpg</picture>
         <picture>https://dsn.ua/content/images/49/ashwagandha-ksm-66-l-theanine-60-tabs-43265726963963_+cefb3d589f.jpg</picture>
@@ -159155,7 +159155,7 @@ Source Naturals NightRest Melatonin сочетает мощное действи
       <offer id="DSN_29782" available="true">
         <price>903.42</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>56</quantity_in_stock>
+        <quantity_in_stock>57</quantity_in_stock>
         <name lang="ua">Diet Chitosan™ 500 mg - 120 caps</name>
         <name lang="ru">Diet Chitosan™ 500 mg - 120 caps</name>
         <vendorCode>DSN_2023-10-4619</vendorCode>
@@ -160569,7 +160569,7 @@ Life&amp;#39;sDHA&amp;reg;&lt;br /&gt;
       <offer id="DSN_29857" available="true">
         <price>1538.36</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>979</quantity_in_stock>
+        <quantity_in_stock>980</quantity_in_stock>
         <name lang="ua">Magnesium Taurate 400mg - 180 tabs</name>
         <name lang="ru">Magnesium Taurate 400mg - 180 tabs</name>
         <vendorCode>DSN_2023-10-4694</vendorCode>
@@ -174357,9 +174357,9 @@ Kaneka Q10&amp;reg;&lt;br /&gt;
         <vendorCode>DSN_2023-10-5624</vendorCode>
         <old_offer_id>30638</old_offer_id>
         <vendor>Pure Gold</vendor>
-        <categoryId>DSN_1417</categoryId>
+        <categoryId>DSN_1387</categoryId>
         <additionalCategories>
-          <id>1387</id>
+          <id>1417</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/39/collafruit-300g-blueberry-30543631568399_+6b170c0997.jpg</picture>
         <picture>https://dsn.ua/content/images/39/collafruit-300g-blueberry-58805938609820_+2ecd704430.jpg</picture>
@@ -176023,10 +176023,10 @@ NMN является прекурсором NAD+, важного для подд
         <vendorCode>DSN_2023-10-5741</vendorCode>
         <old_offer_id>30817</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1355</categoryId>
+        <categoryId>DSN_1175</categoryId>
         <additionalCategories>
+          <id>1355</id>
           <id>1419</id>
-          <id>1175</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/18/41253001739309_+4061a6ffeb.jpg</picture>
         <picture>https://dsn.ua/content/images/18/folic-acid-1mg-90-tabs-76530558735467_+055f4a646a.jpg</picture>
@@ -176188,9 +176188,9 @@ NMN является прекурсором NAD+, важного для подд
         <vendorCode>DSN_2023-10-5745</vendorCode>
         <old_offer_id>30821</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1408</categoryId>
+        <categoryId>DSN_1373</categoryId>
         <additionalCategories>
-          <id>1373</id>
+          <id>1408</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/22/wild-alaskan-salmon-oil-1000mg-90-softgels-76253363494918_+a26a5f71af.jpg</picture>
         <picture>https://dsn.ua/content/images/22/wild-alaskan-salmon-oil-1000mg-90-softgels-72888178241171_+f5285482b8.jpg</picture>
@@ -176276,9 +176276,9 @@ NMN является прекурсором NAD+, важного для подд
         <vendorCode>DSN_2023-10-5747</vendorCode>
         <old_offer_id>30823</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1400</categoryId>
+        <categoryId>DSN_1404</categoryId>
         <additionalCategories>
-          <id>1404</id>
+          <id>1400</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/24/71118361335154_+eddd10ba9e.jpg</picture>
         <picture>https://dsn.ua/content/images/24/phosphatidyl-choline-pc-420mg-90-softgels-64051896103142_+e5a7dcebe8.jpg</picture>
@@ -188874,10 +188874,10 @@ Trust The Leaf&lt;br /&gt;
         <vendorCode>DSN_2023-10-6401</vendorCode>
         <old_offer_id>31577</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1418</categoryId>
+        <categoryId>DSN_1381</categoryId>
         <additionalCategories>
+          <id>1418</id>
           <id>1408</id>
-          <id>1381</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/28/red-clover-blossoms-herb-100-vcaps-85016163255638_+681c07f4db.jpg</picture>
         <picture>https://dsn.ua/content/images/28/red-clover-blossoms-herb-100-vcaps-26777749697796_+930c40b04e.jpg</picture>
@@ -192176,11 +192176,11 @@ Nutrex Research Outlift Amped Pre-Workout особенно рекомендуе�
         <vendorCode>DSN_2023-10-6547</vendorCode>
         <old_offer_id>31723</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1413</categoryId>
+        <categoryId>DSN_1175</categoryId>
         <additionalCategories>
-          <id>1175</id>
           <id>1405</id>
           <id>1488</id>
+          <id>1413</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/24/astaxanthin-6-mg-60-softgels-39228972858462_+1a662f9f65.jpg</picture>
         <picture>https://dsn.ua/content/images/24/astaxanthin-6-mg-60-softgels-33396871105936_+a61ac34725.jpg</picture>
@@ -208785,9 +208785,9 @@ Nutr Free&lt;br /&gt;
         <vendorCode>DSN_2023-10-7267</vendorCode>
         <old_offer_id>32545</old_offer_id>
         <vendor>Lifeable</vendor>
-        <categoryId>DSN_1387</categoryId>
+        <categoryId>DSN_1417</categoryId>
         <additionalCategories>
-          <id>1417</id>
+          <id>1387</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/46/collagen-vitamin-c-adult-60-gummies-81429967074061_+5a9e647a4d.jpg</picture>
         <picture>https://dsn.ua/content/images/46/55925724953339_+56c5b790f0.jpg</picture>
@@ -216350,10 +216350,10 @@ Trust the Leaf&lt;br /&gt;
         <vendorCode>DSN_2023-10-6854</vendorCode>
         <old_offer_id>33402</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1408</categoryId>
+        <categoryId>DSN_1359</categoryId>
         <additionalCategories>
-          <id>1359</id>
           <id>1405</id>
+          <id>1408</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/3/vitamin-e-d-alpha-tocopherol-100-softgels-75632879086481_+4068e8f862.jpg</picture>
         <picture>https://dsn.ua/content/images/3/vitamin-e-d-alpha-tocopherol-100-softgels-62978704292944_+5b849af463.jpg</picture>
@@ -233482,8 +233482,8 @@ Matrix подходит для всех, кто стремится добить�
         <vendor>VPLab</vendor>
         <categoryId>DSN_1414</categoryId>
         <additionalCategories>
-          <id>1416</id>
           <id>1358</id>
+          <id>1416</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/50/vitamin-d3-4000iu-k2-60-vcaps-29664451866200_+f1e5059cc2.jpg</picture>
         <picture>https://dsn.ua/content/images/50/vitamin-d3-4000iu-k2-60-vcaps-79220957051685_+2abf322597.jpg</picture>
@@ -249049,10 +249049,10 @@ PHASE 2&amp;reg; &amp;mdash; это нестимулирующий экстра�
         <name lang="ru">Acetyl L-Carnitine - 200g</name>
         <vendorCode>DSN_2024-11-0522</vendorCode>
         <vendor>Stark Pharm</vendor>
-        <categoryId>DSN_1378</categoryId>
+        <categoryId>DSN_1411</categoryId>
         <additionalCategories>
-          <id>1411</id>
           <id>1412</id>
+          <id>1378</id>
           <id>1479</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/28/acetyl-l-carnitine-200g-57782214502523_+917adea414.jpg</picture>
@@ -249357,9 +249357,9 @@ BCAA-компонент: сочетание лейцина, изолейцина
         <name lang="ru">Neuro Balance - 120 caps</name>
         <vendorCode>DSN_2024-11-0525</vendorCode>
         <vendor>Stark Pharm</vendor>
-        <categoryId>DSN_1410</categoryId>
+        <categoryId>DSN_1409</categoryId>
         <additionalCategories>
-          <id>1409</id>
+          <id>1410</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/31/neuro-balance-120-caps-29775588652848_+08f41c2e87.jpg</picture>
         <picture>https://dsn.ua/content/images/31/neuro-balance-120-caps-21147823297462_+e7ca6eea7e.jpg</picture>
@@ -251066,9 +251066,9 @@ Lifeable &amp;ndash; здоровье, вкусное!&lt;/p&gt;
         <name lang="ru">Collagen Peptides - 200g Unflavored (20 Packets)</name>
         <vendorCode>DSN_2024-11-0575</vendorCode>
         <vendor>Vital Proteins</vendor>
-        <categoryId>DSN_1387</categoryId>
+        <categoryId>DSN_1417</categoryId>
         <additionalCategories>
-          <id>1417</id>
+          <id>1387</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/12/collagen-peptides-200g-unflavored-87400487834981_+e1b002f1a8.jpg</picture>
         <picture>https://dsn.ua/content/images/12/collagen-peptides-200g-unflavored-97801054197454_+b74b4ba261.jpg</picture>
@@ -258676,9 +258676,9 @@ Puritan&amp;#39;s Pride предлагает высококачественну�
         <name lang="ru">Mycrobiome Complete Probiotic Mood - 30 vcaps</name>
         <vendorCode>DSN_2024-11-0721</vendorCode>
         <vendor>Solaray</vendor>
-        <categoryId>DSN_1399</categoryId>
+        <categoryId>DSN_1385</categoryId>
         <additionalCategories>
-          <id>1385</id>
+          <id>1399</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/50/mycrobiome-complete-probiotic-mood-30-vcaps-22857942607712_+f51ea6cc65.jpg</picture>
         <picture>https://dsn.ua/content/images/50/mycrobiome-complete-probiotic-mood-30-vcaps-64373743489861_+dfd01f5a51.jpg</picture>
@@ -258743,9 +258743,9 @@ Puritan&amp;#39;s Pride предлагает высококачественну�
         <name lang="ru">Super Multidophilus 24 Strain Probiotic 30 Billion Cfu - 60 vcaps</name>
         <vendorCode>DSN_2024-11-0722</vendorCode>
         <vendor>Solaray</vendor>
-        <categoryId>DSN_1385</categoryId>
+        <categoryId>DSN_1399</categoryId>
         <additionalCategories>
-          <id>1399</id>
+          <id>1385</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/1/super-multidophilus-24-strain-probiotic-30-billion-cfu-60-vcaps-87290308749740_+e87f48154d.jpg</picture>
         <picture>https://dsn.ua/content/images/1/super-multidophilus-24-strain-probiotic-30-billion-cfu-60-vcaps-88509247639084_+80deb20c1d.jpg</picture>
@@ -259201,11 +259201,11 @@ Enteric Shield VegCaps помогают защитить пробиотичес�
         <name lang="ru">Women's Balancing Formula - 60 tabs</name>
         <vendorCode>DSN_2024-11-0729</vendorCode>
         <vendor>Solgar</vendor>
-        <categoryId>DSN_1422</categoryId>
+        <categoryId>DSN_1392</categoryId>
         <additionalCategories>
-          <id>1392</id>
           <id>1409</id>
           <id>1412</id>
+          <id>1422</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/8/womens-balancing-formula-60-tabs-53153821086126_+b9c0f95f96.jpg</picture>
         <picture>https://dsn.ua/content/images/8/womens-balancing-formula-60-tabs-74064708742874_+d2fc3b4641.jpg</picture>
@@ -266474,9 +266474,9 @@ Thyroid Energy&amp;trade; от NOW&amp;reg; представляет собой 
         <name lang="ru">Sport Vit Men - 60 caps</name>
         <vendorCode>DSN_2024-11-0889</vendorCode>
         <vendor>Stark Pharm</vendor>
-        <categoryId>DSN_1393</categoryId>
+        <categoryId>DSN_1420</categoryId>
         <additionalCategories>
-          <id>1420</id>
+          <id>1393</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/2/sport-vit-men-60-caps-32906641236222_+61ecdecf44.jpg</picture>
         <picture>https://dsn.ua/content/images/2/sport-vit-men-60-caps-70489433166611_+088db3f1e7.jpg</picture>
@@ -269565,9 +269565,9 @@ gриголомшливий смак.&lt;/p&gt;
         <name lang="ru">Omega-3 - 473ml Lemon</name>
         <vendorCode>DSN_2024-11-0967</vendorCode>
         <vendor>Nordic Naturals</vendor>
-        <categoryId>DSN_1408</categoryId>
+        <categoryId>DSN_1373</categoryId>
         <additionalCategories>
-          <id>1373</id>
+          <id>1408</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/4/omega-3-473ml-lemon-52136329355334_+41e29f7ba2.jpg</picture>
         <picture>https://dsn.ua/content/images/4/omega-3-473ml-lemon-63959517188481_+492a9d19bc.jpg</picture>
@@ -272442,11 +272442,11 @@ Say Yes to Dairy &amp;ndash; это диетическая добавка для
         <name lang="ru">Magnesium L-Threonate SmartMag™ - 90 vcaps</name>
         <vendorCode>DSN_2024-11-1035</vendorCode>
         <vendor>Solaray</vendor>
-        <categoryId>DSN_1365</categoryId>
+        <categoryId>DSN_1409</categoryId>
         <additionalCategories>
-          <id>1409</id>
           <id>1410</id>
           <id>1411</id>
+          <id>1365</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/11/smartmag-magnesium-l-threonate-90-vcaps-51668408065445_+f0ccb306d2.png</picture>
         <picture>https://dsn.ua/content/images/11/smartmag-magnesium-l-threonate-90-vcaps-37605378098940_+ebfb877c14.png</picture>
@@ -272832,10 +272832,10 @@ L-аргинин участвует в естественных процесса
         <name lang="ru">Magnesium Glycinate Powder 500mg - 239g</name>
         <vendorCode>DSN_2024-11-1043</vendorCode>
         <vendor>Solaray</vendor>
-        <categoryId>DSN_1409</categoryId>
+        <categoryId>DSN_1365</categoryId>
         <additionalCategories>
+          <id>1409</id>
           <id>1410</id>
-          <id>1365</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/19/magnesium-glycinate-powder-500mg-239g-99259237467048_+d2c6c50638.png</picture>
         <picture>https://dsn.ua/content/images/19/magnesium-glycinate-powder-500mg-239g-92066884689968_+77e2cee5fe.png</picture>
@@ -275408,10 +275408,10 @@ Swanson Ultimate Women&amp;#39;s Intimate Performance &amp;ndash; это уди�
         <name lang="ru">Vitamin D3 2000 IU - 120 caps</name>
         <vendorCode>DSN_2024-11-1105</vendorCode>
         <vendor>My Nutri Week</vendor>
-        <categoryId>DSN_1416</categoryId>
+        <categoryId>DSN_1358</categoryId>
         <additionalCategories>
-          <id>1358</id>
           <id>1414</id>
+          <id>1416</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/21/vitamin-d3-2000-iu-120-caps-35144477524693_+68bd1b1247.png</picture>
         <picture>https://dsn.ua/content/images/21/vitamin-d3-2000-iu-120-caps-51349871402253_+c53bd935a8.png</picture>
@@ -275464,9 +275464,9 @@ Swanson Ultimate Women&amp;#39;s Intimate Performance &amp;ndash; это уди�
         <name lang="ru">Vitamin C 500 mg - 60 caps</name>
         <vendorCode>DSN_2024-11-1106</vendorCode>
         <vendor>My Nutri Week</vendor>
-        <categoryId>DSN_1357</categoryId>
+        <categoryId>DSN_1414</categoryId>
         <additionalCategories>
-          <id>1414</id>
+          <id>1357</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/22/vitamin-c-500-mg-60-caps-30139394969841_+266b605554.png</picture>
         <picture>https://dsn.ua/content/images/22/vitamin-c-500-mg-60-caps-71731912034159_+c16a61155f.png</picture>
@@ -275908,10 +275908,10 @@ Swanson Ultimate Women&amp;#39;s Intimate Performance &amp;ndash; это уди�
         <name lang="ru">L-Theanine 600 mg - 60 caps</name>
         <vendorCode>DSN_2024-11-1115</vendorCode>
         <vendor>My Nutri Week</vendor>
-        <categoryId>DSN_1378</categoryId>
+        <categoryId>DSN_1410</categoryId>
         <additionalCategories>
+          <id>1378</id>
           <id>1409</id>
-          <id>1410</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/29/l-theanine-600-mg-60-caps-95713016455088_+0e99da43b8.png</picture>
         <picture>https://dsn.ua/content/images/29/l-theanine-600-mg-60-caps-17914895660314_+793198ba59.png</picture>
@@ -278405,10 +278405,10 @@ Swanson Ultimate Women&amp;#39;s Intimate Performance &amp;ndash; это уди�
         <name lang="ru">Kids MAX Focus - 60 tabs</name>
         <vendorCode>DSN_2024-11-1146</vendorCode>
         <vendor>My Nutri Week</vendor>
-        <categoryId>DSN_1411</categoryId>
+        <categoryId>DSN_1394</categoryId>
         <additionalCategories>
-          <id>1394</id>
           <id>1421</id>
+          <id>1411</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/10/kids-max-focus-60-tabs-22585688760924_+32ac801ffd.png</picture>
         <picture>https://dsn.ua/content/images/10/kids-max-focus-60-tabs-83199139165542_+f54c70c7a5.png</picture>
@@ -279416,9 +279416,9 @@ MyProtein Weight Gainer Blend станет настоящей находкой �
         <name lang="ru">Collagold - 300g Melon Passion Fruit</name>
         <vendorCode>DSN_2024-11-1169</vendorCode>
         <vendor>Pure Gold</vendor>
-        <categoryId>DSN_1417</categoryId>
+        <categoryId>DSN_1387</categoryId>
         <additionalCategories>
-          <id>1387</id>
+          <id>1417</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/31/collagold-300g-melon-passion-fruit-34596839679954_+8cb5bc5c94.png</picture>
         <picture>https://dsn.ua/content/images/31/collagold-300g-melon-passion-fruit-20171335993509_+61bf1d04fc.png</picture>
@@ -279534,9 +279534,9 @@ MyProtein Weight Gainer Blend станет настоящей находкой �
         <name lang="ru">Collagold -12g Pina Colada</name>
         <vendorCode>DSN_2024-11-1171</vendorCode>
         <vendor>Pure Gold</vendor>
-        <categoryId>DSN_1387</categoryId>
+        <categoryId>DSN_1417</categoryId>
         <additionalCategories>
-          <id>1417</id>
+          <id>1387</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/33/collagold-12g-pina-colada-26170768238780_+22eec22901.png</picture>
         <picture>https://dsn.ua/content/images/33/collagold-12g-pina-colada-54489039382683_+2bc1f96717.png</picture>
@@ -282142,9 +282142,9 @@ BioPerine&amp;reg; - 10 мг&lt;/p&gt;
         <name lang="ru">Ultimate Omega - 180 softgels</name>
         <vendorCode>DSN_2024-11-1311</vendorCode>
         <vendor>Nordic Naturals</vendor>
-        <categoryId>DSN_1408</categoryId>
+        <categoryId>DSN_1373</categoryId>
         <additionalCategories>
-          <id>1373</id>
+          <id>1408</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/44/ultimate-omega-180-softgels-34587814505567_+5f6529db1d.jpg</picture>
         <picture>https://dsn.ua/content/images/44/ultimate-omega-180-softgels-77908495616804_+fc4ec441dc.jpg</picture>
