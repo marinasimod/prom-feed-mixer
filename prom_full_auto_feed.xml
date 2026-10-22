@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-21 22:50"><shop><categories><category id="DSN_1175">Розпродаж</category>
+<yml_catalog date="2026-10-22 02:09"><shop><categories><category id="DSN_1175">Розпродаж</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
       <category id="DSN_1331" parentId="DSN_1110">American Health</category>
@@ -1847,13 +1847,19 @@
         <vendor>Myprotein</vendor>
         <categoryId>DSN_1378</categoryId>
         <additionalCategories>
-          <id>1479</id>
           <id>1403</id>
+          <id>1479</id>
         </additionalCategories>
-        <picture>https://dsn.ua/content/images/32/43800351760045_+78904897e0.jpg</picture>
-        <picture>https://dsn.ua/content/images/32/myproteinl-carnitine-90-tabs-97504406979073_+a85442c0b6.png</picture>
-        <description lang="ua">&lt;p&gt;Штрихкод: 5055534304693&lt;/p&gt; &lt;p&gt;L-карнітин - це амінокислота, яка природно міститься в організмі і утворюється з амінокислот лізину і метіоніну. Наші високоміцні таблетки l-карнітину містять 1000 мг на порцію, що дуже зручно та ефективно збільшує споживання амінокислот. Крім того, вони підходять для вегетаріанців та веганів, що робить їх ідеальною амінокислотною добавкою для всіх, хто дотримується рослинної дієти. Якою б не була ваша мета у фітнесі, ці таблетки l-карнітину були розроблені, щоб допомогти вам навіть у найважчих тренуваннях, а також підтримати збалансовану дієту. 1000 мг L-карнітину Синтезується в печінці Високий рівень в тканинах, які використовують жирні кислоти як енергія L-карнітин - це амінокислота, що природно міститься в білку, яка допомагає рости і підтримувати м&amp;#39;язову масу - це важливо, оскільки ви прагнете до прогресу, Якою б не була ваша мета. Наші таблетки L-карнітину також відмінно підходять для веганів та вегетаріанців, оскільки карнітин зазвичай міститься в червоному м&amp;#39;ясі, а це означає, що його важко отримати лише з рослинної дієти. Кількість на порцію 2 таблетки: L Карнітин: 1000 мг&lt;/p&gt;</description>
-        <description lang="ru">&lt;p&gt;Штрихкод: 5055534304693&lt;/p&gt; &lt;p&gt;L-карнитин - это аминокислота, которая естественным образом содержится в организме и образуется из аминокислот лизина и метионина. Наши высокопрочные таблетки l-карнитина содержат 1000 мг на порцию, что очень удобно и эффективно увеличивает потребление аминокислот.Кроме того, они подходят для вегетарианцев и веганов, что делает их идеальной аминокислотной добавкой для всех, кто придерживается растительной диеты. Какой бы ни была ваша цель в фитнесе, эти таблетки l-карнитина были разработаны, чтобы помочь вам даже в самых тяжелых тренировках, а также поддержать сбалансированную диету. 1000 мг L-карнитина Синтезируется в печени Высокий уровень в тканях, которые используют жирные кислоты в качестве энергии L-карнитин - это аминокислота, естественным образом содержащаяся в белке, которая помогает расти и поддерживать мышечную массу - это важно, поскольку вы стремитесь к прогрессу, какой бы ни была ваша цель.Наши таблетки L-карнитина также отлично подходят для веганов и вегетарианцев, поскольку карнитин обычно содержится в красном мясе, а это означает, что его трудно получить только из растительной диеты. Количество на порцию 2 таблеток: L Карнитин: 1000 мг&lt;/p&gt;</description>
+        <picture>https://dsn.ua/content/images/32/myproteinl-carnitine-90-tabs-62661263387240_+8641324c57.jpg</picture>
+        <picture>https://dsn.ua/content/images/32/myproteinl-carnitine-90-tabs-11202986507875_+1a02e983cd.jpg</picture>
+        <description lang="ua">&lt;p&gt;Штрихкод: 5055534304693&lt;/p&gt;
+
+&lt;p&gt;L-карнітин - це амінокислота, яка природно міститься в організмі і утворюється з амінокислот лізину і метіоніну. Наші високоміцні таблетки l-карнітину містять 1000 мг на порцію, що дуже зручно та ефективно збільшує споживання амінокислот. Крім того, вони підходять для вегетаріанців та веганів, що робить їх ідеальною амінокислотною добавкою для всіх, хто дотримується рослинної дієти. Якою б не була ваша мета у фітнесі, ці таблетки l-карнітину були розроблені, щоб допомогти вам навіть у найважчих тренуваннях, а також підтримати збалансовану дієту. 1000 мг L-карнітину Синтезується в печінці Високий рівень в тканинах, які використовують жирні кислоти як енергія L-карнітин - це амінокислота, що природно міститься в білку, яка допомагає рости і підтримувати м&amp;#39;язову масу - це важливо, оскільки ви прагнете до прогресу, Якою б не була ваша мета. Наші таблетки L-карнітину також відмінно підходять для веганів та вегетаріанців, оскільки карнітин зазвичай міститься в червоному м&amp;#39;ясі, а це означає, що його важко отримати лише з рослинної дієти. Кількість на порцію 2 таблетки: L Карнітин: 1000 мг&lt;/p&gt;
+</description>
+        <description lang="ru">&lt;p&gt;Штрихкод: 5055534304693&lt;/p&gt;
+
+&lt;p&gt;L-карнитин - это аминокислота, которая естественным образом содержится в организме и образуется из аминокислот лизина и метионина. Наши высокопрочные таблетки l-карнитина содержат 1000 мг на порцию, что очень удобно и эффективно увеличивает потребление аминокислот.Кроме того, они подходят для вегетарианцев и веганов, что делает их идеальной аминокислотной добавкой для всех, кто придерживается растительной диеты. Какой бы ни была ваша цель в фитнесе, эти таблетки l-карнитина были разработаны, чтобы помочь вам даже в самых тяжелых тренировках, а также поддержать сбалансированную диету. 1000 мг L-карнитина Синтезируется в печени Высокий уровень в тканях, которые используют жирные кислоты в качестве энергии L-карнитин - это аминокислота, естественным образом содержащаяся в белке, которая помогает расти и поддерживать мышечную массу - это важно, поскольку вы стремитесь к прогрессу, какой бы ни была ваша цель.Наши таблетки L-карнитина также отлично подходят для веганов и вегетарианцев, поскольку карнитин обычно содержится в красном мясе, а это означает, что его трудно получить только из растительной диеты. Количество на порцию 2 таблеток: L Карнитин: 1000 мг&lt;/p&gt;
+</description>
         <param name="Тип" key="tip" id="24" lang="ua">L-карнітин</param>
         <param name="Тип" key="tip" id="24" lang="ru">L-карнитин</param>
         <param name="Країна виробник" key="virobnik" id="2" lang="ua">Польща</param>
@@ -10492,7 +10498,7 @@ FITPLAN NUT MIX &amp;ndash; это натуральный источник по�
       <offer id="DSN_6729" available="true">
         <price>584.22</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>611</quantity_in_stock>
+        <quantity_in_stock>605</quantity_in_stock>
         <name lang="ua">Ultra Man™ 50 Plus - 60 Caplets</name>
         <name lang="ru">Ultra Man™ 50 Plus - 60 Caplets</name>
         <vendorCode>DSN_100-41-2969026-20</vendorCode>
@@ -22508,7 +22514,7 @@ L-валин - 1125 мг&lt;br /&gt;
       <offer id="DSN_8944" available="true">
         <price>191.56</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>798</quantity_in_stock>
+        <quantity_in_stock>774</quantity_in_stock>
         <name lang="ua">Zinc Picolinate 22 mg - 60 caps</name>
         <name lang="ru">Zinc Picolinate 22 mg - 60 caps</name>
         <vendorCode>DSN_100-98-2790940-20</vendorCode>
@@ -24065,13 +24071,13 @@ Swanson DHEA является предшественником эстроген�
         <vendorCode>DSN_100-50-6275531-20</vendorCode>
         <old_offer_id>9206</old_offer_id>
         <vendor>Swanson</vendor>
-        <categoryId>DSN_1420</categoryId>
+        <categoryId>DSN_1458</categoryId>
         <additionalCategories>
-          <id>1458</id>
           <id>1382</id>
           <id>1381</id>
           <id>1465</id>
           <id>1418</id>
+          <id>1420</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/7/swansonmaca-500mg-60caps-19832683551186_+624faa5c8c.jpg</picture>
         <picture>https://dsn.ua/content/images/7/swansonmaca-500mg-60caps-24999910716315_+4dbab17bf3.jpg</picture>
@@ -39385,7 +39391,7 @@ GMP &amp;ndash; гарантированное качество&lt;br /&gt;
       <offer id="DSN_100-18-6164047-20" available="true">
         <price>1110.66</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>176</quantity_in_stock>
+        <quantity_in_stock>164</quantity_in_stock>
         <name lang="ua">Ultra Man Max - 90caps</name>
         <name lang="ru">Ultra Man Max - 90caps</name>
         <vendorCode>DSN_100-18-6164047-20</vendorCode>
@@ -42782,7 +42788,7 @@ Swanson Liver Essentials обеспечивает прочную основу д
       <offer id="DSN_13362" available="true">
         <price>119.21</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>723</quantity_in_stock>
+        <quantity_in_stock>724</quantity_in_stock>
         <name lang="ua">Vitamin B-12 500mcg - 30caps</name>
         <name lang="ru">Vitamin B-12 500mcg - 30caps</name>
         <vendorCode>DSN_100-16-6846253-20</vendorCode>
@@ -53746,10 +53752,10 @@ L-метионин Swanson содержит одну из девяти неза�
         <param name="Тип" key="tip" id="189" lang="ua">L-метіонін</param>
         <param name="Тип" key="tip" id="189" lang="ru">L-метионин</param>
       </offer>
-      <offer id="DSN_18160" available="true">
+      <offer id="DSN_18160" available="false">
         <price>487.31</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Calcium Citrate Plus Magnesium - 150caps</name>
         <name lang="ru">Calcium Citrate Plus Magnesium - 150caps</name>
         <vendorCode>DSN_100-39-7183900-20</vendorCode>
@@ -56340,7 +56346,7 @@ MK‑7 обладает высокой биодоступностью и дли�
       <offer id="DSN_18345" available="true">
         <price>717.54</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1216</quantity_in_stock>
+        <quantity_in_stock>1217</quantity_in_stock>
         <name lang="ua">BIOTIN 10mg (10,000mcg) - 120 vcaps</name>
         <name lang="ru">BIOTIN 10mg (10,000mcg) - 120 vcaps</name>
         <vendorCode>DSN_2022-10-0007</vendorCode>
@@ -57984,9 +57990,9 @@ Ferrochel&amp;reg; обеспечивает высокую биодоступн�
         <vendorCode>DSN_2022-10-0053</vendorCode>
         <old_offer_id>18393</old_offer_id>
         <vendor>Now Foods</vendor>
-        <categoryId>DSN_1373</categoryId>
+        <categoryId>DSN_1408</categoryId>
         <additionalCategories>
-          <id>1408</id>
+          <id>1373</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/44/now-foodsomega-3-1000mg-100-sgels-48525835485395_+545224fcbe.jpg</picture>
         <picture>https://dsn.ua/content/images/44/65791065852085_+123720d6a3.jpg</picture>
@@ -61644,7 +61650,7 @@ CREATINE MUSCLE MAX - Эффекты!&lt;br /&gt;
       <offer id="DSN_21843" available="true">
         <price>767.34</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>346</quantity_in_stock>
+        <quantity_in_stock>322</quantity_in_stock>
         <name lang="ua">Ultra Women Multivitamin Formula - 90 caps</name>
         <name lang="ru">Ultra Women Multivitamin Formula - 90 caps</name>
         <vendorCode>DSN_2022-10-0275</vendorCode>
@@ -61696,7 +61702,7 @@ Ultra Women&amp;#39;s Sport наполнен дополнительными пи
       <offer id="DSN_21844" available="true">
         <price>767.34</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>438</quantity_in_stock>
+        <quantity_in_stock>414</quantity_in_stock>
         <name lang="ua">Multivitamin Ultra Men's Sport - 90 caps</name>
         <name lang="ru">Multivitamin Ultra Men's Sport - 90 caps</name>
         <vendorCode>DSN_2022-10-0276</vendorCode>
@@ -70427,8 +70433,8 @@ Orchard Fruits&amp;trade; и Garden Veggies&amp;trade;&lt;br /&gt;
         <vendor>Nature's Way</vendor>
         <categoryId>DSN_1404</categoryId>
         <additionalCategories>
-          <id>1405</id>
           <id>1381</id>
+          <id>1405</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/5/natures-wayneem-leaf-100-vcaps-57093915100822_+656fdb6507.jpg</picture>
         <picture>https://dsn.ua/content/images/5/natures-wayneem-leaf-100-vcaps-95883924411831_+ea1c66c570.jpg</picture>
@@ -70488,9 +70494,9 @@ Orchard Fruits&amp;trade; и Garden Veggies&amp;trade;&lt;br /&gt;
         <vendorCode>DSN_2022-10-0607</vendorCode>
         <old_offer_id>22455</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1381</categoryId>
+        <categoryId>DSN_1405</categoryId>
         <additionalCategories>
-          <id>1405</id>
+          <id>1381</id>
           <id>1414</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/6/natures-waypau-darco-inner-bark-100-vcaps-25616756120558_+4edc4822d8.jpg</picture>
@@ -79926,10 +79932,10 @@ Take 3 capsules twice daily, preferably with food.&lt;/p&gt; &lt;p&gt;Інші �
         <vendorCode>DSN_2022-10-1077</vendorCode>
         <old_offer_id>23594</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1409</categoryId>
+        <categoryId>DSN_1349</categoryId>
         <additionalCategories>
+          <id>1409</id>
           <id>1411</id>
-          <id>1349</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/45/choline-500-mg-100-tabs-29910587341851_+f900c2fbbd.jpg</picture>
         <picture>https://dsn.ua/content/images/45/choline-500-mg-100-tabs-33534323607949_+a60ebb2fcc.jpg</picture>
@@ -80194,10 +80200,10 @@ Take 3 capsules twice daily, preferably with food.&lt;/p&gt; &lt;p&gt;Інші �
         <vendorCode>DSN_2022-10-1086</vendorCode>
         <old_offer_id>23603</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1382</categoryId>
+        <categoryId>DSN_1468</categoryId>
         <additionalCategories>
+          <id>1382</id>
           <id>1401</id>
-          <id>1468</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/4/kelp-180-vcaps-82451598540286_+0e3097dfb1.jpg</picture>
         <picture>https://dsn.ua/content/images/4/kelp-180-vcaps-77680133275812_+2804890ed6.jpg</picture>
@@ -81725,10 +81731,10 @@ The Smarter Probiotic&amp;trade;&lt;br /&gt;
         <vendorCode>DSN_2022-10-1115</vendorCode>
         <old_offer_id>23632</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1418</categoryId>
+        <categoryId>DSN_1381</categoryId>
         <additionalCategories>
+          <id>1418</id>
           <id>1399</id>
-          <id>1381</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/33/wild-yam-180-vcaps-14668103836146_+0b5019311a.jpg</picture>
         <picture>https://dsn.ua/content/images/33/wild-yam-180-vcaps-62133537364868_+fdcdf0462f.jpg</picture>
@@ -103791,10 +103797,10 @@ Solgar Lipotropic Factors сертифицированный KOF-K Kosher, пр�
         <vendorCode>DSN_2022-10-1550</vendorCode>
         <old_offer_id>25845</old_offer_id>
         <vendor>Solgar</vendor>
-        <categoryId>DSN_1416</categoryId>
+        <categoryId>DSN_1358</categoryId>
         <additionalCategories>
-          <id>1358</id>
           <id>1414</id>
+          <id>1416</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/46/vit-d-1000iu-100sfg-72713526246342_+c94019a17b.jpg</picture>
         <picture>https://dsn.ua/content/images/46/vit-d-1000iu-100sfg-39838888376374_+2eec42bee7.png</picture>
@@ -103836,7 +103842,7 @@ Solgar Lipotropic Factors сертифицированный KOF-K Kosher, пр�
       <offer id="DSN_25846" available="true">
         <price>470.93</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>62</quantity_in_stock>
+        <quantity_in_stock>63</quantity_in_stock>
         <name lang="ua">Vitamin E 67mg (100 IU) Mixed - 100 softgels</name>
         <name lang="ru">Vitamin E 67mg (100 IU) Mixed - 100 softgels</name>
         <vendorCode>DSN_2022-10-1551</vendorCode>
@@ -105580,9 +105586,9 @@ Prebiotic Bifido Boost&amp;trade; Powder &amp;ndash; это усовершенс
         <vendorCode>DSN_2022-10-1716</vendorCode>
         <old_offer_id>26014</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1393</categoryId>
+        <categoryId>DSN_1420</categoryId>
         <additionalCategories>
-          <id>1420</id>
+          <id>1393</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/15/mens-energy-130-tabs-69638668324175_+a1acc16cd5.jpg</picture>
         <picture>https://dsn.ua/content/images/15/mens-energy-130-tabs-51512002373618_+33a4c8e361.jpg</picture>
@@ -109846,7 +109852,7 @@ TMG (также известный как глицин-бетаин) спосо�
       <offer id="DSN_26324" available="true">
         <price>547.37</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>682</quantity_in_stock>
+        <quantity_in_stock>676</quantity_in_stock>
         <name lang="ua">BioActive Complete B-Complex - 60 vcaps</name>
         <name lang="ru">BioActive Complete B-Complex - 60 vcaps</name>
         <vendorCode>DSN_2022-10-1930</vendorCode>
@@ -109994,7 +110000,7 @@ D-лимонен &amp;ndash; это соединение, содержащеес
       <offer id="DSN_26333" available="true">
         <price>899.08</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>429</quantity_in_stock>
+        <quantity_in_stock>423</quantity_in_stock>
         <name lang="ua">Super Omega-3 EPA/DHA Fish Oil Sesame Lignans &amp; Olive Extract	- 60 softgels</name>
         <name lang="ru">Super Omega-3 EPA/DHA Fish Oil Sesame Lignans &amp; Olive Extract	- 60 softgels</name>
         <vendorCode>DSN_2022-10-1939</vendorCode>
@@ -116237,7 +116243,7 @@ ALLNUTRITION HEALTH &amp; CARE LIPOMAX-C &amp;ndash; это еще одна ст
       <offer id="DSN_26850" available="true">
         <price>435.89</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>666</quantity_in_stock>
+        <quantity_in_stock>667</quantity_in_stock>
         <name lang="ua">Ultra-Mag Magnesium Complex - 60 tabs</name>
         <name lang="ru">Ultra-Mag Magnesium Complex - 60 tabs</name>
         <vendorCode>DSN_2023-10-2353</vendorCode>
@@ -117174,7 +117180,7 @@ I, II, III, IV, V, X &amp;ndash; типы природного коллаген�
       <offer id="DSN_26881" available="true">
         <price>615.16</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>322</quantity_in_stock>
+        <quantity_in_stock>310</quantity_in_stock>
         <name lang="ua">Vitamin B-Complex 100 - 50 vcaps</name>
         <name lang="ru">Vitamin B-Complex 100 - 50 vcaps</name>
         <vendorCode>DSN_2023-10-2384</vendorCode>
@@ -122360,10 +122366,10 @@ L-лизин &amp;ndash; это незаменимая аминокислота 
         <vendorCode>DSN_2023-10-2677</vendorCode>
         <old_offer_id>27321</old_offer_id>
         <vendor>Source Naturals</vendor>
-        <categoryId>DSN_1409</categoryId>
+        <categoryId>DSN_1412</categoryId>
         <additionalCategories>
-          <id>1412</id>
           <id>1365</id>
+          <id>1409</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/22/magnesium-malate-1250mg-90-tabs-86668042148479_+e9378c46c4.jpg</picture>
         <picture>https://dsn.ua/content/images/22/magnesium-malate-1250mg-90-tabs-55750627107148_+6b4fc3e587.jpg</picture>
@@ -134577,10 +134583,10 @@ Nutrex Lipo-6 Black Ultra Concentrate настолько силен, что ва
         <vendorCode>DSN_100-65-3295022-20</vendorCode>
         <old_offer_id>28271</old_offer_id>
         <vendor>Swanson</vendor>
-        <categoryId>DSN_1382</categoryId>
+        <categoryId>DSN_1414</categoryId>
         <additionalCategories>
+          <id>1382</id>
           <id>1471</id>
-          <id>1414</id>
           <id>1404</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/22/certified-organic-spirulina-500mg-180-tabs-78751291914087_+6fe8c84340.jpg</picture>
@@ -139274,13 +139280,13 @@ FiberMend сочетает Sunfiber&amp;reg; &amp;ndash; частично гид
         <vendorCode>DSN_2023-10-3657</vendorCode>
         <old_offer_id>28716</old_offer_id>
         <vendor>Thorne</vendor>
-        <categoryId>DSN_1403</categoryId>
+        <categoryId>DSN_1381</categoryId>
         <additionalCategories>
-          <id>1381</id>
           <id>1460</id>
           <id>1406</id>
           <id>1407</id>
           <id>1399</id>
+          <id>1403</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/17/berberine-60-caps-83103707776746_+855e285820.jpg</picture>
         <picture>https://dsn.ua/content/images/17/berberine-60-caps-99025544870936_+5df6c7fa29.jpg</picture>
@@ -143825,10 +143831,10 @@ Cholesterol Pro&amp;trade; &amp;mdash; комбинация двух уника�
         <vendorCode>DSN_2023-10-3814</vendorCode>
         <old_offer_id>28882</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1405</categoryId>
+        <categoryId>DSN_1359</categoryId>
         <additionalCategories>
+          <id>1405</id>
           <id>1408</id>
-          <id>1359</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/33/25633837735650_+d71b15ac3f.jpg</picture>
         <picture>https://dsn.ua/content/images/33/mixed-vitamin-e-134-mg-200-iu-90-softgels-87355421530510_+eb72449f65.jpg</picture>
@@ -144602,10 +144608,10 @@ NAC (N-ацетил-L-цистеин) &amp;ndash; это высокостаби�
         <vendorCode>DSN_2023-10-3834</vendorCode>
         <old_offer_id>28902</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1381</categoryId>
+        <categoryId>DSN_1458</categoryId>
         <additionalCategories>
+          <id>1381</id>
           <id>1399</id>
-          <id>1458</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/3/47168145070438_+b628c3facd.jpg</picture>
         <picture>https://dsn.ua/content/images/3/dgl-400mg-90-tabs-25503591908934_+0bf663ca9f.jpg</picture>
@@ -159155,7 +159161,7 @@ Source Naturals NightRest Melatonin сочетает мощное действи
       <offer id="DSN_29782" available="true">
         <price>903.42</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>57</quantity_in_stock>
+        <quantity_in_stock>58</quantity_in_stock>
         <name lang="ua">Diet Chitosan™ 500 mg - 120 caps</name>
         <name lang="ru">Diet Chitosan™ 500 mg - 120 caps</name>
         <vendorCode>DSN_2023-10-4619</vendorCode>
@@ -164277,28 +164283,70 @@ NK-клетки: Ваша первая линия обороны&lt;/p&gt; &lt;p
         <categoryId>DSN_1405</categoryId>
         <picture>https://dsn.ua/content/images/43/soy-isoflavones-30-vcaps-79286472554267_+f37b42b473.jpg</picture>
         <picture>https://dsn.ua/content/images/43/soy-isoflavones-30-vcaps-89713817659684_+bba7c0842a.jpg</picture>
-        <description lang="ua">&lt;p&gt;Штрихкод: 737870164968&lt;/p&gt; &lt;p&gt;Підтримує здорові клітинні колонії&lt;br /&gt;
+        <description lang="ua">&lt;p&gt;Штрихкод: 737870164968&lt;/p&gt;
+
+&lt;p&gt;Підтримує здорові клітинні колонії&lt;br /&gt;
 Містить NovaSoy&lt;br /&gt;
 Без ГМО: сертифікат Non GMO LE Certified&lt;br /&gt;
 Дієтична добавка&lt;br /&gt;
-Соєві ізофлавони з високим ступенем засвоєння&lt;/p&gt; &lt;p&gt;Сприятливий вплив споживання сої було показано в численних опублікованих дослідженнях. Ізофлавони сої та їхні побічні продукти продемонстрували широкий спектр переваг для організму. Зокрема, вони підтримують здоров&amp;rsquo;я серцево-судинної системи і кісток, запобігають цереброваскулярним хворобам, сприяють здоровому метаболізму, збалансованій гормональній активності та здоровому діленню клітин.&lt;/p&gt; &lt;p&gt;Соя містить три основні ізофлавони: геністеїн, даїдзеїн і гліцитеїн. Ізофлавони сої іноді називають фітоестрогенами через їх структурну схожість із людським естрогеном 17-бета-естрадіолом. Соєві ізофлавони та їхні побічні продукти, що утворюються внаслідок бактеріального бродіння в шлунково-кишковому тракті, можуть спричиняти естрогенні або антиестрогенні ефекти в залежності від тканини та типу рецептора, на який вони діють. Вони також можуть чинити негормональну дію, зокрема передавати сигнали та виявляти антиоксидантну активність. Ряд рандомізованих контрольованих досліджень показав, що ізофлавони сої підтримують здоров&amp;rsquo;я кісток після менопаузи без прояву побічних ефектів.&lt;/p&gt; &lt;p&gt;Інші складові сої також продемонстрували властивості, які допомагають пояснити стан здоров&amp;rsquo;я та довголіття азійського населення, наприклад, жителів Окінави, чий традиційний раціон містить велику кількість сої.&lt;/p&gt; &lt;p&gt;Враховуючи численні докази того, що інші складові сої можуть позитивно впливати на організм, була розроблена рецептура, що містить екстракт сої, стандартизований до ізофлавонів, та ферментовану соєву їжу (натто), що може забезпечити додаткові переваги.&lt;/p&gt; &lt;p&gt;Мікробна ферментація, яка є основною для виробництва натто, підвищує біодоступність ізофлавонів та інших поживних речовин. Одної капсули соєвих ізофлавонів з високим ступенем поглинання достатньо для забезпечення необхідної кількості геністеїну, даїдзеїну та інших поживних речовин. Soynatto&amp;reg;, що використовується в цій добавці, виробляється шляхом дріжджового бродіння сої, яка не містить ГМО. Японські дослідники виявили, що побічні продукти, які утворюються під час такого дріжджового бродіння, підтримують нормальний артеріальний тиск, який вже знаходиться вже в межах норми, зберігають молодість серцево-судинної системи, позитивно впливають на нормальне функціонування та размноження клітин.&lt;/p&gt; &lt;p&gt;Типовий склад ізофлавонів сої&lt;br /&gt;
+Соєві ізофлавони з високим ступенем засвоєння&lt;/p&gt;
+
+&lt;p&gt;Сприятливий вплив споживання сої було показано в численних опублікованих дослідженнях. Ізофлавони сої та їхні побічні продукти продемонстрували широкий спектр переваг для організму. Зокрема, вони підтримують здоров&amp;rsquo;я серцево-судинної системи і кісток, запобігають цереброваскулярним хворобам, сприяють здоровому метаболізму, збалансованій гормональній активності та здоровому діленню клітин.&lt;/p&gt;
+
+&lt;p&gt;Соя містить три основні ізофлавони: геністеїн, даїдзеїн і гліцитеїн. Ізофлавони сої іноді називають фітоестрогенами через їх структурну схожість із людським естрогеном 17-бета-естрадіолом. Соєві ізофлавони та їхні побічні продукти, що утворюються внаслідок бактеріального бродіння в шлунково-кишковому тракті, можуть спричиняти естрогенні або антиестрогенні ефекти в залежності від тканини та типу рецептора, на який вони діють. Вони також можуть чинити негормональну дію, зокрема передавати сигнали та виявляти антиоксидантну активність. Ряд рандомізованих контрольованих досліджень показав, що ізофлавони сої підтримують здоров&amp;rsquo;я кісток після менопаузи без прояву побічних ефектів.&lt;/p&gt;
+
+&lt;p&gt;Інші складові сої також продемонстрували властивості, які допомагають пояснити стан здоров&amp;rsquo;я та довголіття азійського населення, наприклад, жителів Окінави, чий традиційний раціон містить велику кількість сої.&lt;/p&gt;
+
+&lt;p&gt;Враховуючи численні докази того, що інші складові сої можуть позитивно впливати на організм, була розроблена рецептура, що містить екстракт сої, стандартизований до ізофлавонів, та ферментовану соєву їжу (натто), що може забезпечити додаткові переваги.&lt;/p&gt;
+
+&lt;p&gt;Мікробна ферментація, яка є основною для виробництва натто, підвищує біодоступність ізофлавонів та інших поживних речовин. Одної капсули соєвих ізофлавонів з високим ступенем поглинання достатньо для забезпечення необхідної кількості геністеїну, даїдзеїну та інших поживних речовин. Soynatto&amp;reg;, що використовується в цій добавці, виробляється шляхом дріжджового бродіння сої, яка не містить ГМО. Японські дослідники виявили, що побічні продукти, які утворюються під час такого дріжджового бродіння, підтримують нормальний артеріальний тиск, який вже знаходиться вже в межах норми, зберігають молодість серцево-судинної системи, позитивно впливають на нормальне функціонування та размноження клітин.&lt;/p&gt;
+
+&lt;p&gt;Типовий склад ізофлавонів сої&lt;br /&gt;
 Геністеїн і його попередник ізоформи геністін &amp;mdash; 28 мг&lt;br /&gt;
 Даїдзеїн і його попередник ізоформи даїдзин &amp;mdash; 22 мг&lt;br /&gt;
 Гліцитеїн і його попередник ізоформи гліцитин &amp;mdash; 4 мг&lt;br /&gt;
 Рекомендації із застосування&lt;br /&gt;
-Перед використанням уважно прочитайте всю інформацію на етикетці й суворо дотримуйтесь інструкцій.&lt;/p&gt; &lt;p&gt;Приймати по одній (1) капсулі раз чи двічі на день під час їди або згідно з рекомендаціями лікаря.&lt;/p&gt; &lt;p&gt;Інші інгредієнти&lt;br /&gt;
-Рослинна целюлоза (капсула), діоксид кремнію, аскорбіл пальмітат.&lt;/p&gt; &lt;p&gt;Містить сою.&lt;/p&gt;</description>
-        <description lang="ru">&lt;p&gt;Штрихкод: 737870164968&lt;/p&gt; &lt;p&gt;Поддерживает здоровые клеточные колонии&lt;br /&gt;
+Перед використанням уважно прочитайте всю інформацію на етикетці й суворо дотримуйтесь інструкцій.&lt;/p&gt;
+
+&lt;p&gt;Приймати по одній (1) капсулі раз чи двічі на день під час їди або згідно з рекомендаціями лікаря.&lt;/p&gt;
+
+&lt;p&gt;Інші інгредієнти&lt;br /&gt;
+Рослинна целюлоза (капсула), діоксид кремнію, аскорбіл пальмітат.&lt;/p&gt;
+
+&lt;p&gt;Містить сою.&lt;/p&gt;
+</description>
+        <description lang="ru">&lt;p&gt;Штрихкод: 737870164968&lt;/p&gt;
+
+&lt;p&gt;Поддерживает здоровые клеточные колонии&lt;br /&gt;
 Содержит NovaSoy&lt;br /&gt;
 Без ГМО: сертификат Non GMO LE Certified&lt;br /&gt;
 Диетическая добавка&lt;br /&gt;
-Соевые изофлавоны с высокой степенью усвоения&lt;/p&gt; &lt;p&gt;Благоприятное влияние на потребление сои было показано в многочисленных опубликованных исследованиях. Изофлавоны сои и их побочные продукты показали широкий спектр преимуществ для организма. В частности, они поддерживают здоровье сердечно-сосудистой системы и костей, предотвращают цереброваскулярные болезни, способствуют здоровому метаболизму, сбалансированной гормональной активности и здоровому делению клеток.&lt;/p&gt; &lt;p&gt;Соя содержит три основных изофлавона: генистеин, даидзеин и глицитеин. Изофлавоны сои иногда называют фитоэстрогенами из-за их структурного сходства с человеческим эстрогеном 17-бета-эстрадиолом. Соевые изофлавоны и их побочные продукты, образующиеся в результате бактериального брожения в желудочно-кишечном тракте, могут вызывать эстрогенные или антиэстрогенные эффекты в зависимости от ткани и типа рецептора, на который они действуют. Они также могут оказывать негормональное действие, в частности, передавать сигналы и проявлять антиоксидантную активность. Ряд рандомизированных контролируемых исследований показал, что изофлавоны сои поддерживают здоровье костей после менопаузы без побочных эффектов.&lt;/p&gt; &lt;p&gt;Другие составляющие сои также продемонстрировали свойства, помогающие объяснить состояние здоровья и долголетия азиатского населения, например жителей Окинавы, чей традиционный рацион содержит большое количество сои.&lt;/p&gt; &lt;p&gt;Учитывая многочисленные доказательства того, что другие составляющие сои могут оказывать положительное воздействие на организм, была разработана рецептура, содержащая экстракт сои, стандартизированный к изофлавонам, и ферментированную соевую пищу (натто), что может обеспечить дополнительные преимущества.&lt;/p&gt; &lt;p&gt;Микробная ферментация, основная для производства натто, повышает биодоступность изофлавонов и других питательных веществ. Одной капсулы соевых изофлавонов с высокой степенью поглощения достаточно для обеспечения необходимого количества генистеина, даидзеина и других питательных веществ. Soynatto&amp;reg;, используемый в этой добавке, производится путем дрожжевого брожения сои, не содержащей ГМО. Японские исследователи обнаружили, что побочные продукты, образующиеся во время такого дрожжевого брожения, поддерживают нормальное артериальное давление, уже находящееся уже в пределах нормы, сохраняют молодость сердечно-сосудистой системы, положительно влияют на нормальное функционирование и размножение клеток.&lt;/p&gt; &lt;p&gt;Типичный состав изофлавонов сои&lt;br /&gt;
+Соевые изофлавоны с высокой степенью усвоения&lt;/p&gt;
+
+&lt;p&gt;Благоприятное влияние на потребление сои было показано в многочисленных опубликованных исследованиях. Изофлавоны сои и их побочные продукты показали широкий спектр преимуществ для организма. В частности, они поддерживают здоровье сердечно-сосудистой системы и костей, предотвращают цереброваскулярные болезни, способствуют здоровому метаболизму, сбалансированной гормональной активности и здоровому делению клеток.&lt;/p&gt;
+
+&lt;p&gt;Соя содержит три основных изофлавона: генистеин, даидзеин и глицитеин. Изофлавоны сои иногда называют фитоэстрогенами из-за их структурного сходства с человеческим эстрогеном 17-бета-эстрадиолом. Соевые изофлавоны и их побочные продукты, образующиеся в результате бактериального брожения в желудочно-кишечном тракте, могут вызывать эстрогенные или антиэстрогенные эффекты в зависимости от ткани и типа рецептора, на который они действуют. Они также могут оказывать негормональное действие, в частности, передавать сигналы и проявлять антиоксидантную активность. Ряд рандомизированных контролируемых исследований показал, что изофлавоны сои поддерживают здоровье костей после менопаузы без побочных эффектов.&lt;/p&gt;
+
+&lt;p&gt;Другие составляющие сои также продемонстрировали свойства, помогающие объяснить состояние здоровья и долголетия азиатского населения, например жителей Окинавы, чей традиционный рацион содержит большое количество сои.&lt;/p&gt;
+
+&lt;p&gt;Учитывая многочисленные доказательства того, что другие составляющие сои могут оказывать положительное воздействие на организм, была разработана рецептура, содержащая экстракт сои, стандартизированный к изофлавонам, и ферментированную соевую пищу (натто), что может обеспечить дополнительные преимущества.&lt;/p&gt;
+
+&lt;p&gt;Микробная ферментация, основная для производства натто, повышает биодоступность изофлавонов и других питательных веществ. Одной капсулы соевых изофлавонов с высокой степенью поглощения достаточно для обеспечения необходимого количества генистеина, даидзеина и других питательных веществ. Soynatto&amp;reg;, используемый в этой добавке, производится путем дрожжевого брожения сои, не содержащей ГМО. Японские исследователи обнаружили, что побочные продукты, образующиеся во время такого дрожжевого брожения, поддерживают нормальное артериальное давление, уже находящееся уже в пределах нормы, сохраняют молодость сердечно-сосудистой системы, положительно влияют на нормальное функционирование и размножение клеток.&lt;/p&gt;
+
+&lt;p&gt;Типичный состав изофлавонов сои&lt;br /&gt;
 Генистин и его предшественник изоформы генистин - 28 мг&lt;br /&gt;
 Даидзеин и его предшественник изоформы даидзин - 22 мг&lt;br /&gt;
 Глицитеин и его предшественник изоформы глицитин &amp;ndash; 4 мг&lt;br /&gt;
 Рекомендации по применению&lt;br /&gt;
-Перед использованием внимательно прочтите всю информацию на этикетке и строго следуйте инструкциям.&lt;/p&gt; &lt;p&gt;Принимать по одной (1) капсуле раз или два раза в день во время еды или согласно рекомендациям врача.&lt;/p&gt; &lt;p&gt;Другие ингредиенты&lt;br /&gt;
-Растительная целлюлоза (капсула), диоксид кремния, аскорбил пальмитат.&lt;/p&gt; &lt;p&gt;Содержит сою.&lt;/p&gt;</description>
+Перед использованием внимательно прочтите всю информацию на этикетке и строго следуйте инструкциям.&lt;/p&gt;
+
+&lt;p&gt;Принимать по одной (1) капсуле раз или два раза в день во время еды или согласно рекомендациям врача.&lt;/p&gt;
+
+&lt;p&gt;Другие ингредиенты&lt;br /&gt;
+Растительная целлюлоза (капсула), диоксид кремния, аскорбил пальмитат.&lt;/p&gt;
+
+&lt;p&gt;Содержит сою.&lt;/p&gt;
+</description>
       </offer>
       <offer id="DSN_30093" available="false">
         <price>1266.72</price>
@@ -175955,11 +176003,11 @@ NMN является прекурсором NAD+, важного для подд
         <vendorCode>DSN_2022-10-1065</vendorCode>
         <old_offer_id>30800</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1458</categoryId>
+        <categoryId>DSN_1459</categoryId>
         <additionalCategories>
-          <id>1381</id>
-          <id>1459</id>
           <id>1409</id>
+          <id>1458</id>
+          <id>1381</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/1/ashwagandha-60-vcaps-17093912948089_+a68c0d08ef.jpg</picture>
         <picture>https://dsn.ua/content/images/1/ashwagandha-60-vcaps-54074437407565_+e72cce643d.jpg</picture>
@@ -176276,9 +176324,9 @@ NMN является прекурсором NAD+, важного для подд
         <vendorCode>DSN_2023-10-5747</vendorCode>
         <old_offer_id>30823</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1404</categoryId>
+        <categoryId>DSN_1400</categoryId>
         <additionalCategories>
-          <id>1400</id>
+          <id>1404</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/24/71118361335154_+eddd10ba9e.jpg</picture>
         <picture>https://dsn.ua/content/images/24/phosphatidyl-choline-pc-420mg-90-softgels-64051896103142_+e5a7dcebe8.jpg</picture>
@@ -182776,18 +182824,44 @@ ALLNUTRITION VITAMINALL VITAMINS &amp; MINERALS &amp;ndash; это компле�
         <old_offer_id>31282</old_offer_id>
         <vendor>Pure Gold</vendor>
         <categoryId>DSN_1425</categoryId>
-        <picture>https://dsn.ua/content/images/33/compact-whey-gold-1000g-vanilla-milkshakeid-42104132036919_+a4106873d0.jpg</picture>
+        <picture>https://dsn.ua/content/images/33/96694260588859_+7b44443b73.jpg</picture>
         <picture>https://dsn.ua/content/images/33/compact-whey-gold-1000g-vanilla-milkshakeid-36465178738715_+be7c5552f1.png</picture>
         <description lang="ua">&lt;p&gt;Вершковий, інтенсивний смак, ідеальне розчинення&lt;br /&gt;
 Додано травний фермент DigeZyme&amp;reg;&lt;br /&gt;
 З додаванням амінокислот&lt;br /&gt;
 Без аспартаму, без пальмової олії&lt;br /&gt;
-Рекомендоване дозування: одну порцію (32 г - одна мірна ложка) змішати з 250-300 мл води або нежирного або рослинного молока на ваш смак.&lt;/p&gt; &lt;p&gt;Інформація про алергени: виготовлено на заводі, який переробляє молоко, яйця, глютен, сою, арахіс, лісові горіхи, рибу та інгредієнти ракоподібних.&lt;/p&gt; &lt;p&gt;Вага нетто: 1000г&lt;/p&gt; &lt;p&gt;Інгредієнти (Шоколадний фундук): мікрофільтрований концентрат сироваткового білка (з молока, інстантизований соняшниковим лецитином), мікрофільтрований концентрат сироваткового білка (з молока, інстантизований соєвим лецитином), L-гліцин, сухе знежирене молоко, мальтодекстрин, какао-порошок зі зниженим вмістом жиру, ароматизатори (шоколадний смак, аромат лісового горіха), хлорид натрію, загущувач (ксантанова камедь), L-таурин, L-глутамін, підсолоджувачі (ацесульфам К, сукралоза), ферментний комплекс Digezyme&amp;reg; (альфа-амілаза, нейтральна) протеаза, целюлаза, лактаза, ліпаза)&lt;/p&gt; &lt;p&gt;Зберігає якість: до кінця місяця, зазначеного на упаковці (місяць/рік).&lt;/p&gt; &lt;p&gt;Зберігання: Зберігати продукт у місці, захищеному від сонячних променів та інших теплових впливів, при температурі від 6 до 26 &amp;deg;C і при відносній вологості повітря 65%!&lt;/p&gt; &lt;p&gt;Попередження: Зберігати в недоступному для маленьких дітей місці! Продукт не замінює змішане харчування та здоровий спосіб життя! Не перевищуйте рекомендовану добову норму споживання!&lt;/p&gt;</description>
+Рекомендоване дозування: одну порцію (32 г - одна мірна ложка) змішати з 250-300 мл води або нежирного або рослинного молока на ваш смак.&lt;/p&gt;
+
+&lt;p&gt;Інформація про алергени: виготовлено на заводі, який переробляє молоко, яйця, глютен, сою, арахіс, лісові горіхи, рибу та інгредієнти ракоподібних.&lt;/p&gt;
+
+&lt;p&gt;Вага нетто: 1000г&lt;/p&gt;
+
+&lt;p&gt;Інгредієнти (Шоколадний фундук): мікрофільтрований концентрат сироваткового білка (з молока, інстантизований соняшниковим лецитином), мікрофільтрований концентрат сироваткового білка (з молока, інстантизований соєвим лецитином), L-гліцин, сухе знежирене молоко, мальтодекстрин, какао-порошок зі зниженим вмістом жиру, ароматизатори (шоколадний смак, аромат лісового горіха), хлорид натрію, загущувач (ксантанова камедь), L-таурин, L-глутамін, підсолоджувачі (ацесульфам К, сукралоза), ферментний комплекс Digezyme&amp;reg; (альфа-амілаза, нейтральна) протеаза, целюлаза, лактаза, ліпаза)&lt;/p&gt;
+
+&lt;p&gt;Зберігає якість: до кінця місяця, зазначеного на упаковці (місяць/рік).&lt;/p&gt;
+
+&lt;p&gt;Зберігання: Зберігати продукт у місці, захищеному від сонячних променів та інших теплових впливів, при температурі від 6 до 26 &amp;deg;C і при відносній вологості повітря 65%!&lt;/p&gt;
+
+&lt;p&gt;Попередження: Зберігати в недоступному для маленьких дітей місці! Продукт не замінює змішане харчування та здоровий спосіб життя! Не перевищуйте рекомендовану добову норму споживання!&lt;/p&gt;
+</description>
         <description lang="ru">&lt;p&gt;Сливочный, интенсивный вкус, идеальное растворение&lt;br /&gt;
 Добавлен пищеварительный фермент DigeZyme&amp;reg;&lt;br /&gt;
 С добавлением аминокислот&lt;br /&gt;
 Без аспартама, без пальмового масла&lt;br /&gt;
-Рекомендуемая дозировка: одну порцию (32 г &amp;ndash; одна мерная ложка) смешать с 250-300 мл воды или нежирного или растительного молока по вашему вкусу.&lt;/p&gt; &lt;p&gt;Информация об аллергенах: изготовлена на заводе, который перерабатывает молоко, яйца, глютен, сою, арахис, лесные орехи, рыбу и ракообразные ингредиенты.&lt;/p&gt; &lt;p&gt;Вес нетто: 1000г&lt;/p&gt; &lt;p&gt;Ингредиенты (Шоколадный фундук): микрофильтрованный концентрат сывороточного белка (из молока, инстантизированный подсолнечным лецитином), микрофильтрованный концентрат сывороточного белка (из молока, инстантизированный соевым лецитином), L-глицин, сухое обезжиренное молоко, мальтодек. ароматизаторы (шоколадный вкус, аромат лесного ореха), хлорид натрия, загуститель (ксантановая камедь), L-таурин, L-глутамин, подсластители (ацесульфам К, сукралоза), ферментный комплекс Digezyme&amp;reg; (альфа-амилаза, нейтральная) протеаза, целлюлаза&lt;/p&gt; &lt;p&gt;Сохраняет качество: до конца месяца, указанного на упаковке (месяц/год).&lt;/p&gt; &lt;p&gt;Хранение: Хранить продукт в месте, защищенном от солнечных лучей и других тепловых воздействий, при температуре от 6 до 26 &amp;deg;C и относительной влажности воздуха 65%!&lt;/p&gt; &lt;p&gt;Предупреждение: Хранить в недоступном для детей месте! Продукт не заменяет смешанное питание и здоровый образ жизни! Не превышайте рекомендуемую норму потребления!&lt;/p&gt;</description>
+Рекомендуемая дозировка: одну порцию (32 г &amp;ndash; одна мерная ложка) смешать с 250-300 мл воды или нежирного или растительного молока по вашему вкусу.&lt;/p&gt;
+
+&lt;p&gt;Информация об аллергенах: изготовлена на заводе, который перерабатывает молоко, яйца, глютен, сою, арахис, лесные орехи, рыбу и ракообразные ингредиенты.&lt;/p&gt;
+
+&lt;p&gt;Вес нетто: 1000г&lt;/p&gt;
+
+&lt;p&gt;Ингредиенты (Шоколадный фундук): микрофильтрованный концентрат сывороточного белка (из молока, инстантизированный подсолнечным лецитином), микрофильтрованный концентрат сывороточного белка (из молока, инстантизированный соевым лецитином), L-глицин, сухое обезжиренное молоко, мальтодек. ароматизаторы (шоколадный вкус, аромат лесного ореха), хлорид натрия, загуститель (ксантановая камедь), L-таурин, L-глутамин, подсластители (ацесульфам К, сукралоза), ферментный комплекс Digezyme&amp;reg; (альфа-амилаза, нейтральная) протеаза, целлюлаза&lt;/p&gt;
+
+&lt;p&gt;Сохраняет качество: до конца месяца, указанного на упаковке (месяц/год).&lt;/p&gt;
+
+&lt;p&gt;Хранение: Хранить продукт в месте, защищенном от солнечных лучей и других тепловых воздействий, при температуре от 6 до 26 &amp;deg;C и относительной влажности воздуха 65%!&lt;/p&gt;
+
+&lt;p&gt;Предупреждение: Хранить в недоступном для детей месте! Продукт не заменяет смешанное питание и здоровый образ жизни! Не превышайте рекомендуемую норму потребления!&lt;/p&gt;
+</description>
       </offer>
       <offer id="DSN_31283" available="false">
         <price>400.07</price>
@@ -184302,7 +184376,7 @@ TAURINE 1000&amp;trade; от Source Naturals &amp;ndash; это кристалл
       <offer id="DSN_31371" available="true">
         <price>419.51</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>60</quantity_in_stock>
+        <quantity_in_stock>61</quantity_in_stock>
         <name lang="ua">Vitamin E 400 IU D-Alpha Tocopherol - 50 tabs</name>
         <name lang="ru">Vitamin E 400 IU D-Alpha Tocopherol - 50 tabs</name>
         <vendorCode>DSN_2023-10-6155</vendorCode>
@@ -189013,13 +189087,13 @@ Sytrinol&amp;reg; для здорового сердца&lt;br /&gt;
         <vendorCode>DSN_2023-10-6404</vendorCode>
         <old_offer_id>31580</old_offer_id>
         <vendor>Nature's Way</vendor>
-        <categoryId>DSN_1458</categoryId>
+        <categoryId>DSN_1381</categoryId>
         <additionalCategories>
-          <id>1382</id>
-          <id>1381</id>
           <id>1465</id>
           <id>1418</id>
           <id>1420</id>
+          <id>1458</id>
+          <id>1382</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/31/maca-100-vcaps-82301964227945_+b48a5c362f.jpg</picture>
         <picture>https://dsn.ua/content/images/31/maca-100-vcaps-43416231296974_+7eaa658f04.jpg</picture>
@@ -192176,11 +192250,11 @@ Nutrex Research Outlift Amped Pre-Workout особенно рекомендуе�
         <vendorCode>DSN_2023-10-6547</vendorCode>
         <old_offer_id>31723</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1175</categoryId>
+        <categoryId>DSN_1413</categoryId>
         <additionalCategories>
+          <id>1175</id>
           <id>1405</id>
           <id>1488</id>
-          <id>1413</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/24/astaxanthin-6-mg-60-softgels-39228972858462_+1a662f9f65.jpg</picture>
         <picture>https://dsn.ua/content/images/24/astaxanthin-6-mg-60-softgels-33396871105936_+a61ac34725.jpg</picture>
@@ -205154,7 +205228,7 @@ Mega Multi для мужчин включает антиоксидантные �
       <offer id="DSN_32339" available="true">
         <price>434.05</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>149</quantity_in_stock>
+        <quantity_in_stock>150</quantity_in_stock>
         <name lang="ua">B-100 Complex - 60 tabs</name>
         <name lang="ru">B-100 Complex - 60 tabs</name>
         <vendorCode>DSN_2023-10-7123</vendorCode>
@@ -208785,9 +208859,9 @@ Nutr Free&lt;br /&gt;
         <vendorCode>DSN_2023-10-7267</vendorCode>
         <old_offer_id>32545</old_offer_id>
         <vendor>Lifeable</vendor>
-        <categoryId>DSN_1417</categoryId>
+        <categoryId>DSN_1387</categoryId>
         <additionalCategories>
-          <id>1387</id>
+          <id>1417</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/46/collagen-vitamin-c-adult-60-gummies-81429967074061_+5a9e647a4d.jpg</picture>
         <picture>https://dsn.ua/content/images/46/55925724953339_+56c5b790f0.jpg</picture>
@@ -230970,7 +231044,7 @@ Swanson Full Spectrum Ashwagandha ( Withania somnifera ) &amp;mdash; это мо
       <offer id="DSN_33896" available="true">
         <price>1650.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>13</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name lang="ua">Matrix - 900g Mango Sorbet</name>
         <name lang="ru">Matrix - 900g Mango Sorbet</name>
         <vendorCode>DSN_2024-11-0107</vendorCode>
@@ -233482,8 +233556,8 @@ Matrix подходит для всех, кто стремится добить�
         <vendor>VPLab</vendor>
         <categoryId>DSN_1414</categoryId>
         <additionalCategories>
-          <id>1358</id>
           <id>1416</id>
+          <id>1358</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/50/vitamin-d3-4000iu-k2-60-vcaps-29664451866200_+f1e5059cc2.jpg</picture>
         <picture>https://dsn.ua/content/images/50/vitamin-d3-4000iu-k2-60-vcaps-79220957051685_+2abf322597.jpg</picture>
@@ -249049,10 +249123,10 @@ PHASE 2&amp;reg; &amp;mdash; это нестимулирующий экстра�
         <name lang="ru">Acetyl L-Carnitine - 200g</name>
         <vendorCode>DSN_2024-11-0522</vendorCode>
         <vendor>Stark Pharm</vendor>
-        <categoryId>DSN_1411</categoryId>
+        <categoryId>DSN_1378</categoryId>
         <additionalCategories>
+          <id>1411</id>
           <id>1412</id>
-          <id>1378</id>
           <id>1479</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/28/acetyl-l-carnitine-200g-57782214502523_+917adea414.jpg</picture>
@@ -249357,9 +249431,9 @@ BCAA-компонент: сочетание лейцина, изолейцина
         <name lang="ru">Neuro Balance - 120 caps</name>
         <vendorCode>DSN_2024-11-0525</vendorCode>
         <vendor>Stark Pharm</vendor>
-        <categoryId>DSN_1409</categoryId>
+        <categoryId>DSN_1410</categoryId>
         <additionalCategories>
-          <id>1410</id>
+          <id>1409</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/31/neuro-balance-120-caps-29775588652848_+08f41c2e87.jpg</picture>
         <picture>https://dsn.ua/content/images/31/neuro-balance-120-caps-21147823297462_+e7ca6eea7e.jpg</picture>
@@ -251066,9 +251140,9 @@ Lifeable &amp;ndash; здоровье, вкусное!&lt;/p&gt;
         <name lang="ru">Collagen Peptides - 200g Unflavored (20 Packets)</name>
         <vendorCode>DSN_2024-11-0575</vendorCode>
         <vendor>Vital Proteins</vendor>
-        <categoryId>DSN_1417</categoryId>
+        <categoryId>DSN_1387</categoryId>
         <additionalCategories>
-          <id>1387</id>
+          <id>1417</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/12/collagen-peptides-200g-unflavored-87400487834981_+e1b002f1a8.jpg</picture>
         <picture>https://dsn.ua/content/images/12/collagen-peptides-200g-unflavored-97801054197454_+b74b4ba261.jpg</picture>
@@ -258743,9 +258817,9 @@ Puritan&amp;#39;s Pride предлагает высококачественну�
         <name lang="ru">Super Multidophilus 24 Strain Probiotic 30 Billion Cfu - 60 vcaps</name>
         <vendorCode>DSN_2024-11-0722</vendorCode>
         <vendor>Solaray</vendor>
-        <categoryId>DSN_1399</categoryId>
+        <categoryId>DSN_1385</categoryId>
         <additionalCategories>
-          <id>1385</id>
+          <id>1399</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/1/super-multidophilus-24-strain-probiotic-30-billion-cfu-60-vcaps-87290308749740_+e87f48154d.jpg</picture>
         <picture>https://dsn.ua/content/images/1/super-multidophilus-24-strain-probiotic-30-billion-cfu-60-vcaps-88509247639084_+80deb20c1d.jpg</picture>
@@ -265017,10 +265091,10 @@ Howaru&amp;reg;&lt;br /&gt;
         <name lang="ru">Vitamin D3 4000 IU (100 mcg) - 90 softgels</name>
         <vendorCode>DSN_2024-11-0855</vendorCode>
         <vendor>Swanson</vendor>
-        <categoryId>DSN_1358</categoryId>
+        <categoryId>DSN_1414</categoryId>
         <additionalCategories>
-          <id>1414</id>
           <id>1416</id>
+          <id>1358</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/20/vitamin-d3-4000-iu-100-mcg-90-softgels-12285593843650_+0dc32dce0a.jpg</picture>
         <picture>https://dsn.ua/content/images/20/vitamin-d3-4000-iu-100-mcg-90-softgels-47713971622449_+083d231e4e.jpg</picture>
@@ -265433,8 +265507,8 @@ BioPerine&amp;reg; для поддержки усвоения;&lt;br /&gt;
         <categoryId>DSN_1414</categoryId>
         <additionalCategories>
           <id>1404</id>
-          <id>1382</id>
           <id>1471</id>
+          <id>1382</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/28/spirulina-500mg-240-caps-48006557242147_+17566230c7.jpg</picture>
         <picture>https://dsn.ua/content/images/28/spirulina-500mg-240-caps-30003500628391_+cc870d0f57.jpg</picture>
@@ -266474,9 +266548,9 @@ Thyroid Energy&amp;trade; от NOW&amp;reg; представляет собой 
         <name lang="ru">Sport Vit Men - 60 caps</name>
         <vendorCode>DSN_2024-11-0889</vendorCode>
         <vendor>Stark Pharm</vendor>
-        <categoryId>DSN_1420</categoryId>
+        <categoryId>DSN_1393</categoryId>
         <additionalCategories>
-          <id>1393</id>
+          <id>1420</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/2/sport-vit-men-60-caps-32906641236222_+61ecdecf44.jpg</picture>
         <picture>https://dsn.ua/content/images/2/sport-vit-men-60-caps-70489433166611_+088db3f1e7.jpg</picture>
@@ -266589,10 +266663,10 @@ Thyroid Energy&amp;trade; от NOW&amp;reg; представляет собой 
         <name lang="ru">Red Clover Extract 500mg - 60 caps</name>
         <vendorCode>DSN_2024-11-0891</vendorCode>
         <vendor>Stark Pharm</vendor>
-        <categoryId>DSN_1381</categoryId>
+        <categoryId>DSN_1418</categoryId>
         <additionalCategories>
-          <id>1418</id>
           <id>1408</id>
+          <id>1381</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/4/red-clover-extract-500mg-60-caps-98522237782859_+7ffb51e96f.jpg</picture>
         <picture>https://dsn.ua/content/images/4/red-clover-extract-500mg-60-caps-52740797144662_+e25ca0d3ab.jpg</picture>
@@ -268325,10 +268399,10 @@ N-ацетилцистеин (NAC) представляет собой стаб�
         <name lang="ru">Magnesium Bisglyciniate - 90 caps</name>
         <vendorCode>DSN_2024-11-0930</vendorCode>
         <vendor>Pure Gold</vendor>
-        <categoryId>DSN_1365</categoryId>
+        <categoryId>DSN_1410</categoryId>
         <additionalCategories>
+          <id>1365</id>
           <id>1409</id>
-          <id>1410</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/37/magnesium-bisglyciniate-90-caps-75096019926391_+d2d74347c3.jpg</picture>
         <picture>https://dsn.ua/content/images/37/magnesium-bisglyciniate-90-caps-17050913761070_+eed0aa8787.jpg</picture>
@@ -272442,11 +272516,11 @@ Say Yes to Dairy &amp;ndash; это диетическая добавка для
         <name lang="ru">Magnesium L-Threonate SmartMag™ - 90 vcaps</name>
         <vendorCode>DSN_2024-11-1035</vendorCode>
         <vendor>Solaray</vendor>
-        <categoryId>DSN_1409</categoryId>
+        <categoryId>DSN_1365</categoryId>
         <additionalCategories>
+          <id>1409</id>
           <id>1410</id>
           <id>1411</id>
-          <id>1365</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/11/smartmag-magnesium-l-threonate-90-vcaps-51668408065445_+f0ccb306d2.png</picture>
         <picture>https://dsn.ua/content/images/11/smartmag-magnesium-l-threonate-90-vcaps-37605378098940_+ebfb877c14.png</picture>
@@ -272884,11 +272958,11 @@ L-аргинин участвует в естественных процесса
         <name lang="ru">Liposomal Glutathione 500mg - 60 vcaps</name>
         <vendorCode>DSN_2024-11-1044</vendorCode>
         <vendor>Solaray</vendor>
-        <categoryId>DSN_1378</categoryId>
+        <categoryId>DSN_1404</categoryId>
         <additionalCategories>
+          <id>1378</id>
           <id>1478</id>
           <id>1414</id>
-          <id>1404</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/20/liposomal-glutathione-500mg-60-vcaps-84691627070417_+f881c2ba4d.png</picture>
         <picture>https://dsn.ua/content/images/20/liposomal-glutathione-500mg-60-vcaps-11767032788258_+9d646e7f34.png</picture>
@@ -275464,9 +275538,9 @@ Swanson Ultimate Women&amp;#39;s Intimate Performance &amp;ndash; это уди�
         <name lang="ru">Vitamin C 500 mg - 60 caps</name>
         <vendorCode>DSN_2024-11-1106</vendorCode>
         <vendor>My Nutri Week</vendor>
-        <categoryId>DSN_1414</categoryId>
+        <categoryId>DSN_1357</categoryId>
         <additionalCategories>
-          <id>1357</id>
+          <id>1414</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/22/vitamin-c-500-mg-60-caps-30139394969841_+266b605554.png</picture>
         <picture>https://dsn.ua/content/images/22/vitamin-c-500-mg-60-caps-71731912034159_+c16a61155f.png</picture>
@@ -275908,10 +275982,10 @@ Swanson Ultimate Women&amp;#39;s Intimate Performance &amp;ndash; это уди�
         <name lang="ru">L-Theanine 600 mg - 60 caps</name>
         <vendorCode>DSN_2024-11-1115</vendorCode>
         <vendor>My Nutri Week</vendor>
-        <categoryId>DSN_1410</categoryId>
+        <categoryId>DSN_1378</categoryId>
         <additionalCategories>
-          <id>1378</id>
           <id>1409</id>
+          <id>1410</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/29/l-theanine-600-mg-60-caps-95713016455088_+0e99da43b8.png</picture>
         <picture>https://dsn.ua/content/images/29/l-theanine-600-mg-60-caps-17914895660314_+793198ba59.png</picture>
@@ -275994,10 +276068,10 @@ Swanson Ultimate Women&amp;#39;s Intimate Performance &amp;ndash; это уди�
         <name lang="ru">L-Theanine 400 mg - 100 caps</name>
         <vendorCode>DSN_2024-11-1116</vendorCode>
         <vendor>My Nutri Week</vendor>
-        <categoryId>DSN_1378</categoryId>
+        <categoryId>DSN_1410</categoryId>
         <additionalCategories>
+          <id>1378</id>
           <id>1409</id>
-          <id>1410</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/30/l-theanine-400-mg-100-caps-79601125542719_+ff9ea15ca7.png</picture>
         <picture>https://dsn.ua/content/images/30/l-theanine-400-mg-100-caps-86071731650939_+9afa1624e0.png</picture>
@@ -276828,9 +276902,9 @@ Swanson Ultimate Women&amp;#39;s Intimate Performance &amp;ndash; это уди�
         <name lang="ru">Kids Multivitamin - 60 gummies</name>
         <vendorCode>DSN_2024-11-1127</vendorCode>
         <vendor>My Nutri Week</vendor>
-        <categoryId>DSN_1394</categoryId>
+        <categoryId>DSN_1421</categoryId>
         <additionalCategories>
-          <id>1421</id>
+          <id>1394</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/41/kids-multivitamin-60-gummies-25799362130474_+119fe82d98.png</picture>
         <picture>https://dsn.ua/content/images/41/kids-multivitamin-60-gummies-32366799308541_+2e4a385c23.png</picture>
@@ -277353,8 +277427,8 @@ Swanson Ultimate Women&amp;#39;s Intimate Performance &amp;ndash; это уди�
         <vendor>My Nutri Week</vendor>
         <categoryId>DSN_1403</categoryId>
         <additionalCategories>
-          <id>1369</id>
           <id>1406</id>
+          <id>1369</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/47/chromium-picolinate-60-saps-29873261903683_+8aa292ff00.png</picture>
         <picture>https://dsn.ua/content/images/47/chromium-picolinate-60-saps-52655277359251_+4f4aac22d7.png</picture>
@@ -277756,9 +277830,9 @@ Swanson Ultimate Women&amp;#39;s Intimate Performance &amp;ndash; это уди�
         <name lang="ru">Lion's Mane - 60 сaps</name>
         <vendorCode>DSN_2024-11-1138</vendorCode>
         <vendor>My Nutri Week</vendor>
-        <categoryId>DSN_1411</categoryId>
+        <categoryId>DSN_1382</categoryId>
         <additionalCategories>
-          <id>1382</id>
+          <id>1411</id>
           <id>1383</id>
           <id>1472</id>
         </additionalCategories>
@@ -279534,9 +279608,9 @@ MyProtein Weight Gainer Blend станет настоящей находкой �
         <name lang="ru">Collagold -12g Pina Colada</name>
         <vendorCode>DSN_2024-11-1171</vendorCode>
         <vendor>Pure Gold</vendor>
-        <categoryId>DSN_1417</categoryId>
+        <categoryId>DSN_1387</categoryId>
         <additionalCategories>
-          <id>1387</id>
+          <id>1417</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/33/collagold-12g-pina-colada-26170768238780_+22eec22901.png</picture>
         <picture>https://dsn.ua/content/images/33/collagold-12g-pina-colada-54489039382683_+2bc1f96717.png</picture>
@@ -279992,9 +280066,9 @@ MyProtein Weight Gainer Blend станет настоящей находкой �
         <name lang="ru">Ultimate Omega+CoQ10 - 120 softgels</name>
         <vendorCode>DSN_2024-11-1182</vendorCode>
         <vendor>Nordic Naturals</vendor>
-        <categoryId>DSN_1373</categoryId>
+        <categoryId>DSN_1408</categoryId>
         <additionalCategories>
-          <id>1408</id>
+          <id>1373</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/44/ultimate-omegacoq10-120-softgels-40162757587587_+aa1bedf464.png</picture>
         <picture>https://dsn.ua/content/images/44/ultimate-omegacoq10-120-softgels-76907608941164_+a2dad21163.png</picture>
