@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-25 22:07"><shop><categories><category id="DSN_1175">Розпродаж</category>
+<yml_catalog date="2026-10-26 02:00"><shop><categories><category id="DSN_1175">Розпродаж</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
       <category id="DSN_1331" parentId="DSN_1110">American Health</category>
@@ -5165,7 +5165,7 @@ Puritan&amp;#39;s Pride&amp;reg; Double Strength Omega-3 Fish Oil &amp;mdash; э
       <offer id="DSN_5427" available="true">
         <price>555.56</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>418</quantity_in_stock>
+        <quantity_in_stock>417</quantity_in_stock>
         <name lang="ua">One Daily Men`s Multivitamin - 100 caps</name>
         <name lang="ru">One Daily Men`s Multivitamin - 100 caps</name>
         <vendorCode>DSN_100-74-8557232-20</vendorCode>
@@ -42640,7 +42640,7 @@ Swanson Liver Essentials обеспечивает прочную основу д
       <offer id="DSN_13358" available="true">
         <price>385.39</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>924</quantity_in_stock>
+        <quantity_in_stock>922</quantity_in_stock>
         <name lang="ua">Boswellia Double Strength 800 mg - 60 Caps</name>
         <name lang="ru">Boswellia Double Strength 800 mg - 60 Caps</name>
         <vendorCode>DSN_100-35-0648434-20</vendorCode>
@@ -96519,7 +96519,7 @@ pH-Basic предназначен для поддержания оптималь
       <offer id="DSN_25454" available="true">
         <price>2023.84</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>428</quantity_in_stock>
+        <quantity_in_stock>427</quantity_in_stock>
         <name lang="ua">Triple Strength Omega-3 950mg - 100 softgels</name>
         <name lang="ru">Triple Strength Omega-3 950mg - 100 softgels</name>
         <vendorCode>DSN_2022-10-2999</vendorCode>
@@ -105624,7 +105624,7 @@ Prebiotic Bifido Boost&amp;trade; Powder &amp;ndash; это усовершенс
       <offer id="DSN_26015" available="true">
         <price>658.84</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>77</quantity_in_stock>
+        <quantity_in_stock>76</quantity_in_stock>
         <name lang="ua">Women's 50+ Complete Multivitamin - 50 tabs</name>
         <name lang="ru">Women's 50+ Complete Multivitamin - 50 tabs</name>
         <vendorCode>DSN_2022-10-1717</vendorCode>
@@ -159078,7 +159078,7 @@ Source Naturals NightRest Melatonin сочетает мощное действи
       <offer id="DSN_29779" available="true">
         <price>332.15</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>23</quantity_in_stock>
+        <quantity_in_stock>22</quantity_in_stock>
         <name lang="ua">OptiZinc® - 60 tabs</name>
         <name lang="ru">OptiZinc® - 60 tabs</name>
         <vendorCode>DSN_2023-10-4616</vendorCode>
