@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-29 23:40"><shop><categories><category id="DSN_1175">Розпродаж</category>
+<yml_catalog date="2026-10-30 03:12"><shop><categories><category id="DSN_1175">Розпродаж</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
       <category id="DSN_1331" parentId="DSN_1110">American Health</category>
@@ -10575,11 +10575,11 @@ FITPLAN NUT MIX &amp;ndash; это натуральный источник по�
         <vendorCode>DSN_100-90-1828125-20</vendorCode>
         <old_offer_id>6733</old_offer_id>
         <vendor>Puritans Pride</vendor>
-        <categoryId>DSN_1381</categoryId>
+        <categoryId>DSN_1458</categoryId>
         <additionalCategories>
+          <id>1381</id>
           <id>1411</id>
           <id>1462</id>
-          <id>1458</id>
           <id>1175</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/34/18413938507887_+87e13d03b8.jpeg</picture>
@@ -27727,9 +27727,9 @@ Ultimate 16 Strain Probiotic доктора Стивена Лангера от S
         <vendor>Solgar</vendor>
         <categoryId>DSN_1411</categoryId>
         <additionalCategories>
+          <id>1405</id>
           <id>1408</id>
           <id>1373</id>
-          <id>1405</id>
           <id>1175</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/32/solgarcod-liver-oil-250-softgels-35204325673440_+b0b39038eb.png</picture>
@@ -57953,7 +57953,7 @@ Ferrochel&amp;reg; обеспечивает высокую биодоступн�
       <offer id="DSN_18392" available="true">
         <price>193.38</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>5442</quantity_in_stock>
+        <quantity_in_stock>5443</quantity_in_stock>
         <name lang="ua">Omega-3 1000mg - 30 sgels</name>
         <name lang="ru">Omega-3 1000mg - 30 sgels</name>
         <vendorCode>DSN_2022-10-0052</vendorCode>
@@ -62274,22 +62274,64 @@ Ultra Immune содержит 17 основных витаминов и мине
         </additionalCategories>
         <picture>https://dsn.ua/content/images/21/pure-goldcollagen-12g-lemonade-41950583859623_+bccf7d7b60.jpg</picture>
         <picture>https://dsn.ua/content/images/21/pure-goldcollagen-12g-lemonade-66579028181443_+2784d958f1.png</picture>
-        <description lang="ua">Штрихкод: 5999105907022&lt;p&gt;Нехай колаген буде приємно споживати, який він смачний, доступний у багатьох смаках, чудово та швидко розчиняється з нашими легкими у приготуванні порошковими напоями з яловичим колагеном. Знайдіть свій улюблений і насолоджуйтесь неперевершеними смаками!&lt;/p&gt; &lt;p&gt;Вітамін С сприяє нормальному утворенню колагену і тим самим підтримці нормального стану кровоносних судин, нормальних кісток, шкіри, зубів, ясен і хрящів.* Цинк також сприяє підтримці нормального стану шкіри, нігтів, волосся і кістки.*&lt;/p&gt; &lt;p&gt;*Науково підтверджені твердження, схвалені Європейським агентством з безпеки харчових продуктів (EFSA).&lt;/p&gt; &lt;p&gt;Чому я повинен вибрати?&lt;/p&gt; &lt;p&gt;10 г колагену на порцію&lt;br /&gt;
+        <description lang="ua">&lt;p&gt;Штрихкод: 5999105907022&lt;/p&gt;
+
+&lt;p&gt;Нехай колаген буде приємно споживати, який він смачний, доступний у багатьох смаках, чудово та швидко розчиняється з нашими легкими у приготуванні порошковими напоями з яловичим колагеном. Знайдіть свій улюблений і насолоджуйтесь неперевершеними смаками!&lt;/p&gt;
+
+&lt;p&gt;Вітамін С сприяє нормальному утворенню колагену і тим самим підтримці нормального стану кровоносних судин, нормальних кісток, шкіри, зубів, ясен і хрящів.* Цинк також сприяє підтримці нормального стану шкіри, нігтів, волосся і кістки.*&lt;/p&gt;
+
+&lt;p&gt;*Науково підтверджені твердження, схвалені Європейським агентством з безпеки харчових продуктів (EFSA).&lt;/p&gt;
+
+&lt;p&gt;Чому я повинен вибрати?&lt;/p&gt;
+
+&lt;p&gt;10 г колагену на порцію&lt;br /&gt;
 З додаванням вітаміну С і цинку&lt;br /&gt;
 Швидке та легке приготування&lt;br /&gt;
 Безліч райських смакових варіацій&lt;br /&gt;
 Без лактози, без цукру, без сої*&lt;br /&gt;
 Без ГМО&lt;br /&gt;
 *: Заява справедлива лише для продукту, приготовленого відповідно до рекомендацій щодо дозування.&lt;br /&gt;
-Рекомендоване дозування: змішайте одну дозу (12 г &amp;ndash; 1 мірна ложка) порошку напою з 300 мл води. Рекомендується вживати продукт вранці або протягом дня. Рекомендується одна порція на день.&lt;/p&gt; &lt;p&gt;Склад: гідролізований яловичий колаген, лимонна кислота, ароматизатор, підсолоджувачі (ацесульфам-К, сукралоза), аскорбінова кислота, хлорид натрію, барвник, оксид цинку.&lt;/p&gt; &lt;p&gt;Попередження: Зберігати в недоступному для маленьких дітей місці! Продукт не замінює змішане харчування та здоровий спосіб життя! Не перевищуйте рекомендовану добову норму споживання!&lt;/p&gt; &lt;p&gt;Інформація про алергени: виготовлено на заводі, який переробляє молоко, яйця, глютен, сою, арахіс, лісові горіхи, рибу та інгредієнти ракоподібних.&lt;/p&gt; &lt;p&gt;Зберігає якість: до кінця місяця, зазначеного на упаковці (місяць/рік).&lt;/p&gt; &lt;p&gt;Зберігання: Зберігати продукт у місці, захищеному від сонячних променів та інших теплових впливів, при температурі від 6 до 26 &amp;deg;C і при відносній вологості повітря 65%!&lt;/p&gt;</description>
-        <description lang="ru">Штрихкод: 5999105907022&lt;p&gt;Пусть коллаген будет приятно потреблять, как он вкусен, доступен во многих вкусах, прекрасно и быстро растворяется с нашими легкими в приготовлении порошковыми напитками с говяжьим коллагеном. Найдите свой любимый и наслаждайтесь непревзойденными вкусами!&lt;/p&gt; &lt;p&gt;Витамин С способствует нормальному образованию коллагена и тем самым поддержанию нормального состояния кровеносных сосудов, нормальных костей, кожи, зубов, десен и хрящей.* Цинк также способствует поддержанию нормального состояния кожи, ногтей, волос и кости.*&lt;/p&gt; &lt;p&gt;*Научно подтверждены утверждения, одобренные Европейским агентством по безопасности пищевых продуктов (EFSA).&lt;/p&gt; &lt;p&gt;Почему я должен выбрать?&lt;/p&gt; &lt;p&gt;10 г коллагена на порцию&lt;br /&gt;
+Рекомендоване дозування: змішайте одну дозу (12 г &amp;ndash; 1 мірна ложка) порошку напою з 300 мл води. Рекомендується вживати продукт вранці або протягом дня. Рекомендується одна порція на день.&lt;/p&gt;
+
+&lt;p&gt;Склад: гідролізований яловичий колаген, лимонна кислота, ароматизатор, підсолоджувачі (ацесульфам-К, сукралоза), аскорбінова кислота, хлорид натрію, барвник, оксид цинку.&lt;/p&gt;
+
+&lt;p&gt;Попередження: Зберігати в недоступному для маленьких дітей місці! Продукт не замінює змішане харчування та здоровий спосіб життя! Не перевищуйте рекомендовану добову норму споживання!&lt;/p&gt;
+
+&lt;p&gt;Інформація про алергени: виготовлено на заводі, який переробляє молоко, яйця, глютен, сою, арахіс, лісові горіхи, рибу та інгредієнти ракоподібних.&lt;/p&gt;
+
+&lt;p&gt;Зберігає якість: до кінця місяця, зазначеного на упаковці (місяць/рік).&lt;/p&gt;
+
+&lt;p&gt;Зберігання: Зберігати продукт у місці, захищеному від сонячних променів та інших теплових впливів, при температурі від 6 до 26 &amp;deg;C і при відносній вологості повітря 65%!&lt;/p&gt;
+</description>
+        <description lang="ru">&lt;p&gt;Штрихкод: 5999105907022&lt;/p&gt;
+
+&lt;p&gt;Пусть коллаген будет приятно потреблять, как он вкусен, доступен во многих вкусах, прекрасно и быстро растворяется с нашими легкими в приготовлении порошковыми напитками с говяжьим коллагеном. Найдите свой любимый и наслаждайтесь непревзойденными вкусами!&lt;/p&gt;
+
+&lt;p&gt;Витамин С способствует нормальному образованию коллагена и тем самым поддержанию нормального состояния кровеносных сосудов, нормальных костей, кожи, зубов, десен и хрящей.* Цинк также способствует поддержанию нормального состояния кожи, ногтей, волос и кости.*&lt;/p&gt;
+
+&lt;p&gt;*Научно подтверждены утверждения, одобренные Европейским агентством по безопасности пищевых продуктов (EFSA).&lt;/p&gt;
+
+&lt;p&gt;Почему я должен выбрать?&lt;/p&gt;
+
+&lt;p&gt;10 г коллагена на порцию&lt;br /&gt;
 С добавлением витамина С и цинка&lt;br /&gt;
 Быстрое и легкое приготовление&lt;br /&gt;
 Множество райских вкусовых вариаций&lt;br /&gt;
 Без лактозы, без сахара, без сои*&lt;br /&gt;
 Без ГМО&lt;br /&gt;
 *: Заявление справедливо только для продукта, приготовленного в соответствии с рекомендациями по дозировке.&lt;br /&gt;
-Рекомендуемая дозировка: смешайте одну дозу (12 г &amp;ndash; 1 мерная ложка) порошка напитка с 300 мл воды. Рекомендуется употреблять утром или в течение дня. Рекомендуется одна порция в день.&lt;/p&gt; &lt;p&gt;Состав: гидролизованный говяжий коллаген, лимонная кислота, ароматизатор, подсластители (ацесульфам-К, сукралоза), аскорбиновая кислота, хлорид натрия, краситель, оксид цинка.&lt;/p&gt; &lt;p&gt;Предупреждение: Хранить в недоступном для детей месте! Продукт не заменяет смешанное питание и здоровый образ жизни! Не превышайте рекомендуемую норму потребления!&lt;/p&gt; &lt;p&gt;Информация об аллергенах: изготовлена на заводе, который перерабатывает молоко, яйца, глютен, сою, арахис, лесные орехи, рыбу и ракообразные ингредиенты.&lt;/p&gt; &lt;p&gt;Сохраняет качество: до конца месяца, указанного на упаковке (месяц/год).&lt;/p&gt; &lt;p&gt;Хранение: Хранить продукт в месте, защищенном от солнечных лучей и других тепловых воздействий, при температуре от 6 до 26 &amp;deg;C и относительной влажности воздуха 65%!&lt;/p&gt;</description>
+Рекомендуемая дозировка: смешайте одну дозу (12 г &amp;ndash; 1 мерная ложка) порошка напитка с 300 мл воды. Рекомендуется употреблять утром или в течение дня. Рекомендуется одна порция в день.&lt;/p&gt;
+
+&lt;p&gt;Состав: гидролизованный говяжий коллаген, лимонная кислота, ароматизатор, подсластители (ацесульфам-К, сукралоза), аскорбиновая кислота, хлорид натрия, краситель, оксид цинка.&lt;/p&gt;
+
+&lt;p&gt;Предупреждение: Хранить в недоступном для детей месте! Продукт не заменяет смешанное питание и здоровый образ жизни! Не превышайте рекомендуемую норму потребления!&lt;/p&gt;
+
+&lt;p&gt;Информация об аллергенах: изготовлена на заводе, который перерабатывает молоко, яйца, глютен, сою, арахис, лесные орехи, рыбу и ракообразные ингредиенты.&lt;/p&gt;
+
+&lt;p&gt;Сохраняет качество: до конца месяца, указанного на упаковке (месяц/год).&lt;/p&gt;
+
+&lt;p&gt;Хранение: Хранить продукт в месте, защищенном от солнечных лучей и других тепловых воздействий, при температуре от 6 до 26 &amp;deg;C и относительной влажности воздуха 65%!&lt;/p&gt;
+</description>
       </offer>
       <offer id="DSN_18071" available="false">
         <price>66.59</price>
@@ -103457,7 +103499,7 @@ Solgar Lipotropic Factors сертифицированный KOF-K Kosher, пр�
       <offer id="DSN_25827" available="true">
         <price>908.18</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>324</quantity_in_stock>
+        <quantity_in_stock>323</quantity_in_stock>
         <name lang="ua">Magnesium Citrate - 120 tabs</name>
         <name lang="ru">Magnesium Citrate - 120 tabs</name>
         <vendorCode>DSN_2022-10-1534</vendorCode>
@@ -132924,7 +132966,7 @@ Fast Acting Melatonin NaturesPlus поддерживает системы орг
       <offer id="DSN_28118" available="true">
         <price>196.56</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>934</quantity_in_stock>
+        <quantity_in_stock>935</quantity_in_stock>
         <name lang="ua">VIT D-3 5000 IU - 30 sgels</name>
         <name lang="ru">VIT D-3 5000 IU - 30 sgels</name>
         <vendorCode>DSN_2023-10-3275</vendorCode>
@@ -166569,9 +166611,9 @@ Mitochondrial Basics with PQQ &amp;ndash; это добавка, которая 
         <vendorCode>DSN_2023-10-5227</vendorCode>
         <old_offer_id>30186</old_offer_id>
         <vendor>Nature's Plus</vendor>
-        <categoryId>DSN_1344</categoryId>
+        <categoryId>DSN_1413</categoryId>
         <additionalCategories>
-          <id>1413</id>
+          <id>1344</id>
           <id>1175</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/37/vit-a-10000-iu-water-dispersible-90-tabs-45664480062593_+b6d64c5e0f.jpg</picture>
@@ -176085,10 +176127,10 @@ NMN является прекурсором NAD+, важного для подд
         <vendorCode>DSN_2023-10-5741</vendorCode>
         <old_offer_id>30817</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1175</categoryId>
+        <categoryId>DSN_1355</categoryId>
         <additionalCategories>
-          <id>1355</id>
           <id>1419</id>
+          <id>1175</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/18/41253001739309_+4061a6ffeb.jpg</picture>
         <picture>https://dsn.ua/content/images/18/folic-acid-1mg-90-tabs-76530558735467_+055f4a646a.jpg</picture>
@@ -192080,11 +192122,11 @@ Nutrex Research Outlift Amped Pre-Workout особенно рекомендуе�
         <vendorCode>DSN_2023-10-6542</vendorCode>
         <old_offer_id>31718</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1175</categoryId>
+        <categoryId>DSN_1405</categoryId>
         <additionalCategories>
-          <id>1405</id>
           <id>1474</id>
           <id>1413</id>
+          <id>1175</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/19/lutein-20mg-120-softgels-36125286234731_+7c08f5b207.jpg</picture>
         <picture>https://dsn.ua/content/images/19/lutein-20mg-120-softgels-37580305369884_+3df5c2c297.jpg</picture>
@@ -192264,11 +192306,11 @@ Nutrex Research Outlift Amped Pre-Workout особенно рекомендуе�
         <vendorCode>DSN_2023-10-6547</vendorCode>
         <old_offer_id>31723</old_offer_id>
         <vendor>Natural Factors</vendor>
-        <categoryId>DSN_1175</categoryId>
+        <categoryId>DSN_1405</categoryId>
         <additionalCategories>
-          <id>1405</id>
-          <id>1488</id>
           <id>1413</id>
+          <id>1488</id>
+          <id>1175</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/24/astaxanthin-6-mg-60-softgels-39228972858462_+1a662f9f65.jpg</picture>
         <picture>https://dsn.ua/content/images/24/astaxanthin-6-mg-60-softgels-33396871105936_+a61ac34725.jpg</picture>
@@ -202928,8 +202970,8 @@ Use only as directed. Take 2 vegetarian capsules up to twice daily, preferably o
         <categoryId>DSN_1409</categoryId>
         <additionalCategories>
           <id>1175</id>
-          <id>1346</id>
           <id>1412</id>
+          <id>1346</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/22/b-1-100mg-110-tabs-77148246229088_+0c5a8ff567.jpg</picture>
         <picture>https://dsn.ua/content/images/22/b-1-100mg-110-tabs-45108993025352_+cb025dffc0.jpg</picture>
@@ -204306,8 +204348,8 @@ Colon Cleanse &amp;ndash; это комбинация натуральных т�
         <additionalCategories>
           <id>1175</id>
           <id>1411</id>
-          <id>1462</id>
           <id>1458</id>
+          <id>1462</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/12/ginkgo-biloba-extract-200-caps-40791695536051_+5e0db34149.jpg</picture>
         <picture>https://dsn.ua/content/images/12/ginkgo-biloba-extract-200-caps-64922120296350_+6829267c06.jpg</picture>
@@ -216830,8 +216872,8 @@ OptiMSM Оптимальная чистота. Оптимальное здоро
         <vendor>Nature's Plus</vendor>
         <categoryId>DSN_1175</categoryId>
         <additionalCategories>
-          <id>1396</id>
           <id>1419</id>
+          <id>1396</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/13/source-of-life-prenatal-90-tabs-14722208929200_+d609ef20d9.jpg</picture>
         <picture>https://dsn.ua/content/images/13/source-of-life-prenatal-90-tabs-68251307754894_+e0f1404b0f.jpg</picture>
