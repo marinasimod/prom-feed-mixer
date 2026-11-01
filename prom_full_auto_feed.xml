@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-31 22:53"><shop><categories><category id="DSN_1175">Розпродаж</category>
+<yml_catalog date="2026-11-01 02:52"><shop><categories><category id="DSN_1175">Розпродаж</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
       <category id="DSN_1331" parentId="DSN_1110">American Health</category>
@@ -10569,7 +10569,7 @@ FITPLAN NUT MIX &amp;ndash; это натуральный источник по�
       <offer id="DSN_6733" available="true">
         <price>1057.28</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>25</quantity_in_stock>
+        <quantity_in_stock>24</quantity_in_stock>
         <name lang="ua">Ginkgo Biloba Standardized Extract 120mg - 200caps</name>
         <name lang="ru">Ginkgo Biloba Standardized Extract 120mg - 200caps</name>
         <vendorCode>DSN_100-90-1828125-20</vendorCode>
@@ -23278,7 +23278,7 @@ Swanson Kelp &amp;mdash; это уникальная формула, котор�
       <offer id="DSN_9056" available="true">
         <price>301.67</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>171</quantity_in_stock>
+        <quantity_in_stock>170</quantity_in_stock>
         <name lang="ua">Turmeric 720 mg - 100 Caps</name>
         <name lang="ru">Turmeric 720 mg - 100 Caps</name>
         <vendorCode>DSN_100-13-9795217-20</vendorCode>
@@ -26502,7 +26502,7 @@ Swanson Triple Magnesium Complex &amp;mdash; лучший дополнитель
       <offer id="DSN_9558" available="true">
         <price>166.53</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1786</quantity_in_stock>
+        <quantity_in_stock>1784</quantity_in_stock>
         <name lang="ua">Triple Magnesium Complex 400mg - 30caps</name>
         <name lang="ru">Triple Magnesium Complex 400mg - 30caps</name>
         <vendorCode>DSN_100-99-6035872-20</vendorCode>
@@ -31049,7 +31049,7 @@ CLA Extreme&amp;trade; сочетает в себе гуарану и экстр
       <offer id="DSN_10869" available="true">
         <price>343.98</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>193</quantity_in_stock>
+        <quantity_in_stock>192</quantity_in_stock>
         <name lang="ua">Saw Palmetto 540 mg - 100 caps</name>
         <name lang="ru">Saw Palmetto 540 mg - 100 caps</name>
         <vendorCode>DSN_100-22-3394158-20</vendorCode>
@@ -114521,7 +114521,7 @@ Clear Quality&amp;trade;&lt;br /&gt;
       <offer id="DSN_26632" available="true">
         <price>641.10</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1353</quantity_in_stock>
+        <quantity_in_stock>1350</quantity_in_stock>
         <name lang="ua">Chlorofresh® Liquid - 16 oz Mint</name>
         <name lang="ru">Chlorofresh® Liquid - 16 oz Mint</name>
         <vendorCode>DSN_2023-10-2173</vendorCode>
@@ -124556,7 +124556,7 @@ LRC&amp;trade;&lt;br /&gt;
       <offer id="DSN_27511" available="true">
         <price>1572.03</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>16</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <name lang="ua">Daily Vits™ - 250 tabs</name>
         <name lang="ru">Daily Vits™ - 250 tabs</name>
         <vendorCode>DSN_2023-10-2828</vendorCode>
