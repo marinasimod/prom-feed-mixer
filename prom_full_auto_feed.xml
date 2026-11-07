@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-06 23:51"><shop><categories><category id="DSN_1536">Осіннє промо</category>
+<yml_catalog date="2026-11-07 03:28"><shop><categories><category id="DSN_1536">Осіннє промо</category>
       <category id="DSN_1175">Розпродаж</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
@@ -65210,7 +65210,7 @@ NOW &amp;reg; Ultra Omega 3-D&amp;trade; &amp;mdash; самая мощная ф�
       <offer id="DSN_22062" available="true">
         <price>1109.75</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>946</quantity_in_stock>
+        <quantity_in_stock>945</quantity_in_stock>
         <name lang="ua">Magnesium Glycinate - 180 tabs</name>
         <name lang="ru">Magnesium Glycinate - 180 tabs</name>
         <vendorCode>DSN_2022-10-0414</vendorCode>
@@ -69518,7 +69518,7 @@ Albion Minerals&lt;br /&gt;
       <offer id="DSN_22525" available="true">
         <price>901.36</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>167</quantity_in_stock>
+        <quantity_in_stock>166</quantity_in_stock>
         <name lang="ua">VIT D-3 10,000 IU - 240 sgels</name>
         <name lang="ru">VIT D-3 10,000 IU - 240 sgels</name>
         <vendorCode>DSN_2022-10-0662</vendorCode>
@@ -105377,7 +105377,7 @@ ActivMelt&amp;trade; Instant Dissolve&lt;br /&gt;
       <offer id="DSN_26119" available="true">
         <price>688.42</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>379</quantity_in_stock>
+        <quantity_in_stock>378</quantity_in_stock>
         <name lang="ua">Kids Vitamins &amp; Minerals - 120 chewables Black Cherry</name>
         <name lang="ru">Kids Vitamins &amp; Minerals - 120 chewables Black Cherry</name>
         <vendorCode>DSN_2022-10-1788</vendorCode>
@@ -106885,7 +106885,7 @@ DMAE (2-диметиламиноэтанол) - это соединение, к�
       <offer id="DSN_26289" available="true">
         <price>1954.23</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>673</quantity_in_stock>
+        <quantity_in_stock>672</quantity_in_stock>
         <name lang="ua">Neuro-Mag® Magnesium L-Threonate - 90 vcaps</name>
         <name lang="ru">Neuro-Mag® Magnesium L-Threonate - 90 vcaps</name>
         <vendorCode>DSN_2022-10-1895</vendorCode>
@@ -133886,7 +133886,7 @@ Nutrex Lipo-6 Black Ultra Concentrate настолько силен, что ва
       <offer id="DSN_28337" available="true">
         <price>1631.18</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>879</quantity_in_stock>
+        <quantity_in_stock>878</quantity_in_stock>
         <name lang="ua">Omega-3 Fish Oil Alaska Pollock 1250mg - 90 softgels</name>
         <name lang="ru">Omega-3 Fish Oil Alaska Pollock 1250mg - 90 softgels</name>
         <vendorCode>DSN_2023-10-3444</vendorCode>
@@ -183712,10 +183712,10 @@ L-триптофан &amp;ndash; незаменимая аминокислота
 Взрослым принимать по 1 мягкой вегетарианской капсуле ежедневно во время еды или по рекомендации квалифицированного медицинского работника.&lt;/p&gt; &lt;p&gt;Другие ингредиенты&lt;br /&gt;
 Кокосовое масло MCT, капсула plantgel&amp;trade; (модифицированный тапиоковый крахмал без ГМО, растительный глицерин, очищенная вода, куркума [для цвета]).&lt;/p&gt; &lt;p&gt;Содержит: Орехи (кокос).&lt;/p&gt;</description>
       </offer>
-      <offer id="DSN_31387" available="true">
+      <offer id="DSN_31387" available="false">
         <price>863.59</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Zinc Picolinate 50mg - 60 softgels</name>
         <name lang="ru">Zinc Picolinate 50mg - 60 softgels</name>
         <vendorCode>DSN_2023-10-6172</vendorCode>
@@ -248534,6 +248534,28 @@ Ferrochel&amp;reg; обеспечивает высокую биодоступн�
         <vendor>Lipobar</vendor>
         <categoryId>DSN_1439</categoryId>
         <picture>https://dsn.ua/content/images/3/cake-bar-60g-cheesecake-61169625992596_+c33762949a.jpg</picture>
+        <description lang="ua">&lt;p&gt;Cake Bar Cheesecake &amp;mdash; смачний протеїновий батончик із ніжним вершковим смаком класичного чізкейка. Поєднує приємну солодкість і м&amp;#39;які десертні нотки, створюючи відчуття справжнього сирного десерту.&lt;/p&gt;
+
+&lt;p&gt;Батончик стане чудовим варіантом для швидкого перекусу протягом дня. Завдяки компактному формату його зручно брати із собою на роботу, навчання, тренування або в дорогу.&lt;/p&gt;
+
+&lt;p&gt;Переваги:&lt;br /&gt;
+Ніжний смак вершкового чізкейка.&lt;br /&gt;
+Зручний формат для перекусу.&lt;br /&gt;
+Допомагає урізноманітнити щоденний раціон.&lt;br /&gt;
+Підходить для активного способу життя.&lt;br /&gt;
+Чудова альтернатива звичайним десертам.&lt;/p&gt;
+</description>
+        <description lang="ru">&lt;p&gt;Cake Bar Cheesecake &amp;ndash; вкусный протеиновый батончик с нежным сливочным вкусом классического чизкейка. Сочетает приятную сладость и мягкие десертные нотки, создавая ощущение настоящего творожного десерта.&lt;/p&gt;
+
+&lt;p&gt;Батончик станет отличным вариантом для быстрого перекуса в течение дня. Благодаря компактному формату его удобно брать с собой на работу, обучение, тренировку или в путь.&lt;/p&gt;
+
+&lt;p&gt;Достоинства:&lt;br /&gt;
+Нежный вкус сливочного чизкейка.&lt;br /&gt;
+Удобный формат для перекуса.&lt;br /&gt;
+Помогает разнообразить ежедневный рацион.&lt;br /&gt;
+Подходит для активного образа жизни.&lt;br /&gt;
+Прекрасная альтернатива обычным десертам.&lt;/p&gt;
+</description>
       </offer>
       <offer id="DSN_2024-11-0499" available="true">
         <price>63.16</price>
@@ -248546,6 +248568,28 @@ Ferrochel&amp;reg; обеспечивает высокую биодоступн�
         <vendor>Lipobar</vendor>
         <categoryId>DSN_1439</categoryId>
         <picture>https://dsn.ua/content/images/4/cake-bar-60g-lemon-pie-80986403491360_+d9764f4ed1.jpg</picture>
+        <description lang="ua">&lt;p&gt;Cake Bar Lemon Pie &amp;mdash; смачний протеїновий батончик із ніжним лимонним смаком, натхненним класичним десертом &amp;laquo;Лимонний пиріг&amp;raquo;. Поєднує приємну солодкість із освіжаючими цитрусовими нотками, створюючи збалансований десертний смак.&lt;/p&gt;
+
+&lt;p&gt;Батончик стане зручним перекусом протягом дня, коли хочеться чогось солодкого. Компактний формат дозволяє легко брати його із собою на роботу, навчання, тренування або в дорогу.&lt;/p&gt;
+
+&lt;p&gt;Переваги:&lt;br /&gt;
+Приємний смак лимонного пирога.&lt;br /&gt;
+Зручний формат для перекусу.&lt;br /&gt;
+Чудова альтернатива звичайним солодощам.&lt;br /&gt;
+Підходить для активного способу життя.&lt;br /&gt;
+Не потребує спеціальних умов приготування.&lt;/p&gt;
+</description>
+        <description lang="ru">&lt;p&gt;Cake Bar Lemon Pie &amp;ndash; вкусный протеиновый батончик с нежным лимонным вкусом, вдохновленным классическим десертом &amp;laquo;Лимонный пирог&amp;raquo;. Сочетает приятную сладость с освежающими цитрусовыми нотками, создавая сбалансированный десертный вкус.&lt;/p&gt;
+
+&lt;p&gt;Батончик станет удобным перекусом в течение дня, когда хочется чего-нибудь сладкого. Компактный формат позволяет легко брать его с собой на работу, обучение, тренировку или в путь.&lt;/p&gt;
+
+&lt;p&gt;Достоинства:&lt;br /&gt;
+Приятный вкус лимонного пирога.&lt;br /&gt;
+Удобный формат для перекуса.&lt;br /&gt;
+Великолепная альтернатива обычным сладостям.&lt;br /&gt;
+Подходит для активного образа жизни.&lt;br /&gt;
+Не требует специальных условий приготовления.&lt;/p&gt;
+</description>
       </offer>
       <offer id="DSN_2023-10-3560" available="false">
         <price>1502.00</price>
@@ -260188,14 +260232,14 @@ L-глутатион (восстановленная форма, Free Form) &amp
         <price>245.13</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>168</quantity_in_stock>
-        <name lang="ua">Vitamin D-3 125mcg (5000 IU) Sunvite Mega Potency - 100 tabs (Пошкоджена банка)</name>
-        <name lang="ru">Vitamin D-3 125mcg (5000 IU) Sunvite Mega Potency - 100 tabs (Повреждена банка)</name>
+        <name lang="ua">Vitamin D-3 125mcg (5000 IU) Sunvite Mega Potency - 100 tabs (Злиплися капсули)</name>
+        <name lang="ru">Vitamin D-3 125mcg (5000 IU) Sunvite Mega Potency - 100 tabs (Слипшиеся капсулы)</name>
         <vendorCode>DSN_2024-11-0751</vendorCode>
         <url>https://dsn.ua/vitamin-d-3-125mcg-5000-iu-sunvite-mega-potency-100-tabs-poshkodzhena-banka/</url>
         <vendor>Puritans Pride</vendor>
-        <categoryId>DSN_1062</categoryId>
+        <categoryId>DSN_1536</categoryId>
         <additionalCategories>
-          <id>1536</id>
+          <id>1062</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/28/vitamin-d-3-125mcg-5000-iu-sunvite-mega-potency-100-tabs-poshkodzhena-banka-96581149833862_+f8ed68eb1d.jpg</picture>
         <picture>https://dsn.ua/content/images/28/vitamin-d-3-125mcg-5000-iu-sunvite-mega-potency-100-tabs-poshkodzhena-banka-81964527441702_+c8684a518d.png</picture>
