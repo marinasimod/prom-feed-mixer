@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-07 23:10"><shop><categories><category id="DSN_1536">Осіннє промо</category>
+<yml_catalog date="2026-11-08 02:57"><shop><categories><category id="DSN_1536">Осіннє промо</category>
       <category id="DSN_1175">Розпродаж</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
@@ -70021,7 +70021,7 @@ Albion Minerals&lt;br /&gt;
       <offer id="DSN_22549" available="true">
         <price>908.18</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>171</quantity_in_stock>
+        <quantity_in_stock>170</quantity_in_stock>
         <name lang="ua">Sunflower Liquid Lecithin - 16 fl oz</name>
         <name lang="ru">Sunflower Liquid Lecithin - 16 fl oz</name>
         <vendorCode>DSN_2022-10-0686</vendorCode>
@@ -100871,7 +100871,7 @@ Perfect match на все праздники &amp;ndash; бокс веганск
       <offer id="DSN_25793" available="true">
         <price>1183.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>181</quantity_in_stock>
+        <quantity_in_stock>180</quantity_in_stock>
         <name lang="ua">Power Teen - 90 tabs</name>
         <name lang="ru">Power Teen - 90 tabs</name>
         <vendorCode>DSN_2022-10-1498</vendorCode>
@@ -112257,7 +112257,7 @@ Clear Quality&amp;trade;&lt;br /&gt;
       <offer id="DSN_26623" available="true">
         <price>771.68</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>520</quantity_in_stock>
+        <quantity_in_stock>519</quantity_in_stock>
         <name lang="ua">Enhanced Energy for Teens - 60 tabs</name>
         <name lang="ru">Enhanced Energy for Teens - 60 tabs</name>
         <vendorCode>DSN_2023-10-2164</vendorCode>
@@ -144757,7 +144757,7 @@ C4 Sport с гордостью носит логотип "Informed-Sport". Ло�
       <offer id="DSN_29139" available="true">
         <price>371.28</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>55</quantity_in_stock>
+        <quantity_in_stock>54</quantity_in_stock>
         <name lang="ua">Liquid Iodine Plus - 59 ml Orange</name>
         <name lang="ru">Liquid Iodine Plus - 59 ml Orange</name>
         <vendorCode>DSN_2023-10-3982</vendorCode>
@@ -204693,7 +204693,7 @@ Mega Multi для мужчин включает антиоксидантные �
       <offer id="DSN_32338" available="true">
         <price>269.82</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>34</quantity_in_stock>
+        <quantity_in_stock>32</quantity_in_stock>
         <name lang="ua">Iron 65 mg Ferrous Sulfate 325 mg - 120 tabs</name>
         <name lang="ru">Iron 65 mg Ferrous Sulfate 325 mg - 120 tabs</name>
         <vendorCode>DSN_2023-10-7122</vendorCode>
@@ -254135,7 +254135,7 @@ Matrix подходит для всех, кто стремится добить�
       <offer id="DSN_2024-11-0627" available="true">
         <price>623.35</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2054</quantity_in_stock>
+        <quantity_in_stock>2053</quantity_in_stock>
         <name lang="ua">Magnesium Glycinate - 90 tabs</name>
         <name lang="ru">Magnesium Glycinate - 90 tabs</name>
         <vendorCode>DSN_2024-11-0627</vendorCode>
@@ -278846,10 +278846,10 @@ MyProtein Weight Gainer Blend станет настоящей находкой �
         <name lang="ru">Biotin 10000mcg - 100caps (Слипшиеся капсулы)</name>
         <vendorCode>DSN_2024-11-1163</vendorCode>
         <url>https://dsn.ua/biotin-10000mcg-100caps-zlyplysia-kapsuly/</url>
-        <vendor>Life Extension</vendor>
-        <categoryId>DSN_1062</categoryId>
+        <vendor>Puritans Pride</vendor>
+        <categoryId>DSN_1536</categoryId>
         <additionalCategories>
-          <id>1536</id>
+          <id>1062</id>
         </additionalCategories>
         <picture>https://dsn.ua/content/images/25/biotin-10000mcg-100caps-zlyplysia-kapsuly-29994128496615_+c64ce90e3f.jpeg</picture>
         <picture>https://dsn.ua/content/images/25/biotin-10000mcg-100caps-zlyplysia-kapsuly-42062242720554_+39f5e5a654.png</picture>
