@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-09 23:53"><shop><categories><category id="DSN_1536">Осіннє промо</category>
+<yml_catalog date="2026-11-10 04:57"><shop><categories><category id="DSN_1536">Осіннє промо</category>
       <category id="DSN_1175">Розпродаж</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
@@ -6590,7 +6590,7 @@ B6 (пиридоксина гидрохлорид) - 1,4 мг&lt;br /&gt;
       <offer id="DSN_5741" available="true">
         <price>279.83</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1864</quantity_in_stock>
+        <quantity_in_stock>1863</quantity_in_stock>
         <name lang="ua">Melatonin 5 mg - 60 vcaps</name>
         <name lang="ru">Melatonin 5 mg - 60 vcaps</name>
         <vendorCode>DSN_100-95-2342189-20</vendorCode>
@@ -16126,7 +16126,7 @@ Swanson Vitamin C с шиповником &amp;mdash; идеальная пар�
       <offer id="DSN_8021" available="true">
         <price>276.64</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>78</quantity_in_stock>
+        <quantity_in_stock>77</quantity_in_stock>
         <name lang="ua">Vitamin C with Rose Hips 500 mg - 100 caps</name>
         <name lang="ru">Vitamin C with Rose Hips 500 mg - 100 caps</name>
         <vendorCode>DSN_100-82-2139339-20</vendorCode>
@@ -21352,7 +21352,7 @@ L-валин - 1125 мг&lt;br /&gt;
       <offer id="DSN_8944" available="true">
         <price>191.56</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>169</quantity_in_stock>
+        <quantity_in_stock>168</quantity_in_stock>
         <name lang="ua">Zinc Picolinate 22 mg - 60 caps</name>
         <name lang="ru">Zinc Picolinate 22 mg - 60 caps</name>
         <vendorCode>DSN_100-98-2790940-20</vendorCode>
@@ -56770,7 +56770,7 @@ EPA и DHA помогают регулировать воспалительны�
       <offer id="DSN_18424" available="true">
         <price>628.23</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2861</quantity_in_stock>
+        <quantity_in_stock>2860</quantity_in_stock>
         <name lang="ua">Spirulina 1000 mg - 120 tabs</name>
         <name lang="ru">Spirulina 1000 mg - 120 tabs</name>
         <vendorCode>DSN_2022-10-0084</vendorCode>
@@ -65210,7 +65210,7 @@ NOW &amp;reg; Ultra Omega 3-D&amp;trade; &amp;mdash; самая мощная ф�
       <offer id="DSN_22062" available="true">
         <price>1109.75</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>822</quantity_in_stock>
+        <quantity_in_stock>821</quantity_in_stock>
         <name lang="ua">Magnesium Glycinate - 180 tabs</name>
         <name lang="ru">Magnesium Glycinate - 180 tabs</name>
         <vendorCode>DSN_2022-10-0414</vendorCode>
@@ -92120,7 +92120,7 @@ BioPerine&amp;reg;&lt;br /&gt;
       <offer id="DSN_25218" available="true">
         <price>712.08</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>380</quantity_in_stock>
+        <quantity_in_stock>379</quantity_in_stock>
         <name lang="ua">Children’s Gold Multivitamin - 60 tabs Assorted</name>
         <name lang="ru">Children’s Gold Multivitamin - 60 tabs Assorted</name>
         <vendorCode>DSN_2022-10-2846</vendorCode>
@@ -131382,7 +131382,7 @@ Fast Acting Melatonin NaturesPlus поддерживает системы орг
       <offer id="DSN_28128" available="true">
         <price>463.65</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>314</quantity_in_stock>
+        <quantity_in_stock>313</quantity_in_stock>
         <name lang="ua">Ultra-Mag - 90 vcaps</name>
         <name lang="ru">Ultra-Mag - 90 vcaps</name>
         <vendorCode>DSN_2023-10-3285</vendorCode>
@@ -139690,7 +139690,7 @@ Zinc Plus&amp;trade; от ChildLife&amp;reg; содержит основные �
       <offer id="DSN_28785" available="true">
         <price>732.10</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>54</quantity_in_stock>
+        <quantity_in_stock>53</quantity_in_stock>
         <name lang="ua">L-Lysine 1000mg - 100 tabs</name>
         <name lang="ru">L-Lysine 1000mg - 100 tabs</name>
         <vendorCode>DSN_100-17-9566270-20</vendorCode>
@@ -234201,7 +234201,7 @@ B12 (цианокобаламин) - 20 мкг&lt;br /&gt;
       <offer id="DSN_33959" available="true">
         <price>1042.10</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name lang="ua">Lipobar Exclusive - 20x50g Mix Box</name>
         <name lang="ru">Lipobar Exclusive - 20x50g Mix Box</name>
         <vendorCode>DSN_2024-11-0181</vendorCode>
