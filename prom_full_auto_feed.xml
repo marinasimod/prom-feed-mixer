@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-15 23:37"><shop><categories><category id="DSN_1536">Осіннє промо</category>
+<yml_catalog date="2026-11-16 03:28"><shop><categories><category id="DSN_1536">Осіннє промо</category>
       <category id="DSN_1175">Розпродаж</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
@@ -16050,7 +16050,7 @@ Swanson Vitamin C с шиповником &amp;mdash; идеальная пар�
       <offer id="DSN_8019" available="true">
         <price>211.46</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>352</quantity_in_stock>
+        <quantity_in_stock>351</quantity_in_stock>
         <name lang="ua">Melatonin 3 mg - 120 caps</name>
         <name lang="ru">Melatonin 3 mg - 120 caps</name>
         <vendorCode>DSN_100-51-9621563-20</vendorCode>
@@ -16126,7 +16126,7 @@ Swanson Vitamin C с шиповником &amp;mdash; идеальная пар�
       <offer id="DSN_8021" available="true">
         <price>286.98</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>63</quantity_in_stock>
+        <quantity_in_stock>62</quantity_in_stock>
         <name lang="ua">Vitamin C with Rose Hips 500 mg - 100 caps</name>
         <name lang="ru">Vitamin C with Rose Hips 500 mg - 100 caps</name>
         <vendorCode>DSN_100-82-2139339-20</vendorCode>
@@ -21352,7 +21352,7 @@ L-валин - 1125 мг&lt;br /&gt;
       <offer id="DSN_8944" available="true">
         <price>198.71</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>441</quantity_in_stock>
+        <quantity_in_stock>439</quantity_in_stock>
         <name lang="ua">Zinc Picolinate 22 mg - 60 caps</name>
         <name lang="ru">Zinc Picolinate 22 mg - 60 caps</name>
         <vendorCode>DSN_100-98-2790940-20</vendorCode>
@@ -21869,7 +21869,7 @@ Swanson Albion Chelate Magnesium обеспечивает минеральную
       <offer id="DSN_9033" available="true">
         <price>417.25</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>94</quantity_in_stock>
+        <quantity_in_stock>93</quantity_in_stock>
         <name lang="ua">Kelp Iodine Source 225 mcg - 250 Tabs Per Bottle</name>
         <name lang="ru">Kelp Iodine Source 225 mcg - 250 Tabs Per Bottle</name>
         <vendorCode>DSN_100-70-7269499-20</vendorCode>
@@ -23468,7 +23468,7 @@ Swanson Grape Seed, Green Tea &amp; Pine Bark &amp;mdash; это экономи�
       <offer id="DSN_9239" available="true">
         <price>288.39</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>504</quantity_in_stock>
+        <quantity_in_stock>503</quantity_in_stock>
         <name lang="ua">Milk Thistle 500mg - 100caps</name>
         <name lang="ru">Milk Thistle 500mg - 100caps</name>
         <vendorCode>DSN_100-21-9320641-20</vendorCode>
@@ -29938,7 +29938,7 @@ CLA Extreme&amp;trade; сочетает в себе гуарану и экстр
       <offer id="DSN_10869" available="true">
         <price>356.83</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>145</quantity_in_stock>
+        <quantity_in_stock>144</quantity_in_stock>
         <name lang="ua">Saw Palmetto 540 mg - 100 caps</name>
         <name lang="ru">Saw Palmetto 540 mg - 100 caps</name>
         <vendorCode>DSN_100-22-3394158-20</vendorCode>
@@ -40056,7 +40056,7 @@ Swanson Eleuthero Root помогает бороться с последстви
       <offer id="DSN_13340" available="true">
         <price>423.38</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>66</quantity_in_stock>
+        <quantity_in_stock>65</quantity_in_stock>
         <name lang="ua">Triple Magnesium complex - 100caps</name>
         <name lang="ru">Triple Magnesium complex - 100caps</name>
         <vendorCode>DSN_100-64-0992292-20</vendorCode>
@@ -40355,7 +40355,7 @@ Swanson Triple Magnesium Complex &amp;mdash; лучший дополнитель
       <offer id="DSN_13349" available="true">
         <price>216.65</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>73</quantity_in_stock>
+        <quantity_in_stock>72</quantity_in_stock>
         <name lang="ua">Vitamin B12 500 mcg - 100 Caps</name>
         <name lang="ru">Vitamin B12 500 mcg - 100 Caps</name>
         <vendorCode>DSN_100-48-9928787-20</vendorCode>
@@ -40655,7 +40655,7 @@ Swanson Liver Essentials обеспечивает прочную основу д
       <offer id="DSN_13357" available="true">
         <price>432.82</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>179</quantity_in_stock>
+        <quantity_in_stock>178</quantity_in_stock>
         <name lang="ua">Full Spect Boswellia and Curcumin - 60 Caps</name>
         <name lang="ru">Full Spect Boswellia and Curcumin - 60 Caps</name>
         <vendorCode>DSN_100-37-4856184-20</vendorCode>
@@ -47476,7 +47476,7 @@ Swanson Vitamin B6 имеет много преимуществ для орга�
       <offer id="DSN_14739" available="true">
         <price>213.34</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>140</quantity_in_stock>
+        <quantity_in_stock>139</quantity_in_stock>
         <name lang="ua">Boron Boroganic Glycine 6mg - 60caps</name>
         <name lang="ru">Boron Boroganic Glycine 6mg - 60caps</name>
         <vendorCode>DSN_2022-09-0937</vendorCode>
@@ -74634,7 +74634,7 @@ NOW сочетает в себе два питательных вещества,
       <offer id="DSN_23481" available="true">
         <price>447.93</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>109</quantity_in_stock>
+        <quantity_in_stock>110</quantity_in_stock>
         <name lang="ua">Methyl B-12 1000mcg - 100 lozenges</name>
         <name lang="ru">Methyl B-12 1000mcg - 100 lozenges</name>
         <vendorCode>DSN_100-52-8755684-20</vendorCode>
@@ -95381,7 +95381,7 @@ ALLNUTRITION Isolate Protein характеризуется высокой би�
       <offer id="DSN_25546" available="true">
         <price>866.59</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1480</quantity_in_stock>
+        <quantity_in_stock>1479</quantity_in_stock>
         <name lang="ua">Ultra-Mag Magnesium Complex - 120 tabs</name>
         <name lang="ru">Ultra-Mag Magnesium Complex - 120 tabs</name>
         <vendorCode>DSN_2022-10-1304</vendorCode>
@@ -144757,7 +144757,7 @@ C4 Sport с гордостью носит логотип "Informed-Sport". Ло�
       <offer id="DSN_29139" available="true">
         <price>385.15</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>54</quantity_in_stock>
+        <quantity_in_stock>53</quantity_in_stock>
         <name lang="ua">Liquid Iodine Plus - 59 ml Orange</name>
         <name lang="ru">Liquid Iodine Plus - 59 ml Orange</name>
         <vendorCode>DSN_2023-10-3982</vendorCode>
@@ -205629,7 +205629,7 @@ Healthy Renewal Formula&amp;trade;&lt;br /&gt;
       <offer id="DSN_32365" available="true">
         <price>254.88</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>650</quantity_in_stock>
+        <quantity_in_stock>648</quantity_in_stock>
         <name lang="ua">Cal Mag Zinc + D - 90 tabs</name>
         <name lang="ru">Cal Mag Zinc + D - 90 tabs</name>
         <vendorCode>DSN_100-77-6130050-20</vendorCode>
