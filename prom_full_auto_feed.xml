@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-19 16:52"><shop><categories><category id="DSN_1536">Осіннє промо</category>
+<yml_catalog date="2026-11-20 01:28"><shop><categories><category id="DSN_1536">Осіннє промо</category>
       <category id="DSN_1175">Розпродаж</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
@@ -1963,7 +1963,7 @@
       <offer id="DSN_4527" available="true">
         <price>1131.70</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>15</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <name lang="ua">Zinc and Magnesium - 270caps</name>
         <name lang="ru">Zinc and Magnesium - 270caps</name>
         <vendorCode>DSN_100-34-1058491-20</vendorCode>
@@ -4510,7 +4510,7 @@ ALLNUTRITION Whey Protein можно использовать в любое вр
       <offer id="DSN_5272" available="true">
         <price>449.34</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>26</quantity_in_stock>
+        <quantity_in_stock>16</quantity_in_stock>
         <name lang="ua">Glucosamine Chondroitin MSM Double Strength - 60 Caplets</name>
         <name lang="ru">Glucosamine Chondroitin MSM Double Strength - 60 Caplets</name>
         <vendorCode>DSN_100-18-6397199-20</vendorCode>
@@ -4976,7 +4976,7 @@ gриголомшливий смак.&lt;/p&gt;</description>
       <offer id="DSN_5427" available="true">
         <price>576.31</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>334</quantity_in_stock>
+        <quantity_in_stock>331</quantity_in_stock>
         <name lang="ua">One Daily Men`s Multivitamin - 100 caps</name>
         <name lang="ru">One Daily Men`s Multivitamin - 100 caps</name>
         <vendorCode>DSN_100-74-8557232-20</vendorCode>
@@ -8572,7 +8572,7 @@ FITPLAN &amp;ndash; это прекрасный вариант для того, 
       <offer id="DSN_6344" available="true">
         <price>362.97</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>611</quantity_in_stock>
+        <quantity_in_stock>609</quantity_in_stock>
         <name lang="ua">Vitamin D-3 125mcg (5000 IU) Sunvite Mega Potency - 100 tabs</name>
         <name lang="ru">Vitamin D-3 125mcg (5000 IU) Sunvite Mega Potency - 100 tabs</name>
         <vendorCode>DSN_100-99-0283453-20</vendorCode>
@@ -15035,7 +15035,7 @@ ALLNUTRITION Whey Protein можно использовать в любое вр
       <offer id="DSN_7635" available="true">
         <price>1392.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>15</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <name lang="ua">Vegan Bar 32% protein - 20x60g</name>
         <name lang="ru">Vegan Bar 32% protein - 20x60g</name>
         <vendorCode>DSN_100-11-5491236-20</vendorCode>
@@ -16051,7 +16051,7 @@ Swanson Vitamin C с шиповником &amp;mdash; идеальная пар�
       <offer id="DSN_8019" available="true">
         <price>211.46</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>295</quantity_in_stock>
+        <quantity_in_stock>292</quantity_in_stock>
         <name lang="ua">Melatonin 3 mg - 120 caps</name>
         <name lang="ru">Melatonin 3 mg - 120 caps</name>
         <vendorCode>DSN_100-51-9621563-20</vendorCode>
@@ -16127,7 +16127,7 @@ Swanson Vitamin C с шиповником &amp;mdash; идеальная пар�
       <offer id="DSN_8021" available="true">
         <price>286.98</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>39</quantity_in_stock>
+        <quantity_in_stock>37</quantity_in_stock>
         <name lang="ua">Vitamin C with Rose Hips 500 mg - 100 caps</name>
         <name lang="ru">Vitamin C with Rose Hips 500 mg - 100 caps</name>
         <vendorCode>DSN_100-82-2139339-20</vendorCode>
@@ -16164,7 +16164,7 @@ Swanson Vitamin C с шиповником &amp;mdash; идеальная пар�
       <offer id="DSN_8023" available="true">
         <price>391.29</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>140</quantity_in_stock>
+        <quantity_in_stock>139</quantity_in_stock>
         <name lang="ua">Ultra 5-HTP 100 mg - 60 caps</name>
         <name lang="ru">Ultra 5-HTP 100 mg - 60 caps</name>
         <vendorCode>DSN_100-61-7666951-20</vendorCode>
@@ -19599,7 +19599,7 @@ Coenzyme Q-10 &amp;ndash; 50 мг&lt;br /&gt;
       <offer id="DSN_8701" available="true">
         <price>518.50</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name lang="ua">Stark Sunflower Lecithin - 250g</name>
         <name lang="ru">Stark Sunflower Lecithin - 250g</name>
         <vendorCode>DSN_100-83-6408313-20</vendorCode>
@@ -22556,7 +22556,7 @@ Swanson Health Products предлагает множество качестве
       <offer id="DSN_9191" available="true">
         <price>353.53</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1186</quantity_in_stock>
+        <quantity_in_stock>1185</quantity_in_stock>
         <name lang="ua">Ashwagandha 450mg - 100caps</name>
         <name lang="ru">Ashwagandha 450mg - 100caps</name>
         <vendorCode>DSN_100-93-4411784-20</vendorCode>
@@ -23134,7 +23134,7 @@ Swanson DHEA является предшественником эстроген�
       <offer id="DSN_9225" available="true">
         <price>621.15</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>371</quantity_in_stock>
+        <quantity_in_stock>370</quantity_in_stock>
         <name lang="ua">Tongkat Ali -120 caps</name>
         <name lang="ru">Tongkat Ali -120 caps</name>
         <vendorCode>DSN_100-21-9942407-20</vendorCode>
@@ -24096,7 +24096,7 @@ K2 помогает регулировать получение кальция �
       <offer id="DSN_9295" available="true">
         <price>314.82</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>18</quantity_in_stock>
+        <quantity_in_stock>17</quantity_in_stock>
         <name lang="ua">Dandelion Root 515mg - 60caps</name>
         <name lang="ru">Dandelion Root 515mg - 60caps</name>
         <vendorCode>DSN_100-44-1862229-20</vendorCode>
@@ -24237,7 +24237,7 @@ K2 помогает регулировать получение кальция �
       <offer id="DSN_9311" available="true">
         <price>286.98</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>30</quantity_in_stock>
+        <quantity_in_stock>29</quantity_in_stock>
         <name lang="ua">Full Spectrum Ginger Turmeric - 60caps</name>
         <name lang="ru">Full Spectrum Ginger Turmeric - 60caps</name>
         <vendorCode>DSN_100-48-4968203-20</vendorCode>
@@ -29044,7 +29044,7 @@ GANGSTER &amp;ndash; это заряженный до отказа ядрами 
       <offer id="DSN_10651" available="true">
         <price>409.22</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>230</quantity_in_stock>
+        <quantity_in_stock>229</quantity_in_stock>
         <name lang="ua">Silymarin 150 mg - 60 veg caps</name>
         <name lang="ru">Silymarin 150 mg - 60 veg caps</name>
         <vendorCode>DSN_100-62-5599786-20</vendorCode>
@@ -36308,7 +36308,7 @@ B6 (пиридоксина гидрохлорид) - 1,4 мг&lt;br /&gt;
       <offer id="DSN_12977" available="true">
         <price>658.55</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>58</quantity_in_stock>
+        <quantity_in_stock>57</quantity_in_stock>
         <name lang="ua">Creatine monohydrate - 500g Pure</name>
         <name lang="ru">Creatine monohydrate - 500g Pure</name>
         <vendorCode>DSN_100-97-7119051-20</vendorCode>
@@ -36517,7 +36517,7 @@ B6 (пиридоксина гидрохлорид) - 1,4 мг&lt;br /&gt;
       <offer id="DSN_13036" available="true">
         <price>575.84</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>360</quantity_in_stock>
+        <quantity_in_stock>357</quantity_in_stock>
         <name lang="ua">One Daily Women's Multivitamin - 100 caps</name>
         <name lang="ru">One Daily Women's Multivitamin - 100 caps</name>
         <vendorCode>DSN_100-36-0766106-20</vendorCode>
@@ -39559,7 +39559,7 @@ Swanson Full Spectrum Rhodiola Rosea Root &amp;mdash; лучший выбор д
       <offer id="DSN_13327" available="true">
         <price>144.43</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name lang="ua">St. John's Wort 375mg - 60caps</name>
         <name lang="ru">St. John's Wort 375mg - 60caps</name>
         <vendorCode>DSN_100-79-5898761-20</vendorCode>
@@ -40058,7 +40058,7 @@ Swanson Eleuthero Root помогает бороться с последстви
       <offer id="DSN_13340" available="true">
         <price>423.38</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>31</quantity_in_stock>
+        <quantity_in_stock>27</quantity_in_stock>
         <name lang="ua">Triple Magnesium complex - 100caps</name>
         <name lang="ru">Triple Magnesium complex - 100caps</name>
         <vendorCode>DSN_100-64-0992292-20</vendorCode>
@@ -47478,7 +47478,7 @@ Swanson Vitamin B6 имеет много преимуществ для орга�
       <offer id="DSN_14739" available="true">
         <price>213.34</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>128</quantity_in_stock>
+        <quantity_in_stock>127</quantity_in_stock>
         <name lang="ua">Boron Boroganic Glycine 6mg - 60caps</name>
         <name lang="ru">Boron Boroganic Glycine 6mg - 60caps</name>
         <vendorCode>DSN_2022-09-0937</vendorCode>
@@ -53452,7 +53452,7 @@ NOW&amp;reg; Chewable Vitamin D-3 поставляет этот ключевой
       <offer id="DSN_18328" available="true">
         <price>404.98</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>473</quantity_in_stock>
+        <quantity_in_stock>470</quantity_in_stock>
         <name lang="ua">VIT D-3 5000 IU - 120 sgels</name>
         <name lang="ru">VIT D-3 5000 IU - 120 sgels</name>
         <vendorCode>DSN_2022-09-1189</vendorCode>
@@ -53656,7 +53656,7 @@ MK‑7 обладает высокой биодоступностью и дли�
       <offer id="DSN_18333" available="true">
         <price>633.90</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name lang="ua">B-50 - 100 vcaps</name>
         <name lang="ru">B-50 - 100 vcaps</name>
         <vendorCode>DSN_2022-09-1194</vendorCode>
@@ -54003,7 +54003,7 @@ MK‑7 обладает высокой биодоступностью и дли�
       <offer id="DSN_18345" available="true">
         <price>646.17</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>788</quantity_in_stock>
+        <quantity_in_stock>787</quantity_in_stock>
         <name lang="ua">BIOTIN 10mg (10,000mcg) - 120 vcaps</name>
         <name lang="ru">BIOTIN 10mg (10,000mcg) - 120 vcaps</name>
         <vendorCode>DSN_2022-10-0007</vendorCode>
@@ -54107,7 +54107,7 @@ MK‑7 обладает высокой биодоступностью и дли�
       <offer id="DSN_18348" available="true">
         <price>323.79</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>156</quantity_in_stock>
+        <quantity_in_stock>152</quantity_in_stock>
         <name lang="ua">C-500 RH - 100 tabs</name>
         <name lang="ru">C-500 RH - 100 tabs</name>
         <vendorCode>DSN_2022-10-0010</vendorCode>
@@ -55254,7 +55254,7 @@ Ferrochel&amp;reg; обеспечивает высокую биодоступн�
       <offer id="DSN_18381" available="true">
         <price>268.10</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>129</quantity_in_stock>
+        <quantity_in_stock>128</quantity_in_stock>
         <name lang="ua">Selenium 100 mcg - 100 tabs</name>
         <name lang="ru">Selenium 100 mcg - 100 tabs</name>
         <vendorCode>DSN_2022-10-0042</vendorCode>
@@ -55690,7 +55690,7 @@ Ferrochel&amp;reg; обеспечивает высокую биодоступн�
       <offer id="DSN_18393" available="true">
         <price>467.28</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>4175</quantity_in_stock>
+        <quantity_in_stock>4174</quantity_in_stock>
         <name lang="ua">Omega-3 1000mg - 100 sgels</name>
         <name lang="ru">Omega-3 1000mg - 100 sgels</name>
         <vendorCode>DSN_2022-10-0053</vendorCode>
@@ -56150,7 +56150,7 @@ EPA и DHA помогают регулировать воспалительны�
       <offer id="DSN_18407" available="true">
         <price>575.37</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>161</quantity_in_stock>
+        <quantity_in_stock>158</quantity_in_stock>
         <name lang="ua">Omega 3-6-9 1000 mg - 100 sgels</name>
         <name lang="ru">Omega 3-6-9 1000 mg - 100 sgels</name>
         <vendorCode>DSN_2022-10-0067</vendorCode>
@@ -56176,7 +56176,7 @@ EPA и DHA помогают регулировать воспалительны�
       <offer id="DSN_18408" available="true">
         <price>790.60</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>233</quantity_in_stock>
+        <quantity_in_stock>232</quantity_in_stock>
         <name lang="ua">Super Omega 3-6-9 1200 mg - 90 sgels</name>
         <name lang="ru">Super Omega 3-6-9 1200 mg - 90 sgels</name>
         <vendorCode>DSN_2022-10-0068</vendorCode>
@@ -56605,7 +56605,7 @@ EPA и DHA помогают регулировать воспалительны�
       <offer id="DSN_18419" available="true">
         <price>1157.82</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1429</quantity_in_stock>
+        <quantity_in_stock>1426</quantity_in_stock>
         <name lang="ua">Chlorophyll Liquid Mint - 16 oz</name>
         <name lang="ru">Chlorophyll Liquid Mint - 16 oz</name>
         <vendorCode>DSN_2022-10-0079</vendorCode>
@@ -58382,7 +58382,7 @@ NOW&amp;reg; Boswellia Extract &amp;mdash; это стандартизирова
       <offer id="DSN_21744" available="true">
         <price>375.71</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>541</quantity_in_stock>
+        <quantity_in_stock>537</quantity_in_stock>
         <name lang="ua">Sulforaphane from Broccoli Sprout Extract 400 mcg - 60veg caps</name>
         <name lang="ru">Sulforaphane from Broccoli Sprout Extract 400 mcg - 60veg caps</name>
         <vendorCode>DSN_2022-10-0211</vendorCode>
@@ -58966,7 +58966,7 @@ CREATINE MUSCLE MAX - Эффекты!&lt;br /&gt;
       <offer id="DSN_21799" available="true">
         <price>304.91</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>87</quantity_in_stock>
+        <quantity_in_stock>86</quantity_in_stock>
         <name lang="ua">Melatonin-Dual-Release 3mg - 60tabs</name>
         <name lang="ru">Melatonin-Dual-Release 3mg - 60tabs</name>
         <vendorCode>DSN_100-41-5548430-20</vendorCode>
@@ -59160,7 +59160,7 @@ CREATINE MUSCLE MAX - Эффекты!&lt;br /&gt;
 Другие ингредиенты: желатин, мальтодекстрин, стеарат магния, диоксид кремния. Содержит пшеницу (глютен).&lt;/p&gt; &lt;p&gt;Рекомендации по применению: в качестве диетической добавки принимайте по две капсулы два раза в день, запивая водой.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_21836" available="false">
-        <price>1157.27</price>
+        <price>1094.63</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Collagen Peptides - 300g Forest Fruits</name>
@@ -59187,7 +59187,7 @@ CREATINE MUSCLE MAX - Эффекты!&lt;br /&gt;
         <param name="Цель" key="xarakteristikaRezerv2" id="8" lang="ru">Для опорно-двигательного аппарата</param>
       </offer>
       <offer id="DSN_21837" available="true">
-        <price>1157.27</price>
+        <price>1125.95</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>71</quantity_in_stock>
         <name lang="ua">Collagen Peptides - 300g Orange</name>
@@ -59214,7 +59214,7 @@ CREATINE MUSCLE MAX - Эффекты!&lt;br /&gt;
         <param name="Цель" key="xarakteristikaRezerv2" id="8" lang="ru">Для опорно-двигательного аппарата</param>
       </offer>
       <offer id="DSN_21838" available="true">
-        <price>845.64</price>
+        <price>822.67</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>678</quantity_in_stock>
         <name lang="ua">Glucosamine Chondroitin MSM - 90 tabs</name>
@@ -59329,7 +59329,7 @@ CREATINE MUSCLE MAX - Эффекты!&lt;br /&gt;
         <param name="Цель" key="xarakteristikaRezerv2" id="10" lang="ru">Для снижения веса</param>
       </offer>
       <offer id="DSN_21841" available="true">
-        <price>1123.87</price>
+        <price>1055.48</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>207</quantity_in_stock>
         <name lang="ua">Ultra Women's Multivitamin - 90 softgels</name>
@@ -59363,7 +59363,7 @@ CREATINE MUSCLE MAX - Эффекты!&lt;br /&gt;
         <param name="Цель" key="xarakteristikaRezerv2" id="9" lang="ru">Для иммунитета</param>
       </offer>
       <offer id="DSN_21842" available="true">
-        <price>1123.87</price>
+        <price>1055.48</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>289</quantity_in_stock>
         <name lang="ua">Ultra Men's Multivitamin - 90 softgels</name>
@@ -59397,9 +59397,9 @@ CREATINE MUSCLE MAX - Эффекты!&lt;br /&gt;
         <param name="Цель" key="xarakteristikaRezerv2" id="9" lang="ru">Для иммунитета</param>
       </offer>
       <offer id="DSN_21843" available="true">
-        <price>979.27</price>
+        <price>822.15</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>172</quantity_in_stock>
+        <quantity_in_stock>170</quantity_in_stock>
         <name lang="ua">Ultra Women Multivitamin Formula - 90 caps</name>
         <name lang="ru">Ultra Women Multivitamin Formula - 90 caps</name>
         <vendorCode>DSN_2022-10-0275</vendorCode>
@@ -59450,7 +59450,7 @@ Ultra Women&amp;#39;s Sport наполнен дополнительными пи
         <param name="Цель" key="xarakteristikaRezerv2" id="4" lang="ru">Для общего оздоровления</param>
       </offer>
       <offer id="DSN_21844" available="true">
-        <price>979.27</price>
+        <price>822.15</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>434</quantity_in_stock>
         <name lang="ua">Multivitamin Ultra Men's Sport - 90 caps</name>
@@ -59499,7 +59499,7 @@ Ultra Men&amp;#39;s Sport наполнен дополнительными пит
         <param name="Цель" key="xarakteristikaRezerv2" id="37" lang="ru">Для общего оздоровления</param>
       </offer>
       <offer id="DSN_21845" available="true">
-        <price>726.10</price>
+        <price>730.80</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>147</quantity_in_stock>
         <name lang="ua">Daily 1 Multivitamin - 100 caps</name>
@@ -59535,7 +59535,7 @@ Ultra Men&amp;#39;s Sport наполнен дополнительными пит
         <param name="Цель" key="xarakteristikaRezerv2" id="18" lang="ru">Для активного долголетия</param>
       </offer>
       <offer id="DSN_21847" available="true">
-        <price>523.04</price>
+        <price>508.95</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>932</quantity_in_stock>
         <name lang="ua">Strong Omega 3 - 60 softgels</name>
@@ -59576,7 +59576,7 @@ Strong Omega 3 &amp;ndash; это высококачественный рыби�
         <param name="Цель" key="xarakteristikaRezerv2" id="13" lang="ru">Для сердца</param>
       </offer>
       <offer id="DSN_21848" available="true">
-        <price>461.97</price>
+        <price>449.44</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>41</quantity_in_stock>
         <name lang="ua">L-Lysine - 90 caps</name>
@@ -59613,9 +59613,9 @@ Strong Omega 3 &amp;ndash; это высококачественный рыби�
         <param name="Цель" key="xarakteristikaRezerv2" id="22" lang="ru">Для общего восстановления</param>
       </offer>
       <offer id="DSN_21849" available="true">
-        <price>845.64</price>
+        <price>822.67</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>400</quantity_in_stock>
+        <quantity_in_stock>399</quantity_in_stock>
         <name lang="ua">Tribulus Terrestris - 90 caps</name>
         <name lang="ru">Tribulus Terrestris - 90 caps</name>
         <vendorCode>DSN_2022-10-0281</vendorCode>
@@ -59660,7 +59660,7 @@ Tribulus terrestris &amp;ndash; это небольшое плодоносное
         <param name="Цель" key="xarakteristikaRezerv2" id="47" lang="ru">Для тестостерона</param>
       </offer>
       <offer id="DSN_21850" available="true">
-        <price>839.90</price>
+        <price>789.26</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>198</quantity_in_stock>
         <name lang="ua">Beauty Collagen Peptides - 150g</name>
@@ -59746,7 +59746,7 @@ Beauty Liquid Collagen поставляется в виде легкого в и
         <param name="Цель" key="xarakteristikaRezerv2" id="20" lang="ru">Для кожи, волос, ногтей</param>
       </offer>
       <offer id="DSN_21852" available="true">
-        <price>879.05</price>
+        <price>855.04</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>137</quantity_in_stock>
         <name lang="ua">Ultra Women's Evening Primrose oil - 60 softgels</name>
@@ -59795,7 +59795,7 @@ Beauty Liquid Collagen поставляется в виде легкого в и
         <description lang="ru">Штрихкод: 2000000558714&lt;p&gt;Вы принимаете много пищевых добавок, чтобы оставаться здоровыми, сильными и бодрыми? Любите брать добавки в путь, но не хотите носить с собой пять бутылок? Футляр для таблеток VPLAB значительно облегчит вашу жизнь.&lt;/p&gt; &lt;p&gt;Этот компактный контейнер для таблеток имеет пять отделений, каждое из которых достаточно большое, чтобы вместить несколько таблеток или капсул. Чехол легко уместится в рюкзак, портфель или даже небольшую сумочку. Крышка надежно закрывается, поэтому вам не придется беспокоиться о том, что таблетки потеряется в сумке.&lt;/p&gt; &lt;p&gt;Футляр для таблеток VPLAB идеально подходит для тех, кто ведет напряженную жизнь и принимает множество лекарств или добавок. Может быть трудно найти время, чтобы принять все свои добавки, прежде чем выйти из дома утром. Некоторые добавки работают лучше всего, если их принимать в определенное время в течение дня, например непосредственно перед тренировкой. Некоторые из них работают лучше всего, если их принимать с едой или без еды. Возможность носить добавки с собой на ходу дает вам возможность принимать их в любое удобное для вашего организма время.&lt;/p&gt; &lt;p&gt;Покупка таблеток VPLAB &amp;ndash; это простой способ облегчить вашу жизнь. Это избавляет от хлопот с приемом добавок, помогая вам оставаться здоровыми и сильными.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_21855" available="true">
-        <price>1101.42</price>
+        <price>1071.67</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>31</quantity_in_stock>
         <name lang="ua">Absolute Joint - 400g Raspberry</name>
@@ -59839,7 +59839,7 @@ Absolute Joint здесь, чтобы вы вели здоровый, актив
         <param name="Цель" key="xarakteristikaRezerv2" id="8" lang="ru">Для опорно-двигательного аппарата</param>
       </offer>
       <offer id="DSN_21857" available="true">
-        <price>550.71</price>
+        <price>535.57</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>531</quantity_in_stock>
         <name lang="ua">Omega 3-6-9 - 60 caps</name>
@@ -59871,7 +59871,7 @@ Absolute Joint здесь, чтобы вы вели здоровый, актив
         <param name="Цель" key="xarakteristikaRezerv2" id="13" lang="ru">Для сердца</param>
       </offer>
       <offer id="DSN_21858" available="false">
-        <price>388.37</price>
+        <price>377.93</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Ultra Immune - 30 caps</name>
@@ -60544,7 +60544,7 @@ Ultra Immune содержит 17 основных витаминов и мине
       <offer id="DSN_18132" available="true">
         <price>55.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>64</quantity_in_stock>
+        <quantity_in_stock>63</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g American (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g American (Поштучно)</name>
         <vendorCode>DSN_2022-09-1024</vendorCode>
@@ -60560,7 +60560,7 @@ Ultra Immune содержит 17 основных витаминов и мине
       <offer id="DSN_18133" available="true">
         <price>55.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>16</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name lang="ua">Protein Cookie - 40g Black (Поштучно)</name>
         <name lang="ru">Protein Cookie - 40g Black (Поштучно)</name>
         <vendorCode>DSN_2022-09-1025</vendorCode>
@@ -60576,7 +60576,7 @@ Ultra Immune содержит 17 основных витаминов и мине
       <offer id="DSN_18134" available="true">
         <price>55.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>246</quantity_in_stock>
+        <quantity_in_stock>245</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Candy (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g Candy (Поштучно)</name>
         <vendorCode>DSN_2022-09-1026</vendorCode>
@@ -60592,7 +60592,7 @@ Ultra Immune содержит 17 основных витаминов и мине
       <offer id="DSN_18135" available="true">
         <price>55.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>528</quantity_in_stock>
+        <quantity_in_stock>527</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Chocolate (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g Chocolate (Поштучно)</name>
         <vendorCode>DSN_2022-09-1027</vendorCode>
@@ -60624,7 +60624,7 @@ Ultra Immune содержит 17 основных витаминов и мине
       <offer id="DSN_18137" available="true">
         <price>55.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>213</quantity_in_stock>
+        <quantity_in_stock>212</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Marshmallow (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g Marshmallow (Поштучно)</name>
         <vendorCode>DSN_2022-09-1029</vendorCode>
@@ -60656,7 +60656,7 @@ Ultra Immune содержит 17 основных витаминов и мине
       <offer id="DSN_18139" available="true">
         <price>55.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>49</quantity_in_stock>
+        <quantity_in_stock>48</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Red Velvet (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g Red Velvet (Поштучно)</name>
         <vendorCode>DSN_2022-09-1031</vendorCode>
@@ -63735,7 +63735,7 @@ TIGGER CRUNCHY PROTEIN BAR идеально подходит для активн
 Употребляйте 1 батончик в день, желательно до или после тренировки.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_21869" available="true">
-        <price>534.01</price>
+        <price>519.91</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>64</quantity_in_stock>
         <name lang="ua">Skin, Nails &amp; Hair - 60 caps</name>
@@ -63759,7 +63759,7 @@ TIGGER CRUNCHY PROTEIN BAR идеально подходит для активн
         <param name="Цель" key="xarakteristikaRezerv2" id="20" lang="ru">Для кожи, волос, ногтей</param>
       </offer>
       <offer id="DSN_21870" available="true">
-        <price>311.63</price>
+        <price>302.76</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>1476</quantity_in_stock>
         <name lang="ua">Zinc - 60 caps</name>
@@ -63793,7 +63793,7 @@ TIGGER CRUNCHY PROTEIN BAR идеально подходит для активн
         <param name="Цель" key="xarakteristikaRezerv2" id="37" lang="ru">Для общего оздоровления</param>
       </offer>
       <offer id="DSN_21871" available="true">
-        <price>378.45</price>
+        <price>356.00</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>204</quantity_in_stock>
         <name lang="ua">Vitamin C - 60 caps</name>
@@ -63832,7 +63832,7 @@ TIGGER CRUNCHY PROTEIN BAR идеально подходит для активн
         <param name="Цель" key="xarakteristikaRezerv2" id="29" lang="ru">Для иммунитета</param>
       </offer>
       <offer id="DSN_21872" available="true">
-        <price>396.72</price>
+        <price>439.00</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>33</quantity_in_stock>
         <name lang="ua">Echinacea Plus - 60 caps</name>
@@ -63862,7 +63862,7 @@ TIGGER CRUNCHY PROTEIN BAR идеально подходит для активн
         <param name="Цель" key="xarakteristikaRezerv2" id="9" lang="ru">Для иммунитета</param>
       </offer>
       <offer id="DSN_21873" available="true">
-        <price>403.51</price>
+        <price>404.03</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>93</quantity_in_stock>
         <name lang="ua">Calcium Vitamin D3 - 90 tabs</name>
@@ -63893,7 +63893,7 @@ TIGGER CRUNCHY PROTEIN BAR идеально подходит для активн
         <param name="Цель" key="xarakteristikaRezerv2" id="37" lang="ru">Для общего оздоровления</param>
       </offer>
       <offer id="DSN_21874" available="true">
-        <price>611.78</price>
+        <price>578.90</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>50</quantity_in_stock>
         <name lang="ua">Alpha Lipoic Acid - 90 caps</name>
@@ -63929,7 +63929,7 @@ TIGGER CRUNCHY PROTEIN BAR идеально подходит для активн
         <param name="Цель" key="xarakteristikaRezerv2" id="41" lang="ru">Антиоксиданты</param>
       </offer>
       <offer id="DSN_21875" available="true">
-        <price>328.34</price>
+        <price>319.46</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>162</quantity_in_stock>
         <name lang="ua">Vitamin D3 4000IU - 120 softgels</name>
@@ -63971,7 +63971,7 @@ TIGGER CRUNCHY PROTEIN BAR идеально подходит для активн
         <param name="Цель" key="xarakteristikaRezerv2" id="37" lang="ru">Для общего оздоровления</param>
       </offer>
       <offer id="DSN_21876" available="true">
-        <price>389.41</price>
+        <price>378.97</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>130</quantity_in_stock>
         <name lang="ua">Iron - 60 caps</name>
@@ -64044,7 +64044,7 @@ TIGGER CRUNCHY PROTEIN BAR идеально подходит для активн
         <param name="Цель" key="xarakteristikaRezerv2" id="37" lang="ru">Для общего оздоровления</param>
       </offer>
       <offer id="DSN_21878" available="true">
-        <price>578.38</price>
+        <price>547.58</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>57</quantity_in_stock>
         <name lang="ua">Curcumin D3 - 60 softgels</name>
@@ -64074,7 +64074,7 @@ TIGGER CRUNCHY PROTEIN BAR идеально подходит для активн
         <param name="Цель" key="xarakteristikaRezerv2" id="15" lang="ru">Антиоксиданты</param>
       </offer>
       <offer id="DSN_21879" available="false">
-        <price>479.72</price>
+        <price>480.24</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Vitamin C - 60 gummies</name>
@@ -64109,7 +64109,7 @@ Cовместимо с халяльным питанием&lt;br /&gt;
         <param name="Цель" key="xarakteristikaRezerv2" id="9" lang="ru">Для иммунитета</param>
       </offer>
       <offer id="DSN_21880" available="true">
-        <price>468.76</price>
+        <price>468.23</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>136</quantity_in_stock>
         <name lang="ua">Vitamin D3 - 60 gummies</name>
@@ -64146,9 +64146,9 @@ Cовместимо с халяльным питанием&lt;/p&gt; &lt;p&gt;Б
         <param name="Цель" key="xarakteristikaRezerv2" id="4" lang="ru">Для общего оздоровления</param>
       </offer>
       <offer id="DSN_21882" available="true">
-        <price>488.07</price>
+        <price>488.59</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>155</quantity_in_stock>
+        <quantity_in_stock>153</quantity_in_stock>
         <name lang="ua">Kid's Multivitamin - 60 gummies</name>
         <name lang="ru">Kid's Multivitamin - 60 gummies</name>
         <vendorCode>DSN_2022-10-0314</vendorCode>
@@ -64183,7 +64183,7 @@ Cовместимо с халяльным питанием&lt;/p&gt; &lt;p&gt;Б
         <param name="Цель" key="xarakteristikaRezerv2" id="37" lang="ru">Для общего оздоровления</param>
       </offer>
       <offer id="DSN_21883" available="true">
-        <price>605.00</price>
+        <price>676.51</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>155</quantity_in_stock>
         <name lang="ua">Apple Cider Vinegar - 60 gummies</name>
@@ -64226,7 +64226,7 @@ Cовместимо с халяльным питанием&lt;/p&gt; &lt;p&gt;Б
         <param name="Цель" key="xarakteristikaRezerv2" id="27" lang="ru">Для ускорения метаболизма</param>
       </offer>
       <offer id="DSN_21886" available="false">
-        <price>283.97</price>
+        <price>283.45</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Vitamin B complex - 90 softgels</name>
@@ -64787,7 +64787,7 @@ FITKING ENERGY COFFEE содержит 124 мг кофеина на порцию
       <offer id="DSN_22044" available="true">
         <price>2770.64</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>68</quantity_in_stock>
+        <quantity_in_stock>63</quantity_in_stock>
         <name lang="ua">Adam Men's Multi - 180 Softgels</name>
         <name lang="ru">Adam Men's Multi - 180 Softgels</name>
         <vendorCode>DSN_2022-10-0396</vendorCode>
@@ -66026,7 +66026,7 @@ ALLNUTRITION FITKING ENERGY STRONG COFFEE &amp;ndash; это вкусный и �
       <offer id="DSN_22142" available="true">
         <price>716.97</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>812</quantity_in_stock>
+        <quantity_in_stock>809</quantity_in_stock>
         <name lang="ua">VIT D-3 5000 IU - 240 sgels</name>
         <name lang="ru">VIT D-3 5000 IU - 240 sgels</name>
         <vendorCode>DSN_2022-10-0462</vendorCode>
@@ -66326,7 +66326,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
         <description lang="ru">Штрихкод: 2000000557946</description>
       </offer>
       <offer id="DSN_22166" available="false">
-        <price>990.23</price>
+        <price>963.61</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Ultra Women`s Protein - 500g Chocolate</name>
@@ -66349,7 +66349,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
 Исключительный натуральный вкус&lt;/p&gt; &lt;p&gt;ULTRA WOMEN&amp;#39;S PROTEIN состоит в основном из концентрата сывороточного белка, который является одним из лучших белков для женщин. В связи с тем, что белок является основным строительным материалом для мышц, настоятельно рекомендуется использовать ULTRA WOMEN&amp;#39;S PROTEIN после тренировки или сразу после каждой физической активности, чтобы обеспечить мышцы белком, а также защитить мышцы от катаболических процессов. Этот вкусный и полезный протеиновый коктейль можно употреблять в любое время дня как здоровую закуску, обогащенную комплексом метаболизма и красоты. В этом протеине нет добавленного сахара и мало жира.&lt;/p&gt; &lt;p&gt;Усиленный L-лизином, CLA, L-карнитином и гиалуроновой кислотой, он оказывает еще более положительное влияние на процесс похудения и поддержание здоровья кожи, волос и ногтей.&lt;/p&gt; &lt;p&gt;Разработанный в соответствии с высокими стандартами, только одна порция Ultra Women Protein обеспечивает чистый белок, 1,2 г L-лизина и фантастический аппетитный вкус.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22167" available="true">
-        <price>1556.60</price>
+        <price>1514.32</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>67</quantity_in_stock>
         <name lang="ua">Ultra Women`s Protein - 500g Strawberry</name>
@@ -66372,7 +66372,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
 Исключительный натуральный вкус&lt;/p&gt; &lt;p&gt;ULTRA WOMEN&amp;#39;S PROTEIN состоит в основном из концентрата сывороточного белка, который является одним из лучших белков для женщин. В связи с тем, что белок является основным строительным материалом для мышц, настоятельно рекомендуется использовать ULTRA WOMEN&amp;#39;S PROTEIN после тренировки или сразу после каждой физической активности, чтобы обеспечить мышцы белком, а также защитить мышцы от катаболических процессов. Этот вкусный и полезный протеиновый коктейль можно употреблять в любое время дня как здоровую закуску, обогащенную комплексом метаболизма и красоты. В этом протеине нет добавленного сахара и мало жира.&lt;/p&gt; &lt;p&gt;Усиленный L-лизином, CLA, L-карнитином и гиалуроновой кислотой, он оказывает еще более положительное влияние на процесс похудения и поддержание здоровья кожи, волос и ногтей.&lt;/p&gt; &lt;p&gt;Разработанный в соответствии с высокими стандартами, только одна порция Ultra Women Protein обеспечивает чистый белок, 1,2 г L-лизина и фантастический аппетитный вкус.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22170" available="false">
-        <price>1890.68</price>
+        <price>1839.53</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Gold Whey - 500g Chocolate</name>
@@ -66398,7 +66398,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
 Размешайте 30 г порошка (2 мерные ложки) в 250 мл воды.&lt;/p&gt; &lt;p&gt;Поскольку белок является основным строительным материалом мышц, настоятельно рекомендуется использовать VPLab Gold Whey после тренировки, чтобы обеспечить белком мышцы, а также защитить мышцы от катаболических процессов.&lt;/p&gt; &lt;p&gt;VPLab Gold Whey является доказательством того, что только одна порция высококачественного сывороточного протеина в 30 г после тренировки может привести к достижению серьезных результатов. Он предназначен для покрытия расходов любого серьезного спортсмена, соблюдающего диету с высоким содержанием белка и желающий нарастить чистые мышцы и увеличить силу. VPLab Gold Whey не содержит добавленного сахара и имеет низкое содержание жира.&lt;/p&gt; &lt;p&gt;Улучшенный L-лейцин еще более положительно влияет на процесс наращивания мышц, поскольку L-лейцин давно известен как единственная аминокислота, которая имеет решающее значение для набора мышц. Он разработан из 100% инстантизированного сывороточного протеина для более легкой растворимости и смешиваемости.&lt;/p&gt; &lt;p&gt;Разработанный в соответствии с высокими стандартами, только одна порция Gold Whey обеспечивает чистый и чистый белок, 5 г BCAA и фантастический аппетитный вкус.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22171" available="true">
-        <price>1890.68</price>
+        <price>1839.53</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>45</quantity_in_stock>
         <name lang="ua">Gold Whey - 500g Vanilla</name>
@@ -66520,7 +66520,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
 1,2 кг/12 порций или 5 кг/50 порций&lt;/p&gt; &lt;p&gt;Получайте огромную скорость с Mass Builder!&lt;/p&gt; &lt;p&gt;Вы каждый день в тренажерном зале, выкладываете себя на максимум. Как убедиться, что ваша упорная работа приведет к росту мышц, к которому вы стремитесь? Дополните свои тренировки с помощью Mass Builder! Этот комплексный комплекс был специально разработан для поддержания быстрого роста, быстрого обновления и устойчивой производительности. Он отличный по вкусу и при длительном употреблении не вызывает проблем с пищеварением.&lt;/p&gt; &lt;p&gt;Многоступенчатый углеводный комплекс Mass Builder с углеводами с длинной цепью и пребиотиками гарантирует, что у вас есть необходимые запасы энергии, к которой можно обращаться при потоотделении. Креатин Creapure&amp;reg; премиум качества и 10 различных витаминов помогают вам работать больше, чем вы думали, максимизируя вашу производительность и повышая эффективность вашей тренировки.&lt;/p&gt; &lt;p&gt;После этой тяжелой работы вы, возможно, заслужили отдых, но работа Mass Builder еще не окончена. Восстановление является важным этапом в наращивании мышц, и Mass Builder использует это время, чтобы наполнить ваши ткани питательными веществами в форме двухкомпонентной протеиновой матрицы &amp;ndash; именно то, что вам нужно, чтобы восстановиться после напряженных тренировок и стать больше, чем когда-либо. Высокий уровень глутамин позволяет вашему телу лучше использовать весь этот белок и минимизировать распад мышц, а здоровая порция BCAA помогает уменьшить боль в мышцах, вызванную вашими нагрузками в тренажерном зале.&lt;/p&gt; &lt;p&gt;Принимайте 1-2 порции Mass Builder в день: один раз сразу после тренировки, чтобы ускорить рост и восстановление, и однажды как очень полезную закуску между приемами пищи. Он легко усваивается и обладает отличным вкусом.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22178" available="false">
-        <price>762.12</price>
+        <price>762.64</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Protein Milkshake - 500g Vanilla</name>
@@ -66546,7 +66546,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
 Современная классика&lt;/p&gt; &lt;p&gt;VPLab Protein Milkshake сбрасывает стандарт молочных коктейлей. Оздоровительный коктейль с высоким содержанием белка содержит 16 г белка, но содержит только 123 калории в каждой порции. По вкусу он напоминает традиционный американский молочный коктейль, но не переполнен калориями, жиром и сахаром. как? Там, где традиционные молочные коктейли используют мороженое, цельное молоко и сладкие сиропы мы используем высококачественный концентрат сывороточного протеина для гладкой текстуры и сливочного вкуса с полезным содержанием натурального белка.&lt;/p&gt; &lt;p&gt;Низкая калорийность сочетается с высоким содержанием белка&lt;/p&gt; &lt;p&gt;Традиционные молочные коктейли содержат более 500 калорий, 15 г жира и 60 г сахара в порцию. Протеиновый молочный коктейль VPLab имеет значительно улучшенный профиль питательных веществ: всего 123 калории, 2 г жира и 8 г сахара в каждой порции. В четыре раза больше белка, чем в традиционном коктейле, он создан для здорового и активного образа жизни.&lt;/p&gt; &lt;p&gt;Сила жидкости&lt;/p&gt; &lt;p&gt;Белок &amp;ndash; настоящее чудо-питательное вещество. Многочисленные функции в организме? Проверьте. Помощь в создании и восстановлении клеток и тканей? Проверьте. Но для таких людей, как вы, ведущие здоровый, активный образ жизни, это еще дальше. После тренировки это помогает вашим мышцам восстановиться, а вашему телу нарастить мышечную массу. Если этого недостаточно, это поможет сохранить ваши кости крепкими и здоровыми. Рецепт протеинового молочного коктейля VPLab создан для здорового активного образа жизни и идеально подходит для разнообразных диетических планов. Если вы ищете низкокалорийный молочный коктейль с низким содержанием жира и сахара, который имеет высокое качество и высокое содержание белка, охота окончена.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22179" available="true">
-        <price>845.64</price>
+        <price>822.67</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>69</quantity_in_stock>
         <name lang="ua">Vegan Protein - 500g Chocolate</name>
@@ -66570,7 +66570,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
 500 г/16 порций&lt;/p&gt; &lt;p&gt;Гороховый протеин имеет наивысшее содержание белка с наилучшей растворимостью, что также является отличным источником калия и железа. Он способствует поддержанию мышц, костей, нормальному свертыванию крови и поддерживает здоровье сердца.&lt;/p&gt; &lt;p&gt;Рисовый протеин &amp;ndash; это лучший по вкусу растительный белок, который легко переваривается и хорошо усваивается организмом. Он поддерживает рост мышц и помогает поддерживать чистую мышечную массу.&lt;/p&gt; &lt;p&gt;Oat Protein обеспечивает продолжительное насыщение и содержит значительное количество BCAA и других незаменимых аминокислот. Таким образом, он способствует контролю веса, сохранению мышечной массы и восстановлению.&lt;/p&gt; &lt;p&gt;Все три источника белка являются 100% веганскими, естественно гипоаллергенными и образуют полную белковую матрицу.&lt;/p&gt; &lt;p&gt;Веганский протеин VPLab мягкий, сливочный и вкусный, помогает достичь необходимой суточной нормы белка, наращивать и восстанавливать мышцы. Специально разработан с ферментированными веганскими белками для легкого переваривания и максимального усвоения для содействия общему здоровью пищеварительной системы и здоровью кишечных бактерий.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22180" available="true">
-        <price>845.64</price>
+        <price>800.23</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>33</quantity_in_stock>
         <name lang="ua">Vegan Protein - 500g Vanilla</name>
@@ -66652,7 +66652,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
         <param name="Тип" key="tip" id="24" lang="ru">L-карнитин</param>
       </offer>
       <offer id="DSN_22184" available="true">
-        <price>879.05</price>
+        <price>855.04</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>224</quantity_in_stock>
         <name lang="ua">Ultra Women's Hair, Skin &amp; Nails - 90 softgels</name>
@@ -66705,7 +66705,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
 Минеральная магия&lt;/p&gt; &lt;p&gt;Глядя на вас, магний &amp;ndash; суперзвезда минерала. Благодаря 402 мг элементарного магния на суточную порцию, минеральная формула максимальной прочности обеспечивает ваше общее здоровье и благополучие: уровень энергии, работу мышц, здоровье костей и электролитный баланс.&lt;/p&gt; &lt;p&gt;Один из самых распространенных минералов в организме, магний является ключевым игроком в сотнях биологических функций и процессов. Такие продукты, как листовая зелень, орехи и зерновые, богаты магнием, но людям, которые любят напрягаться (т.е. вы), ведя активный образ жизни, нужно пополнять магний, поскольку большое количество теряется с потом.&lt;/p&gt; &lt;p&gt;Максимальная производительность&lt;/p&gt; &lt;p&gt;Наряду с восполнением потерянного магния для поддержания восстановления и баланса электролитов ежедневный прием добавки магния также помогает бороться с чувством усталости, поддерживать кости крепкими и здоровыми, а мышцы работать с оптимальной интенсивностью.&lt;/p&gt; &lt;p&gt;Более того, он также поддерживает нормальный синтез белка (создание новых белков в организме) и помогает поддерживать работу мозга на все цилиндры.&lt;/p&gt; &lt;p&gt;Раскройте свой потенциал&lt;/p&gt; &lt;p&gt;против? Проверьте. Тело? Проверьте. Магний необходим для поддержания здоровья и благополучия, а также для максимального развития вашего спортивного потенциала. Эта передовая формула наполнена цитратом магния, который, как было показано, имеет большую биодоступность, чем многие другие формы магния, включая хелаты магния аминокислот. Это означает, что он приступает к работе быстрее, так что вы можете быстрее к нему приступить.&lt;/p&gt; &lt;p&gt;Если вы активны, спортивны и стремитесь добиться успеха, магний имеет значение.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22186" available="true">
-        <price>801.27</price>
+        <price>752.72</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>155</quantity_in_stock>
         <name lang="ua">CoQ10 100 mg - 60 Softgels</name>
@@ -66728,7 +66728,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
 60 мягких капсул, которые легко проглотить&lt;/p&gt; &lt;p&gt;Здоровье сердечной мышцы благодаря нашему универсальному высококачественному антиоксиданту Каждое сердце требует немного подъема, а коэнзим Q10 необходим для распространения любви вокруг!&lt;/p&gt; &lt;p&gt;Коэнзим Q10 имеет решающее значение для того, чтобы ваше тело синтезировало молекулы АТФ; биохимические энергоносители поддерживают здоровье сердечной мышцы, улучшая ее энергетический обмен. Вашей сердечной мышце необходим CoQ10, чтобы обеспечить эффективную циркуляцию крови.&lt;/p&gt; &lt;p&gt;Коэнзим Q10 идет еще дальше и эффективно препятствует окислению холестерина. Он обогащает жировые ткани кислородом и потому играет немаловажную роль в предотвращении развития атеросклероза.&lt;/p&gt; &lt;p&gt;Как и можно ожидать от столь мощного многоцелевого антиоксиданта, преимущества выходят далеко за пределы здоровья сердца. Коэнзим Q10 также высокоэффективным средством против старения. Q10 поддерживает хорошее здоровье, активируя естественную противовирусную систему защиты организма. Он не только заживляет поврежденные ткани, но, как было показано, угнетает рост злокачественных клеток.&lt;/p&gt; &lt;p&gt;Не играй сердцем! Вам нужен надежный источник, чтобы воспользоваться преимуществами добавки Q10. Всего 1 капсула в день содержит необходимую дозу 100 мг высококачественного коэнзима Q10. Это именно то, что вам нужно для энергичной клеточной энергии, здорового сердца и укрепления вашей иммунной системы.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22187" available="false">
-        <price>595.08</price>
+        <price>595.60</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Lecithin 1200 mg - 120 Softgels</name>
@@ -66755,7 +66755,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
 120 мягких капсул, которые легко проглотить&lt;/p&gt; &lt;p&gt;Вы получите только половину удовольствия, если ваше тело разорвутся, но ваш мозг останется отставать! Мы можем укрепить наши мышцы непосредственно с помощью правильной мышечной пищи, но нам также нужна пища для мозга, чтобы работать на оптимальном уровне по всем направлениям. Вот разумный способ защитить это драгоценное серое вещество и одновременно повысить производительность. Лецитин содержит трехкомпонентный пунш; он защищает вашу печень, имеет решающее значение для функционирования и сохранения мозга, а также помогает вашей иммунной системе.&lt;/p&gt; &lt;p&gt;Соевый лецитин натурального происхождения является чистым источником холина. Не забывайте о мозге! Холин &amp;ndash; это не минерал или витамин, а важный макроэлемент, который имеет решающее значение для работы мозга. Лецитин богат фосфатидилинозитолом, который сохраняет клетки мозга и жизненно важен для функционирования нейромедиаторов, заставляющих мышцы двигаться. Холин входит в состав каждой клетки. Лецитин, полученный из чистого источника, такого как эксклюзивный источник сои без ГМО, играет подобную роль в группе витаминов B в вашем организме, поддерживая уровень энергии и здоровый метаболизм.&lt;/p&gt; &lt;p&gt;Печень упорно работает над детоксикацией организма и понижением уровня холестерина в крови. Мы, люди, социальные животные &amp;ndash; большинство печени могут воспользоваться рукой помощи. Премиальный соевый лецитин без ГМО поддерживает функцию печени, и действительно ежедневное потребление холина рекомендуется для облегчения симптомов жировой болезни печени.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22189" available="true">
-        <price>845.64</price>
+        <price>698.96</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>219</quantity_in_stock>
         <name lang="ua">Ultravit Glucosamine Chondroitin MSM - 90 tabs</name>
@@ -66777,7 +66777,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
 Учитывая, что с годами выработка глюкозамина и хондроитина в организме уменьшается, а МСМ недостаточно употребляется с пищей, следует принимать дополнительно в виде БАД. Продукт подходит людям с высокими физическими нагрузками, пожилым людям и всем, кто хочет поддержать здоровье суставов.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22190" available="true">
-        <price>645.19</price>
+        <price>606.56</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>15</quantity_in_stock>
         <name lang="ua">Acetyl-L-Carnitine - 60 caps</name>
@@ -66813,7 +66813,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
         <param name="Тип" key="tip" id="199" lang="ru">Ацетил L-карнітин</param>
       </offer>
       <offer id="DSN_22191" available="true">
-        <price>589.86</price>
+        <price>573.68</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>270</quantity_in_stock>
         <name lang="ua">Collagen Type I &amp; III - 120 caps</name>
@@ -67305,7 +67305,7 @@ Lean Protein Shake &amp;ndash; смесь концентрата и изолят
 Независимо от того, хотите ли вы стать сильнее, стать больше или похудеть, 100% белок Platinum Whey поможет вам достичь ваших целей. Если вы думаете: &amp;laquo;Чем это отличается от любого другого сывороточного протеина?&amp;raquo; Ответ состоит в том, что он изготовлен с использованием самых передовых технологий, чтобы обеспечить максимальную пользу от каждой дозы.&lt;/p&gt; &lt;p&gt;Этот продукт состоит из ультрафильтрованного концентрата сыворотки и микрофильтрованного изолята сыворотки, полученных из коровьего молока, выращенного на травах. Он содержит комплекс ферментов, устойчивых к желудочной кислоте под названием DigeZyme&amp;trade;, который помогает организму лучше усваивать белки. Platinum Whey также гарантирует отсутствие аминокислот. В отличие от некоторых брендов, которые, как известно, добавляют в порошок сыворотки дешевые низкокачественные аминокислоты (такие как глицин, таурин и аланин) для увеличения содержания азота и, таким образом, манипулирования процентом белка, мы используем только полный сывороточный протеин и ничего другого. вершина этого.&lt;/p&gt; &lt;p&gt;Не беспокойтесь, если вы не понимаете всех мелочей науки. Все, что вам нужно знать: сывороточный протеин имеет наивысшую биологическую ценность для наращивания и сохранения чистой мышечной массы, а 100% Platinum Whey является лучшим сывороточным белком, который вы можете получить.&lt;/p&gt; &lt;p&gt;Кроме того, 100% Platinum Whey обладает низким содержанием жира и сахара, поэтому он идеально подходит для сбалансированной диеты. Используйте его каждый день, и вы обязательно увидите реальные результаты!&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22275" available="true">
-        <price>2614.70</price>
+        <price>2544.23</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>18</quantity_in_stock>
         <name lang="ua">Lean Protein Shake - 750g Cookies Cream</name>
@@ -67335,7 +67335,7 @@ Lean Protein Shake &amp;ndash; суміш концентрату та ізоля
 Lean Protein Shake &amp;ndash; смесь концентрата и изолята сывороточного протеина, обогащенного улучшенным жировым метаболическим комплексом, клетчаткой и витаминами.&lt;/p&gt; &lt;p&gt;С изысканным вкусом молочного коктейля, жировым метаболическим комплексом и 13 витаминами в каждой порции похудение никогда не было таким простым и вкусным.&lt;/p&gt; &lt;p&gt;VPLab с гордостью представляет выдающуюся диетическую белковую смесь со значительными свойствами сжигания жира. Сывороточный протеин, являющийся идеальным источником незаменимых аминокислот, не только стимулирует синтез мышечного белка, но также способствует потере жира, сохраняя безжировую массу тела. Чтобы повысить его способность улучшать соотношение мышц и жира, мы включили исключительный жировой метаболический комплекс, содержащий три ключевых компонента. Экстракт зеленого чая, ацетил-L-карнитин и конъюгированная линолевая кислота продемонстрировали впечатляющие результаты снижения жировой массы и веса. Семена льна насыщены омега-3 жирными кислотами и вместе с дополнительным количеством клетчатки обеспечивают более длительное чувство сытости и угнетение аппетита. Они также выравнивают уровень сахара в крови и улучшают пищеварение.&lt;/p&gt; &lt;p&gt;Идеальная замена пищи &amp;ndash; вместо завтрака, сразу после тренировки, в пробке или перед сном &amp;ndash; Lean Protein Shake всегда придет вам на помощь и поможет оставаться на пути здоровья и формы.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22276" available="false">
-        <price>1358.24</price>
+        <price>1358.77</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Collagen Flex - 7x25ml Tropical</name>
@@ -67363,7 +67363,7 @@ Vp laboratory collagen Flex також підтримує відновлення
 Vp laboratory collagen Flex также поддерживает восстановление хрящей и сухожилий. Продукт содержит тщательно отобранные ингредиенты, подтвержденные наукой: высокобиологически доступный, безопасный и чистый гидролизованный коллаген Verisol&amp;reg;, N-ацетилглюкозамин (NAG), хондроитин и большую дозу витамина С и гиалуроновой кислоты. Гидролизованный коллаген поддерживает волосы, кожу, ногти, сухожилия, связки и кости. Это также помогает поддерживать комфорт суставов, мобильность и качество жизни.&lt;/p&gt; &lt;p&gt;Коллаген является основным структурным белком в суставах тела. Это также помогает обеспечить строительный материал для здоровых тканей. Этот продукт содержит чистый гидролизованный коллаген Verisol&amp;reg;, который гидролизуется на составляющие аминокислоты для оптимального использования организмом. N-ацетилглюкозамин является лучшей формой глюкозамина. Комплекс природных элементов N-ацетилглюкозамина и хондроитина &amp;ndash; это питательная комбинация с витамином С, составленная после исследований.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22277" available="false">
-        <price>1668.83</price>
+        <price>1647.95</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Curcumin Collagen - 500ml Apple</name>
@@ -67399,7 +67399,7 @@ Vp laboratory collagen Flex также поддерживает восстано
         <param name="Тип" key="tip" id="121" lang="ru">Куркума</param>
       </offer>
       <offer id="DSN_22278" available="true">
-        <price>1212.61</price>
+        <price>1180.24</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>20</quantity_in_stock>
         <name lang="ua">BCAA 2-1-1 - 300g Raspberry</name>
@@ -67444,7 +67444,7 @@ Vp laboratory collagen Flex также поддерживает восстано
         <description lang="ru">Штрихкод: 5999105906490&lt;p&gt;Предлагается с неотразимо вкусными, особыми чайными вкусами, хорошо растворимым и простым в приготовлении порошком для питья из говяжьего и рыбного коллагена. Найдите свой любимый и наслаждайтесь потреблением коллагена с райским вкусом чая!&lt;/p&gt; &lt;p&gt;В дополнение к нескольким видам высококачественного говяжьего коллагена наш продукт также содержит коллаген морских рыб Naticol&amp;reg; и некоторое количество гиалуроновой кислоты. Его можно приготовить легко и быстро. Витамин С, добавленный в продукт, способствует нормальному образованию коллагена и тем самым поддержанию нормального состояния кровеносных сосудов, костей, кожи, зубов, десен и хрящей, а цинк также способствует поддержанию нормального состояния. кожи, ногтей, волос и костей.*&lt;/p&gt; &lt;p&gt;*Научно подтвержденные заявления одобрены Европейским агентством по безопасности пищевых продуктов (EFSA).&lt;/p&gt; &lt;p&gt;Вес нетто: 336 г&lt;/p&gt; &lt;p&gt;Рекомендации по дозировке: Смешайте 1 порцию (12 г - 1 мерная ложка) порошка с 300-400 мл воды. Рекомендуется употреблять продукт утром или в течение дня. Рекомендуется одна порция в день.&lt;/p&gt; &lt;p&gt;Состав: гидролизованный пептид коллагена говядины, регулятор кислотности (лимонная кислота), гидролизованный пептид коллагена морской рыбы, ароматизатор (зеленый чай/черный чай/лимонный твист/маракуйя/лесные фрукты), L-аскорбиновая кислота, поваренная соль, краситель (бриллиантовый синий). FCF, тартразин ** / сульфит аммония карамель, бета-каротин / куркумин, свекольный красный / бета-каротин / свекольный красный), подсластители (ацесульфам К, сукралоза), гиалуроновая кислота, оксид цинка.&lt;/p&gt; &lt;p&gt;Предупреждение: Хранить в недоступном для детей месте! Продукт не заменяет смешанное питание и здоровый образ жизни! Не превышайте рекомендуемую суточную норму потребления! **Может оказать вредное влияние на активность и внимание детей.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22290" available="true">
-        <price>2614.70</price>
+        <price>2544.23</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>10</quantity_in_stock>
         <name lang="ua">Lean Protein Shake - 750g Banana</name>
@@ -67627,7 +67627,7 @@ GOLD STANDARD PRE-WORKOUT ADVANCED &amp;mdash; это интенсивная у�
 Смешайте 1 мерную ложку порошка с 6&amp;ndash;8 жидкими унциями холодной воды за 15&amp;ndash;30 минут до тренировки.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22372" available="true">
-        <price>1179.20</price>
+        <price>1147.88</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>5</quantity_in_stock>
         <name lang="ua">EAA Plus - 250g Fruit Punch</name>
@@ -67659,7 +67659,7 @@ EAA (незамінні амінокислоти) не можуть бути с�
 EAA (незаменимые аминокислоты) не могут быть синтезированы организмом, они должны поступать из пищи и пищевых добавок. Незаменимые аминокислоты очень необходимы для многих жизненных действий и оказывают влияние на работу всего организма.&lt;/p&gt; &lt;p&gt;EAA активизирует синтез мышечного белка и, кроме того, ускоряет время восстановления и помогает снизить боли в мышцах после физической активности.&lt;/p&gt; &lt;p&gt;Для более эффективного восстановления комплекс ЕАА обогащен как минералами, так и витаминами группы B. Магний с цинком необходимы для укрепления мышц и восстановления во время и после физических тренировок, также они чрезвычайно необходимы для когнитивных функций и здоровья нервной системы.&lt;/p&gt; &lt;p&gt;Все витамины группы B специально подобраны для защиты клеток от окислительного стресса и восстановления энергии.&lt;/p&gt; &lt;p&gt;Продукт подходит для веганов и вегетарианцев.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22374" available="true">
-        <price>677.56</price>
+        <price>659.29</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>273</quantity_in_stock>
         <name lang="ua">ZMA - 90 caps</name>
@@ -67683,7 +67683,7 @@ ZMA - це натуральна мінеральна добавка, що скл
 ZMA &amp;ndash; это натуральная минеральная добавка, состоящая из цинка, аспартата магния и витамина B6. Цинк поддерживает иммунную систему и мышцы. Магний играет важную роль в метаболизме и здоровье мышц, а также помогает контролировать сон. B6 может увеличить энергию.&lt;/p&gt; &lt;p&gt;Производители ZMA утверждают, что увеличение этих трех питательных веществ в вашей системе может увеличить мышечную силу и выносливость, ускорить восстановление мышц и улучшить качество сна.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_22375" available="true">
-        <price>628.49</price>
+        <price>611.78</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>156</quantity_in_stock>
         <name lang="ua">Ultra Sleep - 60 caps</name>
@@ -67788,7 +67788,7 @@ ZMA &amp;ndash; это натуральная минеральная добав�
       <offer id="DSN_22383" available="true">
         <price>311.05</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1945</quantity_in_stock>
+        <quantity_in_stock>1943</quantity_in_stock>
         <name lang="ua">BIOTIN 5000mcg - 60 vcaps</name>
         <name lang="ru">BIOTIN 5000mcg - 60 vcaps</name>
         <vendorCode>DSN_2022-10-0566</vendorCode>
@@ -68713,7 +68713,7 @@ Orchard Fruits&amp;trade; и Garden Veggies&amp;trade;&lt;br /&gt;
       <offer id="DSN_22458" available="true">
         <price>533.36</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>67</quantity_in_stock>
+        <quantity_in_stock>62</quantity_in_stock>
         <name lang="ua">Artichoke Supports Digestion - 60 vcaps</name>
         <name lang="ru">Artichoke Supports Digestion - 60 vcaps</name>
         <vendorCode>DSN_2022-10-0610</vendorCode>
@@ -74612,7 +74612,7 @@ COLLAROSE FISH SHOT &amp;mdash; идеальная добавка для жен�
       <offer id="DSN_23480" available="true">
         <price>514.95</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>62</quantity_in_stock>
+        <quantity_in_stock>56</quantity_in_stock>
         <name lang="ua">VIT D-3 &amp; K2 1000 IU - 120 vcaps</name>
         <name lang="ru">VIT D-3 &amp; K2 1000 IU - 120 vcaps</name>
         <vendorCode>DSN_100-52-9428809-20</vendorCode>
@@ -74972,7 +74972,7 @@ NOW&amp;reg; Super Omega EPA содержит вдвое больше ЭПК (36
       <offer id="DSN_23493" available="true">
         <price>862.82</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>233</quantity_in_stock>
+        <quantity_in_stock>223</quantity_in_stock>
         <name lang="ua">Magnesium Bisglycinate Powder - 8 oz.</name>
         <name lang="ru">Magnesium Bisglycinate Powder - 8 oz.</name>
         <vendorCode>DSN_2022-10-0976</vendorCode>
@@ -75986,7 +75986,7 @@ Clear Quality&amp;trade;&lt;br /&gt;
       <offer id="DSN_23530" available="true">
         <price>632.01</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>198</quantity_in_stock>
+        <quantity_in_stock>197</quantity_in_stock>
         <name lang="ua">Methyl Folate 800mcg - 90 tabs</name>
         <name lang="ru">Methyl Folate 800mcg - 90 tabs</name>
         <vendorCode>DSN_2022-10-1014</vendorCode>
@@ -76355,7 +76355,7 @@ L-5-MTHF&lt;br /&gt;
       <offer id="DSN_23545" available="true">
         <price>624.93</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>241</quantity_in_stock>
+        <quantity_in_stock>240</quantity_in_stock>
         <name lang="ua">High Potency Betain HCl with Pepsin 650mg - 100 vcaps</name>
         <name lang="ru">High Potency Betain HCl with Pepsin 650mg - 100 vcaps</name>
         <vendorCode>DSN_2022-10-1029</vendorCode>
@@ -76550,7 +76550,7 @@ L-5-MTHF&lt;br /&gt;
       <offer id="DSN_23553" available="true">
         <price>1223.42</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2096</quantity_in_stock>
+        <quantity_in_stock>2094</quantity_in_stock>
         <name lang="ua">Berberine from Indian Barberry 500mg - 60 vcaps</name>
         <name lang="ru">Berberine from Indian Barberry 500mg - 60 vcaps</name>
         <vendorCode>DSN_2022-10-1037</vendorCode>
@@ -81689,7 +81689,7 @@ d-альфа-токоферил&lt;br /&gt;
       <offer id="DSN_24295" available="true">
         <price>957.22</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>67</quantity_in_stock>
+        <quantity_in_stock>65</quantity_in_stock>
         <name lang="ua">Alpha Lipoic Acid 600mg - 60 vcaps</name>
         <name lang="ru">Alpha Lipoic Acid 600mg - 60 vcaps</name>
         <vendorCode>DSN_2022-10-2317</vendorCode>
@@ -83999,7 +83999,7 @@ USDA Organic&lt;br /&gt;
       <offer id="DSN_24481" available="true">
         <price>1298.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>973</quantity_in_stock>
+        <quantity_in_stock>972</quantity_in_stock>
         <name lang="ua">Skin Nails &amp; Hair Advanced MSM - 120 tabs</name>
         <name lang="ru">Skin Nails &amp; Hair Advanced MSM - 120 tabs</name>
         <vendorCode>DSN_2022-10-2419</vendorCode>
@@ -84557,7 +84557,7 @@ Syntrax Matrix 5.0 &amp;ndash; это многокомпонентная бел�
 &amp;nbsp;&lt;/p&gt; &lt;p&gt;Одна порция Matrix 5.0 составляет 32 грамма. Количество порций зависит от вашей диеты. В любом случае в день рекомендуется принимать 2-3 порции, например, утром, после тренировки и перед сном. Каждую порцию нужно растворять в воде или нежирном молоке (200-300 мл).&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_24529" available="true">
-        <price>856.60</price>
+        <price>833.63</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>164</quantity_in_stock>
         <name lang="ua">L-Carnitine 1500mg - 90 caps</name>
@@ -84732,7 +84732,7 @@ Syntrax Matrix 5.0 &amp;ndash; это многокомпонентная бел�
       <offer id="DSN_24563" available="true">
         <price>1078.99</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>18</quantity_in_stock>
+        <quantity_in_stock>10</quantity_in_stock>
         <name lang="ua">ADAM Male Multi - 90 caps</name>
         <name lang="ru">ADAM Male Multi - 90 caps</name>
         <vendorCode>DSN_2022-10-2488</vendorCode>
@@ -91696,7 +91696,7 @@ VERISOL состоит из специальных коллагеновых пе
       <offer id="DSN_25128" available="true">
         <price>867.06</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>442</quantity_in_stock>
+        <quantity_in_stock>441</quantity_in_stock>
         <name lang="ua">Vitamin D3 Cholecalciferol 125 mcg 5000 IU - 100 softgels</name>
         <name lang="ru">Vitamin D3 Cholecalciferol 125 mcg 5000 IU - 100 softgels</name>
         <vendorCode>DSN_100-31-3430199-20</vendorCode>
@@ -92384,7 +92384,7 @@ Nature&amp;#39;s Plus Animal Parade MagKidz обеспечивает получ�
       <offer id="DSN_25225" available="true">
         <price>404.50</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>227</quantity_in_stock>
+        <quantity_in_stock>225</quantity_in_stock>
         <name lang="ua">Kids Vit D3 Chewable 500 IU - 90 tabs</name>
         <name lang="ru">Kids Vit D3 Chewable 500 IU - 90 tabs</name>
         <vendorCode>DSN_2022-10-2853</vendorCode>
@@ -94240,7 +94240,7 @@ pH-Basic предназначен для поддержания оптималь
       <offer id="DSN_25453" available="true">
         <price>1249.86</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1561</quantity_in_stock>
+        <quantity_in_stock>1560</quantity_in_stock>
         <name lang="ua">Triple Strength Omega-3 950 mg - 50 softgels</name>
         <name lang="ru">Triple Strength Omega-3 950 mg - 50 softgels</name>
         <vendorCode>DSN_2022-10-2998</vendorCode>
@@ -95384,7 +95384,7 @@ ALLNUTRITION Isolate Protein характеризуется высокой би�
       <offer id="DSN_25546" available="true">
         <price>866.59</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1371</quantity_in_stock>
+        <quantity_in_stock>1369</quantity_in_stock>
         <name lang="ua">Ultra-Mag Magnesium Complex - 120 tabs</name>
         <name lang="ru">Ultra-Mag Magnesium Complex - 120 tabs</name>
         <vendorCode>DSN_2022-10-1304</vendorCode>
@@ -100456,7 +100456,7 @@ L-карнозин (бета-аланил-L-гистидин) &amp;ndash; это
 Мягкие капсулы (бычий желатин, глицерин, вода, рожковое дерево) и соевый лецитин.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_25701" available="true">
-        <price>1724.69</price>
+        <price>1568.09</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>280</quantity_in_stock>
         <name lang="ua">Ultra Men's Sport Multivitamin - 180 caps</name>
@@ -100487,7 +100487,7 @@ L-карнозин (бета-аланил-L-гистидин) &amp;ndash; это
 Ультра, от природы&lt;/p&gt; &lt;p&gt;Ultra Blend &amp;ndash; это уникальная комбинация необходимых витаминов и минералов, созданная для вашего общего здоровья и хорошего самочувствия.&lt;/p&gt; &lt;p&gt;Острый ум, энергичное тело&lt;/p&gt; &lt;p&gt;Позвольте энергичным витаминам группы В действовать. Они здесь, чтобы поддерживать повседневную энергию и бодрость и помогать уменьшить усталость. С Memory Blend вы получите необходимую помощь для сохранения памяти, умственной деятельности и когнитивных и психологических функций там, где они должны быть.&lt;/p&gt; &lt;p&gt;Поддержка иммунитета и восстановление&lt;/p&gt; &lt;p&gt;Иммунитет, ты у нас есть. Витамины A и D сочетаются с антиоксидантной защитой витамина E, а также высокой дозой витамина C. Вместе они помогают защитить иммунную систему даже после интенсивных физических упражнений. Хотите быстрого выздоровления? Здесь представлена смесь аминокислот со смесью L-метионина, L-таурина, L-карнитина и L-глутамина.&lt;/p&gt; &lt;p&gt;Незаменимые минералы&lt;/p&gt; &lt;p&gt;Сильное нажатие означает возвращение минералов в ваше тело. Ultra Men&amp;#39;s Sport помогает восстановить необходимые минералы, такие как магний, кальций и железо, которые способствуют электролитному балансу, нормальной работе мышц и синтезу белка, транспорту кислорода, а также поддерживают крепость и здоровье костей.&lt;/p&gt; &lt;p&gt;Гормональная поддержка&lt;/p&gt; &lt;p&gt;Смесь фруктов и овощей здесь для ваших гормонов и химического баланса тела с цинком для поддержания вашей фертильности, воспроизводства и уровня тестостерона, а также витамином B6, чтобы помочь регулировать гормональную активность. Смесь для здоровья предстательной железы поддерживает здоровье предстательной железы на самом высоком уровне благодаря таким ингредиентам, как порошок из семян тыквы, ликопин и экстракт ягод пальмового дерева.&lt;/p&gt; &lt;p&gt;Максимальное питание, оптимизированная производительность&lt;/p&gt; &lt;p&gt;Ultra Men&amp;#39;s Sport наполнен дополнительными питательными веществами и растительными компонентами, предназначенными для максимального питания и полной поддержки. Незаменимые аминокислоты соединены с уникальной смесью из 10 порошков фруктов и овощей, выбором мощных каротиноидов и многим другим.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_25702" available="true">
-        <price>1724.69</price>
+        <price>1520.59</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>236</quantity_in_stock>
         <name lang="ua">Ultra Women Multivitamin - 180 caps</name>
@@ -104916,7 +104916,7 @@ Yohimbine HCL: извлекается из коры дерева йохимбе.
       <offer id="DSN_26100" available="true">
         <price>674.96</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>213</quantity_in_stock>
+        <quantity_in_stock>211</quantity_in_stock>
         <name lang="ua">B-12 Methylcobalamin and Adenosylcobalamin 2000mcg - 60 tabs</name>
         <name lang="ru">B-12 Methylcobalamin and Adenosylcobalamin 2000mcg - 60 tabs</name>
         <vendorCode>DSN_2022-10-1768</vendorCode>
@@ -105605,7 +105605,7 @@ Solaray Opti Zinc 30mg - це дієтична добавка, що містит
       <offer id="DSN_26129" available="true">
         <price>899.63</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>938</quantity_in_stock>
+        <quantity_in_stock>937</quantity_in_stock>
         <name lang="ua">Magnesium Glycinate 350mg - 120 vcaps</name>
         <name lang="ru">Magnesium Glycinate 350mg - 120 vcaps</name>
         <vendorCode>DSN_2022-10-1798</vendorCode>
@@ -106164,7 +106164,7 @@ L-глютамин является наиболее распространен�
         <param name="Тип" key="tip" id="7" lang="ru">L-глютамин</param>
       </offer>
       <offer id="DSN_26249" available="true">
-        <price>1557.65</price>
+        <price>1515.89</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>23</quantity_in_stock>
         <name lang="ua">Pure Creatine - 300g</name>
@@ -107684,7 +107684,7 @@ Life Extension&amp;reg; L-Theanine содержит 100 мг успокаива�
       <offer id="DSN_26314" available="true">
         <price>486.63</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>305</quantity_in_stock>
+        <quantity_in_stock>303</quantity_in_stock>
         <name lang="ua">BioActive Folate &amp; Vitamin B12 - 90 vcaps</name>
         <name lang="ru">BioActive Folate &amp; Vitamin B12 - 90 vcaps</name>
         <vendorCode>DSN_2022-10-1920</vendorCode>
@@ -113151,7 +113151,7 @@ Clear Isolate Weider включает в себя чистый протеин, �
       <offer id="DSN_26717" available="true">
         <price>470.58</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>57</quantity_in_stock>
+        <quantity_in_stock>55</quantity_in_stock>
         <name lang="ua">Chromium Picolinate 500 mcg - 60 caps</name>
         <name lang="ru">Chromium Picolinate 500 mcg - 60 caps</name>
         <vendorCode>DSN_2023-10-2203</vendorCode>
@@ -115385,7 +115385,7 @@ I, II, III, IV, V, X &amp;ndash; типы природного коллаген�
       <offer id="DSN_26880" available="true">
         <price>797.68</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>59</quantity_in_stock>
+        <quantity_in_stock>58</quantity_in_stock>
         <name lang="ua">Vitamin B-Complex 50 50mg - 100 vcaps</name>
         <name lang="ru">Vitamin B-Complex 50 50mg - 100 vcaps</name>
         <vendorCode>DSN_2023-10-2383</vendorCode>
@@ -120453,7 +120453,7 @@ L-лизин &amp;ndash; это незаменимая аминокислота 
       <offer id="DSN_27330" available="true">
         <price>829.78</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>265</quantity_in_stock>
+        <quantity_in_stock>264</quantity_in_stock>
         <name lang="ua">Psyllium Husk - 340g</name>
         <name lang="ru">Psyllium Husk - 340g</name>
         <vendorCode>DSN_2023-10-2686</vendorCode>
@@ -121770,7 +121770,7 @@ ALLNUTRITION &amp;ndash; Шнурок &amp;ndash; это практичный г
 продукт без ГМО способен украсить ваш день и подарить вам ощущение комфорта и безопасности.&lt;/p&gt; &lt;p&gt;Спортивное питание представлено разнообразием батончиков, но FitWin выбивается своей непревзойденной формулой и вкусной начинкой внутри. Специально разработанный для тех, кто ищет лучшие результаты и стремится к здоровью, "FitWin" обещает не только высокую эффективность, но и истинное наслаждение от вкуса и пользы для организма.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_27466" available="true">
-        <price>912.46</price>
+        <price>887.40</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>82</quantity_in_stock>
         <name lang="ua">Lipo Jets - 100 caps</name>
@@ -127695,7 +127695,7 @@ Men&amp;#39;s Multi 50+ &amp;ndash; это комплексный ежеднев
       <offer id="DSN_27856" available="true">
         <price>467.28</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>93</quantity_in_stock>
+        <quantity_in_stock>90</quantity_in_stock>
         <name lang="ua">Copper Glycinate 3mg - 120 tabs</name>
         <name lang="ru">Copper Glycinate 3mg - 120 tabs</name>
         <vendorCode>DSN_2023-10-3096</vendorCode>
@@ -129904,7 +129904,7 @@ MEX AMINO 20K уменьшает разрушение мышц, способст
       <offer id="DSN_28011" available="true">
         <price>596.14</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>21</quantity_in_stock>
+        <quantity_in_stock>20</quantity_in_stock>
         <name lang="ua">DHEA 25 mg - 100 lozenges</name>
         <name lang="ru">DHEA 25 mg - 100 lozenges</name>
         <vendorCode>DSN_2023-10-3212</vendorCode>
@@ -131388,7 +131388,7 @@ Fast Acting Melatonin NaturesPlus поддерживает системы орг
       <offer id="DSN_28128" available="true">
         <price>480.97</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>442</quantity_in_stock>
+        <quantity_in_stock>437</quantity_in_stock>
         <name lang="ua">Ultra-Mag - 90 vcaps</name>
         <name lang="ru">Ultra-Mag - 90 vcaps</name>
         <vendorCode>DSN_2023-10-3285</vendorCode>
@@ -131444,7 +131444,7 @@ Fast Acting Melatonin NaturesPlus поддерживает системы орг
       <offer id="DSN_28132" available="true">
         <price>1790.77</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>487</quantity_in_stock>
+        <quantity_in_stock>486</quantity_in_stock>
         <name lang="ua">Ultra-Mag - 360 vcaps</name>
         <name lang="ru">Ultra-Mag - 360 vcaps</name>
         <vendorCode>DSN_2023-10-3287</vendorCode>
@@ -132145,7 +132145,7 @@ Nutrex Lipo-6 Black Ultra Concentrate настолько силен, что ва
       <offer id="DSN_28194" available="true">
         <price>529.34</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>694</quantity_in_stock>
+        <quantity_in_stock>693</quantity_in_stock>
         <name lang="ua">Shiitake Mushroom 1000 mg - 60 vegcaps</name>
         <name lang="ru">Shiitake Mushroom 1000 mg - 60 vegcaps</name>
         <vendorCode>DSN_2023-10-3328</vendorCode>
@@ -132205,7 +132205,7 @@ Nutrex Lipo-6 Black Ultra Concentrate настолько силен, что ва
         <param name="Тип" key="tip" id="152" lang="ru">Шиитаке</param>
       </offer>
       <offer id="DSN_28223" available="true">
-        <price>227.59</price>
+        <price>228.11</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>137</quantity_in_stock>
         <name lang="ua">Shaker With Blender Ball - 500ml Green</name>
@@ -132821,7 +132821,7 @@ Nutrex Lipo-6 Black Ultra Concentrate настолько силен, что ва
       <offer id="DSN_28290" available="true">
         <price>627.29</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1614</quantity_in_stock>
+        <quantity_in_stock>1612</quantity_in_stock>
         <name lang="ua">Chlorofresh® Liquid - 16 oz Unflavored</name>
         <name lang="ru">Chlorofresh® Liquid - 16 oz Unflavored</name>
         <vendorCode>DSN_2023-10-2174</vendorCode>
@@ -138348,7 +138348,7 @@ OptiMSM&amp;reg;&lt;br /&gt;
       <offer id="DSN_28746" available="true">
         <price>576.31</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1812</quantity_in_stock>
+        <quantity_in_stock>1811</quantity_in_stock>
         <name lang="ua">Chelated Iron - 100 tabs</name>
         <name lang="ru">Chelated Iron - 100 tabs</name>
         <vendorCode>DSN_2023-10-3687</vendorCode>
@@ -138725,7 +138725,7 @@ OptiMSM&lt;br /&gt;
       <offer id="DSN_28756" available="true">
         <price>796.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>49</quantity_in_stock>
+        <quantity_in_stock>48</quantity_in_stock>
         <name lang="ua">Quercetin Complex with Ester-C® Plus - 50 vcaps</name>
         <name lang="ru">Quercetin Complex with Ester-C® Plus - 50 vcaps</name>
         <vendorCode>DSN_2023-10-3697</vendorCode>
@@ -140019,7 +140019,7 @@ L-селенометионин&lt;br /&gt;
       <offer id="DSN_28794" available="true">
         <price>66.32</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>146</quantity_in_stock>
+        <quantity_in_stock>145</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Cherry (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g Cherry (Поштучно)</name>
         <vendorCode>DSN_2023-10-3728</vendorCode>
@@ -143255,7 +143255,7 @@ Chlorofresh&amp;reg; &amp;ndash; жидкий комплекс хлорофил�
         <param name="Тип" key="tip" id="195" lang="ru">L-триптофан</param>
       </offer>
       <offer id="DSN_28983" available="true">
-        <price>634.23</price>
+        <price>543.40</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>817</quantity_in_stock>
         <name lang="ua">Men's Multivitamin Formula - 60 caps</name>
@@ -143285,7 +143285,7 @@ Chlorofresh&amp;reg; &amp;ndash; жидкий комплекс хлорофил�
 Целевая поддержка питательными веществами содержит необходимые витамины и минералы для удовлетворения потребностей мужского здоровья.&lt;/p&gt; &lt;p&gt;взрослым принимать по 1 капсуле 1 раз в день во время еды, запивая напитком. Этот продукт предназначен для использования лицами в условиях повышенного стресса.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_28984" available="true">
-        <price>634.23</price>
+        <price>543.40</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>596</quantity_in_stock>
         <name lang="ua">Women's Multivitamin Formula - 60 caps</name>
@@ -150246,7 +150246,7 @@ Saccharomyces cerevisiae (пекарные дрожжи, пивные дрожж
         <description lang="ru">&lt;p&gt;Что такое Impact Diet Whey?&lt;/p&gt; &lt;p&gt;Impact Diet Whey является точной смесью высококачественных ингредиентов, разработанных, чтобы помочь вам добиться своих целей в построении своего тела. Сочетая несколько компонентов, потенциально отвечающих за потерю веса, с белками, углеводами и клетчаткой, Impact Diet Whey может поддерживать эффективную программу по похудению, предоставляя ресурсы, которые нужны вашему телу для тяжелых тренировок и сжигания жира. Преимущества Impact Diet Whey Impact Diet Whey представляет собой уникальную смесь концентрата сывороточного белка и концентрата молочного белка с низким содержанием углеводов. Данный продукт также содержит ингредиенты, способствующие потере веса, такие как экстракт зеленого чая, ацетил-л-карнитин и незаменимые жирные кислоты. Высокое содержание белка и клетчатки создает ощущение сытости в течение всего дня, позволяя вам убрать лишние перекусы, а значит лишние калории из диеты. Мы также включили в состав овес с низким ГИ, который является полезным для здоровья источником углеводов, придавая телу стабильный источник энергии, который при этом поддерживает нормальный уровень сахара в крови и не оседает как жир.&lt;/p&gt; &lt;p&gt;Кому подходит Impact Diet Whey?&lt;/p&gt; &lt;p&gt;Данный продукт идеально подойдет для всех, кто участвует в интенсивных физических упражнениях и хочет увеличить ежедневное потребление белка, избегая потребления нежелательных углеводов, жиров и калорий, а также для всех, кто хочет снизить уровень подкожного жира, сохраняя при этом сухую мышечную массу. . Мы рекомендуем принимать до 2 порций в день, одну утром и одну после упражнений или между приемами пищи. В качестве альтернативы употреблять в любое время дня, чтобы увеличить ежедневное потребление белка. Основные преимущества Высокое содержание белка и низкое содержание углеводов Содержит ALCAR и экстракт зеленого чая. Прекрасный вкус и отличная смешиваемость.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_29469" available="true">
-        <price>479.72</price>
+        <price>480.24</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>43</quantity_in_stock>
         <name lang="ua">Beauty Hair Skin Nails - 60 gummies</name>
@@ -150413,7 +150413,7 @@ Saccharomyces cerevisiae (пекарные дрожжи, пивные дрожж
       <offer id="DSN_29493" available="true">
         <price>2450.62</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>598</quantity_in_stock>
+        <quantity_in_stock>597</quantity_in_stock>
         <name lang="ua">Inositol 1000mg - 360 vcaps</name>
         <name lang="ru">Inositol 1000mg - 360 vcaps</name>
         <vendorCode>DSN_2023-10-4280</vendorCode>
@@ -153458,7 +153458,7 @@ ActivMelt - мгновенное растворение&lt;br /&gt;
       <offer id="DSN_29626" available="true">
         <price>499.85</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>546</quantity_in_stock>
+        <quantity_in_stock>545</quantity_in_stock>
         <name lang="ua">Calcium Magnesium Zinc - 100 vcaps</name>
         <name lang="ru">Calcium Magnesium Zinc - 100 vcaps</name>
         <vendorCode>DSN_2023-10-4430</vendorCode>
@@ -157709,7 +157709,7 @@ Wellness Formula&amp;reg; содержит высокоэффективный в
 Микрокристаллическая целлюлоза, двухзамененный фосфат кальция, стеариновая кислота, модифицированная целлюлозная камедь, гидроксипропилцеллюлоза, стеарат магния, диоксид кремния.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_29799" available="true">
-        <price>2780.69</price>
+        <price>2705.53</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>15</quantity_in_stock>
         <name lang="ua">100% Platinum Whey - 750g Cookies Cream</name>
@@ -157735,7 +157735,7 @@ Wellness Formula&amp;reg; содержит высокоэффективный в
 Независимо от того, хотите ли вы стать сильнее, стать больше или похудеть, 100% белок Platinum Whey поможет вам достичь ваших целей. Если вы думаете: &amp;laquo;Чем это отличается от любого другого сывороточного протеина?&amp;raquo; Ответ состоит в том, что он изготовлен с использованием самых передовых технологий, чтобы обеспечить максимальную пользу от каждой дозы.&lt;/p&gt; &lt;p&gt;Этот продукт состоит из ультрафильтрованного концентрата сыворотки и микрофильтрованного изолята сыворотки, полученных из коровьего молока, выращенного на травах. Он содержит комплекс ферментов, устойчивых к желудочной кислоте под названием DigeZyme&amp;trade;, который помогает организму лучше усваивать белки. Platinum Whey также гарантирует отсутствие аминокислот. В отличие от некоторых брендов, которые, как известно, добавляют в порошок сыворотки дешевые низкокачественные аминокислоты (такие как глицин, таурин и аланин) для увеличения содержания азота и, таким образом, манипулирования процентом белка, мы используем только полный сывороточный протеин и ничего другого. вершина этого.&lt;/p&gt; &lt;p&gt;Не беспокойтесь, если вы не понимаете всех мелочей науки. Все, что вам нужно знать: сывороточный протеин имеет наивысшую биологическую ценность для наращивания и сохранения чистой мышечной массы, а 100% Platinum Whey является лучшим сывороточным белком, который вы можете получить.&lt;/p&gt; &lt;p&gt;Кроме того, 100% Platinum Whey обладает низким содержанием жира и сахара, поэтому он идеально подходит для сбалансированной диеты. Используйте его каждый день, и вы обязательно увидите реальные результаты!&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_29800" available="true">
-        <price>2780.69</price>
+        <price>2705.53</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>18</quantity_in_stock>
         <name lang="ua">100% Platinum Whey - 750g Strawberry Banan</name>
@@ -159350,7 +159350,7 @@ Eye Factors &amp;ndash; это синергетическая формула, к
       <offer id="DSN_29918" available="true">
         <price>1434.41</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1299</quantity_in_stock>
+        <quantity_in_stock>1298</quantity_in_stock>
         <name lang="ua">Myo + D-Chiro Inositol - 120 caps</name>
         <name lang="ru">Myo + D-Chiro Inositol - 120 caps</name>
         <vendorCode>DSN_2023-10-4757</vendorCode>
@@ -159419,7 +159419,7 @@ MotilityBoost&amp;reg; содержит ключевые антиоксидан�
       <offer id="DSN_29920" available="true">
         <price>1147.43</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>844</quantity_in_stock>
+        <quantity_in_stock>843</quantity_in_stock>
         <name lang="ua">Myo-Inositol - 120 caps</name>
         <name lang="ru">Myo-Inositol - 120 caps</name>
         <vendorCode>DSN_2023-10-4759</vendorCode>
@@ -163069,7 +163069,7 @@ Carlson&amp;reg; производит лучшие из Норвегии оме�
         <picture>https://dsn.ua/content/images/20/drinking-bottle-gripper-750ml-pink-56593665663626_+76324fe199.jpg</picture>
       </offer>
       <offer id="DSN_30120" available="false">
-        <price>227.59</price>
+        <price>228.11</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Shaker with blender ball - 500ml Black</name>
@@ -163082,7 +163082,7 @@ Carlson&amp;reg; производит лучшие из Норвегии оме�
         <picture>https://dsn.ua/content/images/21/shaker-with-blender-ball-500ml-black-51284434251594_+739449d35c.jpg</picture>
       </offer>
       <offer id="DSN_30121" available="true">
-        <price>227.59</price>
+        <price>228.11</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>102</quantity_in_stock>
         <name lang="ua">Shaker with blender ball - 500ml Cyan</name>
@@ -163095,7 +163095,7 @@ Carlson&amp;reg; производит лучшие из Норвегии оме�
         <picture>https://dsn.ua/content/images/22/shaker-with-blender-ball-500ml-cyan-72991229431211_+d58bef0b68.jpg</picture>
       </offer>
       <offer id="DSN_30122" available="true">
-        <price>227.59</price>
+        <price>228.11</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>136</quantity_in_stock>
         <name lang="ua">Shaker with blender ball - 500ml Pink</name>
@@ -163169,7 +163169,7 @@ Carlson&amp;reg; производит лучшие из Норвегии оме�
         <picture>https://dsn.ua/content/images/27/shaker-with-blender-ball-700ml-pink-65441299794928_+05eab7819c.jpg</picture>
       </offer>
       <offer id="DSN_30127" available="false">
-        <price>211.41</price>
+        <price>205.15</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Plastic bottle black logo - 580ml</name>
@@ -163182,7 +163182,7 @@ Carlson&amp;reg; производит лучшие из Норвегии оме�
         <picture>https://dsn.ua/content/images/28/plastic-bottle-black-logo-580ml-90459745175533_+a00a894376.jpg</picture>
       </offer>
       <offer id="DSN_30128" available="false">
-        <price>211.41</price>
+        <price>205.15</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Plastic bottle white logo - 580ml</name>
@@ -163195,7 +163195,7 @@ Carlson&amp;reg; производит лучшие из Норвегии оме�
         <picture>https://dsn.ua/content/images/29/plastic-bottle-white-logo-580ml-53677520809675_+6d235bfa3c.jpg</picture>
       </offer>
       <offer id="DSN_30130" available="false">
-        <price>269.35</price>
+        <price>230.72</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Drinking bottle - 750ml Blue</name>
@@ -163208,7 +163208,7 @@ Carlson&amp;reg; производит лучшие из Норвегии оме�
         <picture>https://dsn.ua/content/images/31/drinking-bottle-750ml-blue-83716321388779_+14937df8c6.jpg</picture>
       </offer>
       <offer id="DSN_30131" available="false">
-        <price>512.08</price>
+        <price>672.86</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Vegan Collagen Booster - 60 caps</name>
@@ -167638,7 +167638,7 @@ B-12 Fast Melt&amp;trade; содержит активную коэнзимную
       <offer id="DSN_30292" available="true">
         <price>539.02</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>247</quantity_in_stock>
+        <quantity_in_stock>246</quantity_in_stock>
         <name lang="ua">Magnesium Glycinate with BioPerine - 60 vcaps</name>
         <name lang="ru">Magnesium Glycinate with BioPerine - 60 vcaps</name>
         <vendorCode>DSN_2023-10-5395</vendorCode>
@@ -167794,7 +167794,7 @@ Detox &amp; Cleanse от NOW&amp;reg; &amp;ndash; это продукт, раз�
       <offer id="DSN_30296" available="true">
         <price>1129.02</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>392</quantity_in_stock>
+        <quantity_in_stock>391</quantity_in_stock>
         <name lang="ua">KSM-66 Ashwagandha® - 90 vcaps</name>
         <name lang="ru">KSM-66 Ashwagandha® - 90 vcaps</name>
         <vendorCode>DSN_2023-10-5399</vendorCode>
@@ -169472,7 +169472,7 @@ Not Tested on Animals&amp;trade;: не тестируется на животн�
       <offer id="DSN_30400" available="true">
         <price>2638.95</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>417</quantity_in_stock>
+        <quantity_in_stock>416</quantity_in_stock>
         <name lang="ua">Myo + D-Chiro Inositol - 240 caps</name>
         <name lang="ru">Myo + D-Chiro Inositol - 240 caps</name>
         <vendorCode>DSN_2023-10-5485</vendorCode>
@@ -174471,7 +174471,7 @@ NMN является прекурсором NAD+, важного для подд
 Микрокристаллическая целлюлоза (растительная клетчатка), кроскармелоза натрия, кросповидон, стеариновая кислота, прозрачное покрытие (очищенная вода, гипромелоза, глицерин), диоксид кремния, магния стеарат.&lt;/p&gt; &lt;p&gt;Содержит моллюски (креветки).&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_30796" available="true">
-        <price>1090.46</price>
+        <price>1061.23</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>23</quantity_in_stock>
         <name lang="ua">Creatine Capsules - 90 caps</name>
@@ -174516,7 +174516,7 @@ NMN является прекурсором NAD+, важного для подд
 Анаболический эффект для наращивания мышц: Благодаря BCAA в свободной форме, особенно L-лейцина, наши капсулы стимулируют синтез белка, посылая сигналы для формирования новых мышц и способствуя значительному приросту мышечной массы.&lt;/p&gt; &lt;p&gt;Взрослым принимать 1 порцию (4 капсулы) до и 1 порцию после тренировки.&lt;/p&gt; &lt;p&gt;Состав: L-лейцин, L-валин, L-изолейцин, желатин, вещества, предотвращающие слеживание (магниевые соли жирных кислот, диоксид кремния).&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_30798" available="false">
-        <price>1613.50</price>
+        <price>1569.65</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Joint Support Formula - 500ml</name>
@@ -175931,7 +175931,7 @@ NMN является прекурсором NAD+, важного для подд
       <offer id="DSN_30920" available="true">
         <price>66.32</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>28</quantity_in_stock>
+        <quantity_in_stock>27</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Raspberry</name>
         <name lang="ru">Protein Cookie - 60g Raspberry</name>
         <vendorCode>DSN_2023-10-5827</vendorCode>
@@ -176884,7 +176884,7 @@ Swanson FemFlora &amp;ndash; это пробиотическая добавка 
       <offer id="DSN_30958" available="true">
         <price>593.30</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1432</quantity_in_stock>
+        <quantity_in_stock>1431</quantity_in_stock>
         <name lang="ua">L. Reuteri Plus 7 billion Cfu - 30 vcaps</name>
         <name lang="ru">L. Reuteri Plus 7 billion Cfu - 30 vcaps</name>
         <vendorCode>DSN_2023-10-5866</vendorCode>
@@ -178904,7 +178904,7 @@ Igen&amp;trade; протестирован на отсутствие ГМО&lt;b
       <offer id="DSN_31123" available="true">
         <price>1478.30</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>121</quantity_in_stock>
+        <quantity_in_stock>120</quantity_in_stock>
         <name lang="ua">Ultimate Omega - 60 softgels</name>
         <name lang="ru">Ultimate Omega - 60 softgels</name>
         <vendorCode>DSN_2023-10-5954</vendorCode>
@@ -180794,7 +180794,7 @@ Stark IBCAA - це найкраща добавка з представлених
 Лимонная кислота, натуральные ароматизаторы, морская соль, подсластитель (стевия).&lt;/p&gt; &lt;p&gt;Этот продукт производится на предприятии, где производится обработка молока, рыбы и древесных орехов.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_31250" available="false">
-        <price>723.49</price>
+        <price>704.18</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">CLA 1000 - 90 caps</name>
@@ -187511,7 +187511,7 @@ Solgar Male Multiple особенно рекомендуется к употре
       <offer id="DSN_31569" available="true">
         <price>350.22</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name lang="ua">Vitamin A - 100 softgels</name>
         <name lang="ru">Vitamin A - 100 softgels</name>
         <vendorCode>DSN_2023-10-6393</vendorCode>
@@ -194747,7 +194747,7 @@ Mind Shi Premium Box объединяет три мощных натуральн
         <description lang="ru">&lt;p&gt;Штрихкод: 4820902012897&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_31898" available="false">
-        <price>845.64</price>
+        <price>822.67</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Ultra Men's Sport Testo Boom - 90 caps</name>
@@ -194780,7 +194780,7 @@ Mind Shi Premium Box объединяет три мощных натуральн
 общеукрепляющее действие на нервную систему и иммунитет&lt;/p&gt; &lt;p&gt;Взрослым по 1 капсуле 3 раза в день после еды. Продолжительность приема 1 месяц. При курсовом приёме следует делать перерыв 1-2 недели между курсами. Перед применением рекомендуется проконсультироваться с врачом. Не является лекарственным средством.&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_31901" available="false">
-        <price>98.66</price>
+        <price>96.05</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Ultra Women`s Protein - 25g Strawberry</name>
@@ -202742,7 +202742,7 @@ Use only as directed. Take 2 vegetarian capsules up to twice daily, preferably o
       <offer id="DSN_32282" available="true">
         <price>836.38</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>28</quantity_in_stock>
+        <quantity_in_stock>27</quantity_in_stock>
         <name lang="ua">Glucosamine Chondroitin Complex Triple - 80 tabs</name>
         <name lang="ru">Glucosamine Chondroitin Complex Triple - 80 tabs</name>
         <vendorCode>DSN_2023-10-7065</vendorCode>
@@ -208397,7 +208397,7 @@ Nutr Free&lt;br /&gt;
       <offer id="DSN_32542" available="true">
         <price>657.02</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>127</quantity_in_stock>
+        <quantity_in_stock>126</quantity_in_stock>
         <name lang="ua">B Complex + Vitamin C Kids - 60 gummies</name>
         <name lang="ru">B Complex + Vitamin C Kids - 60 gummies</name>
         <vendorCode>DSN_2023-10-7264</vendorCode>
@@ -208594,7 +208594,7 @@ Nutr Free&lt;br /&gt;
       <offer id="DSN_32547" available="true">
         <price>695.73</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name lang="ua">Calcium + Vitamin D Kids - 60 gummies</name>
         <name lang="ru">Calcium + Vitamin D Kids - 60 gummies</name>
         <vendorCode>DSN_2023-10-7269</vendorCode>
@@ -208920,7 +208920,7 @@ Nutr Free&lt;br /&gt;
       <offer id="DSN_32556" available="true">
         <price>703.75</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>17</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name lang="ua">Iron + Vitamin C Adult - 60 gummies</name>
         <name lang="ru">Iron + Vitamin C Adult - 60 gummies</name>
         <vendorCode>DSN_2023-10-7278</vendorCode>
@@ -210955,7 +210955,7 @@ Lifeable &amp;ndash; здоровье, вкусное!&lt;/p&gt; &lt;p&gt;Рек
         <description lang="ru">&lt;p&gt;Штрихкод: 2000000693408&lt;/p&gt; &lt;p&gt;Высококачественный, хорошо растворимый моногидрат креатина в форме порошка для дополнительной поддержки физической работоспособности. Доступен с освежающим или безвкусовым вкусом.&lt;/p&gt; &lt;p&gt;Без сахара: Согласно рекомендациям по дозировке, содержание сахара в готовом к употреблению продукте, приготовленном на воде, составляет менее 0,5 г сахара/100 мл. Без жира: Согласно рекомендациям по дозировке, содержание жира в готовом к употреблению продукте, приготовленном на воде, составляет менее 0,5 г/100 мл. Улучшение физической работоспособности: Креатин повышает физическую работоспособность при кратковременных, непрерывных, высокоинтенсивных физических нагрузках. Положительный эффект достигается при ежедневном приеме 3 г креатина.&lt;/p&gt; &lt;p&gt;Размешайте одну порцию (4,1 г) креатина в 300&amp;ndash;400 мл воды или другой жидкости по вашему выбору. Для точной дозировки, пожалуйста, отмерьте порцию. Употребляйте сразу после приготовления! Рекомендуемая суточная норма &amp;mdash; 1 порция. Чтобы составить рацион, соответствующий вашим индивидуальным потребностям, рекомендуем проконсультироваться с диетологом.&lt;/p&gt; &lt;p&gt;Состав: моногидрат креатина, регулятор кислотности (безводная лимонная кислота), ароматизатор, подсластители (ацесульфам К, сукралоза), краситель (каротины).&lt;/p&gt;</description>
       </offer>
       <offer id="DSN_32733" available="true">
-        <price>673.38</price>
+        <price>655.11</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>18</quantity_in_stock>
         <name lang="ua">FitActive Zero - 200g Lemonade</name>
@@ -233817,7 +233817,7 @@ Matrix подходит для всех, кто стремится добить�
 </description>
       </offer>
       <offer id="DSN_33949" available="true">
-        <price>556.45</price>
+        <price>522.52</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>201</quantity_in_stock>
         <name lang="ua">Vitamin D3 4000IU + K2 60 vcaps</name>
@@ -235500,7 +235500,7 @@ FitWin WHEY является мощным источником поддержк�
 </description>
       </offer>
       <offer id="DSN_33989" available="false">
-        <price>467.19</price>
+        <price>454.66</price>
         <currencyId>UAH</currencyId>
         <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Magnesium Bisglycinate - 60 caps</name>
@@ -254169,7 +254169,7 @@ Matrix подходит для всех, кто стремится добить�
       <offer id="DSN_2024-11-0627" available="true">
         <price>646.64</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1941</quantity_in_stock>
+        <quantity_in_stock>1940</quantity_in_stock>
         <name lang="ua">Magnesium Glycinate - 90 tabs</name>
         <name lang="ru">Magnesium Glycinate - 90 tabs</name>
         <vendorCode>DSN_2024-11-0627</vendorCode>
@@ -256109,7 +256109,7 @@ Amino Day&amp;trade; &amp;ndash; это сбалансированное соч�
       <offer id="DSN_2024-11-0667" available="true">
         <price>638.62</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>65</quantity_in_stock>
+        <quantity_in_stock>64</quantity_in_stock>
         <name lang="ua">DHEA 25 mg - 100 caps</name>
         <name lang="ru">DHEA 25 mg - 100 caps</name>
         <vendorCode>DSN_2024-11-0667</vendorCode>
@@ -260702,7 +260702,7 @@ MenaQ7&amp;reg; &amp;ndash; витамин K2 в виде MK-7&lt;br /&gt;
       <offer id="DSN_2024-11-0763" available="true">
         <price>598.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name lang="ua">Monolaurin 500mg - 60 vcaps (До 02.27)</name>
         <name lang="ru">Monolaurin 500mg - 60 vcaps (До 02.27)</name>
         <vendorCode>DSN_2024-11-0763</vendorCode>
@@ -279646,7 +279646,7 @@ MyProtein Weight Gainer Blend станет настоящей находкой �
       <offer id="DSN_2024-11-1178" available="true">
         <price>32.36</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>173</quantity_in_stock>
+        <quantity_in_stock>172</quantity_in_stock>
         <name lang="ua">Creatine Monohydrate - 4,1g Mango</name>
         <name lang="ru">Creatine Monohydrate - 4,1g Mango</name>
         <vendorCode>DSN_2024-11-1178</vendorCode>
@@ -284195,10 +284195,10 @@ Jarrow Formulas&amp;reg; Метил B-12 &amp;ndash; это биологичес
 &lt;p&gt;Масло MCT из кокосового/пальмовоядрового масла.&lt;/p&gt;
 </description>
       </offer>
-      <offer id="DSN_2024-11-1374" available="true">
+      <offer id="DSN_2024-11-1374" available="false">
         <price>625.41</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Psyllium Husks Powder - 500g</name>
         <name lang="ru">Psyllium Husks Powder - 500g</name>
         <vendorCode>DSN_2024-11-1374</vendorCode>
@@ -285893,7 +285893,7 @@ Hazelnut - 1 шт.&lt;br /&gt;
       <offer id="DSN_2024-11-1410" available="true">
         <price>580.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <name lang="ua">Turmeric Curcumin with Ginger &amp; Black Pepper Extract Kids - 60 gummies (До 04.27)</name>
         <name lang="ru">Turmeric Curcumin with Ginger &amp; Black Pepper Extract Kids - 60 gummies (До 04.27)</name>
         <vendorCode>DSN_2024-11-1410</vendorCode>
