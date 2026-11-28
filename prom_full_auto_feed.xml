@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-28 05:13"><shop><categories><category id="DSN_1536">Winter Sale❄️</category>
+<yml_catalog date="2026-11-28 16:27"><shop><categories><category id="DSN_1536">Winter Sale❄️</category>
       <category id="DSN_1110">Бренди</category>
       <category id="DSN_1313" parentId="DSN_1110">Mind Shi🔥</category>
       <category id="DSN_1070" parentId="DSN_1110">Allnutrition</category>
@@ -2003,7 +2003,7 @@ MyProtein Weight Gainer Blend станет настоящей находкой �
       <offer id="DSN_5209" available="true">
         <price>880.61</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name lang="ua">Pea Protein Isolate - 1000g Natural</name>
         <name lang="ru">Pea Protein Isolate - 1000g Natural</name>
         <vendorCode>DSN_100-70-0883549-20</vendorCode>
@@ -2292,10 +2292,10 @@ MyProtein Weight Gainer Blend станет настоящей находкой �
         <param name="Кількість порцій" key="xarakteristikaRezerv4" id="3" lang="ua">100</param>
         <param name="Количество порций" key="xarakteristikaRezerv4" id="3" lang="ru">100</param>
       </offer>
-      <offer id="DSN_5272" available="true">
+      <offer id="DSN_5272" available="false">
         <price>449.34</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Glucosamine Chondroitin MSM Double Strength - 60 Caplets</name>
         <name lang="ru">Glucosamine Chondroitin MSM Double Strength - 60 Caplets</name>
         <vendorCode>DSN_100-18-6397199-20</vendorCode>
@@ -2695,7 +2695,7 @@ gриголомшливий смак.&lt;/p&gt;</description>
       <offer id="DSN_5427" available="true">
         <price>576.31</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>318</quantity_in_stock>
+        <quantity_in_stock>316</quantity_in_stock>
         <name lang="ua">One Daily Men`s Multivitamin - 100 caps</name>
         <name lang="ru">One Daily Men`s Multivitamin - 100 caps</name>
         <vendorCode>DSN_100-74-8557232-20</vendorCode>
@@ -2996,7 +2996,7 @@ B12 (цианокобаламин) - 20 мкг&lt;br /&gt;
       <offer id="DSN_5618" available="true">
         <price>128.29</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>49</quantity_in_stock>
+        <quantity_in_stock>46</quantity_in_stock>
         <name lang="ua">Stark Vitamin D3 2000IU - 200tabs</name>
         <name lang="ru">Stark Vitamin D3 2000IU - 200tabs</name>
         <vendorCode>DSN_100-69-6529411-20</vendorCode>
@@ -3123,7 +3123,7 @@ Stark DMAA &amp; Caffeine Stark Pharm включает кофеин &amp;mdash; 
       <offer id="DSN_5631" available="true">
         <price>297.21</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>13</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name lang="ua">Stark Astaxanthin 5mg - 30caps</name>
         <name lang="ru">Stark Astaxanthin 5mg - 30caps</name>
         <vendorCode>DSN_100-20-2288932-20</vendorCode>
@@ -3722,7 +3722,7 @@ B6 (пиридоксина гидрохлорид) - 1,4 мг&lt;br /&gt;
       <offer id="DSN_5741" available="true">
         <price>290.28</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>323</quantity_in_stock>
+        <quantity_in_stock>321</quantity_in_stock>
         <name lang="ua">Melatonin 5 mg - 60 vcaps</name>
         <name lang="ru">Melatonin 5 mg - 60 vcaps</name>
         <vendorCode>DSN_100-95-2342189-20</vendorCode>
@@ -4019,7 +4019,7 @@ B6 (пиридоксина гидрохлорид) - 1,4 мг&lt;br /&gt;
       <offer id="DSN_6021" available="true">
         <price>1438.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>78</quantity_in_stock>
+        <quantity_in_stock>63</quantity_in_stock>
         <name lang="ua">Strong Max - 80g x 20шт Cocoa</name>
         <name lang="ru">Strong Max - 80g x 20шт Cocoa</name>
         <vendorCode>DSN_100-76-8914391-20</vendorCode>
@@ -4045,7 +4045,7 @@ B6 (пиридоксина гидрохлорид) - 1,4 мг&lt;br /&gt;
       <offer id="DSN_6022" available="true">
         <price>1438.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>87</quantity_in_stock>
+        <quantity_in_stock>86</quantity_in_stock>
         <name lang="ua">Strong Max - 80g x 20шт Dried Apricots</name>
         <name lang="ru">Strong Max - 80g x 20шт Dried Apricots</name>
         <vendorCode>DSN_100-32-7586828-20</vendorCode>
@@ -4558,7 +4558,7 @@ gриголомшливий смак.&lt;/p&gt;</description>
       <offer id="DSN_6168" available="true">
         <price>133.63</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name lang="ua">Stark Magnesium/B6 - 60 caps</name>
         <name lang="ru">Stark Magnesium/B6 - 60 caps</name>
         <vendorCode>DSN_100-46-9106322-20</vendorCode>
@@ -4597,7 +4597,7 @@ gриголомшливий смак.&lt;/p&gt;</description>
       <offer id="DSN_6169" available="true">
         <price>384.87</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name lang="ua">Stark 5-HTP - 60caps</name>
         <name lang="ru">Stark 5-HTP - 60caps</name>
         <vendorCode>DSN_100-39-4871204-20</vendorCode>
@@ -4815,7 +4815,7 @@ MyProtein Weight Gainer Blend станет настоящей находкой �
       <offer id="DSN_6231" available="true">
         <price>1438.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>37</quantity_in_stock>
+        <quantity_in_stock>33</quantity_in_stock>
         <name lang="ua">Strong Max - 80g x 20шт Strawberry</name>
         <name lang="ru">Strong Max - 80g x 20шт Strawberry</name>
         <vendorCode>DSN_100-86-2384758-20</vendorCode>
@@ -5046,7 +5046,7 @@ MyProtein Weight Gainer Blend станет настоящей находкой �
       <offer id="DSN_6344" available="true">
         <price>362.97</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>561</quantity_in_stock>
+        <quantity_in_stock>562</quantity_in_stock>
         <name lang="ua">Vitamin D-3 125mcg (5000 IU) Sunvite Mega Potency - 100 tabs</name>
         <name lang="ru">Vitamin D-3 125mcg (5000 IU) Sunvite Mega Potency - 100 tabs</name>
         <vendorCode>DSN_100-99-0283453-20</vendorCode>
@@ -6535,7 +6535,7 @@ B12 (цианокобаламин) - 12,5 мг&lt;br /&gt;
       <offer id="DSN_7635" available="true">
         <price>1392.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>15</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <name lang="ua">Vegan Bar 32% protein - 20x60g</name>
         <name lang="ru">Vegan Bar 32% protein - 20x60g</name>
         <vendorCode>DSN_100-11-5491236-20</vendorCode>
@@ -7174,7 +7174,7 @@ Swanson Vitamin C с шиповником &amp;mdash; идеальная пар�
       <offer id="DSN_8036" available="true">
         <price>522.03</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>292</quantity_in_stock>
+        <quantity_in_stock>291</quantity_in_stock>
         <name lang="ua">GABA 500 mg - 100 caps</name>
         <name lang="ru">GABA 500 mg - 100 caps</name>
         <vendorCode>DSN_100-60-6564189-20</vendorCode>
@@ -8568,10 +8568,10 @@ L-Arginine 500мг показан людям после 30 лет, так как
         <param name="Вміст цукру" key="xarakteristikaRezerv3" id="2" lang="ua">З цукром</param>
         <param name="Содержание сахара" key="xarakteristikaRezerv3" id="2" lang="ru">З цукром</param>
       </offer>
-      <offer id="DSN_8693" available="true">
+      <offer id="DSN_8693" available="false">
         <price>502.47</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Stark CO-Q10 Coenzyme 50mg - 60 caps</name>
         <name lang="ru">Stark CO-Q10 Coenzyme 50mg - 60 caps</name>
         <vendorCode>DSN_100-98-7115175-20</vendorCode>
@@ -9719,7 +9719,7 @@ Coenzyme Q-10 &amp;ndash; 50 мг&lt;br /&gt;
       <offer id="DSN_8944" available="true">
         <price>198.71</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>421</quantity_in_stock>
+        <quantity_in_stock>419</quantity_in_stock>
         <name lang="ua">Zinc Picolinate 22 mg - 60 caps</name>
         <name lang="ru">Zinc Picolinate 22 mg - 60 caps</name>
         <vendorCode>DSN_100-98-2790940-20</vendorCode>
@@ -10121,7 +10121,7 @@ Swanson Kelp &amp;mdash; это уникальная формула, котор�
       <offer id="DSN_9035" available="true">
         <price>609.82</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>138</quantity_in_stock>
+        <quantity_in_stock>137</quantity_in_stock>
         <name lang="ua">Korean Red Ginseng Root 400 mg - 90 Caps</name>
         <name lang="ru">Korean Red Ginseng Root 400 mg - 90 Caps</name>
         <vendorCode>DSN_100-64-6205989-20</vendorCode>
@@ -10199,7 +10199,7 @@ Swanson Kelp &amp;mdash; это уникальная формула, котор�
       <offer id="DSN_9038" available="true">
         <price>511.18</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>290</quantity_in_stock>
+        <quantity_in_stock>289</quantity_in_stock>
         <name lang="ua">Maca 500 mg - 100 Caps</name>
         <name lang="ru">Maca 500 mg - 100 Caps</name>
         <vendorCode>DSN_100-97-7634284-20</vendorCode>
@@ -10350,7 +10350,7 @@ Swanson Kelp &amp;mdash; это уникальная формула, котор�
       <offer id="DSN_9086" available="true">
         <price>499.85</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>96</quantity_in_stock>
+        <quantity_in_stock>95</quantity_in_stock>
         <name lang="ua">Omega-3 Fish Oil Extra Strength 1500 mg (450 mg Active Omega-3) 60 Softgels</name>
         <name lang="ru">Omega-3 Fish Oil Extra Strength 1500 mg (450 mg Active Omega-3) 60 Softgels</name>
         <vendorCode>DSN_100-77-5623152-20</vendorCode>
@@ -10556,7 +10556,7 @@ Swanson Health Products предлагает множество качестве
       <offer id="DSN_9191" available="true">
         <price>407.34</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1056</quantity_in_stock>
+        <quantity_in_stock>1054</quantity_in_stock>
         <name lang="ua">Ashwagandha 450mg - 100caps</name>
         <name lang="ru">Ashwagandha 450mg - 100caps</name>
         <vendorCode>DSN_100-93-4411784-20</vendorCode>
@@ -10839,7 +10839,7 @@ Swanson DHEA является предшественником эстроген�
       <offer id="DSN_9216" available="true">
         <price>231.28</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1493</quantity_in_stock>
+        <quantity_in_stock>1488</quantity_in_stock>
         <name lang="ua">Chromium Picolinate 200mg - 100caps</name>
         <name lang="ru">Chromium Picolinate 200mg - 100caps</name>
         <vendorCode>DSN_100-96-0574776-20</vendorCode>
@@ -11068,7 +11068,7 @@ Swanson Selenium является важным антиоксидантом, к�
       <offer id="DSN_9239" available="true">
         <price>288.39</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>452</quantity_in_stock>
+        <quantity_in_stock>451</quantity_in_stock>
         <name lang="ua">Milk Thistle 500mg - 100caps</name>
         <name lang="ru">Milk Thistle 500mg - 100caps</name>
         <vendorCode>DSN_100-21-9320641-20</vendorCode>
@@ -11959,7 +11959,7 @@ Swanson Full Spectrum Saw Palmetto, ведущая в мире трава для
       <offer id="DSN_9562" available="true">
         <price>430.94</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>40</quantity_in_stock>
+        <quantity_in_stock>39</quantity_in_stock>
         <name lang="ua">Caprylic Acid 600mg - 60 soft</name>
         <name lang="ru">Caprylic Acid 600mg - 60 soft</name>
         <vendorCode>DSN_100-99-5764816-20</vendorCode>
@@ -12445,10 +12445,10 @@ Swanson Caprylic Acid содержит 600 мг каприловой кисло�
         <param name="Вміст цукру" key="xarakteristikaRezerv3" id="1" lang="ua">Без цукру</param>
         <param name="Содержание сахара" key="xarakteristikaRezerv3" id="1" lang="ru">Без цукру</param>
       </offer>
-      <offer id="DSN_10066" available="true">
+      <offer id="DSN_10066" available="false">
         <price>256.58</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Stark Eleuthero 35mg - 200 caps</name>
         <name lang="ru">Stark Eleuthero 35mg - 200 caps</name>
         <vendorCode>DSN_100-87-7454697-20</vendorCode>
@@ -12618,7 +12618,7 @@ Swanson Caprylic Acid содержит 600 мг каприловой кисло�
       <offer id="DSN_10254" available="true">
         <price>210.51</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>394</quantity_in_stock>
+        <quantity_in_stock>393</quantity_in_stock>
         <name lang="ua">Black Walnut Hulls 500mg - 60caps</name>
         <name lang="ru">Black Walnut Hulls 500mg - 60caps</name>
         <vendorCode>DSN_100-74-4582106-20</vendorCode>
@@ -14098,7 +14098,7 @@ Swanson Full Spectrum Saw Palmetto, ведущая в мире трава для
       <offer id="DSN_10893" available="true">
         <price>826.47</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>165</quantity_in_stock>
+        <quantity_in_stock>164</quantity_in_stock>
         <name lang="ua">Glucosamine Chondroitin MSM Triple Strength - 90 caplets</name>
         <name lang="ru">Glucosamine Chondroitin MSM Triple Strength - 90 caplets</name>
         <vendorCode>DSN_100-76-2034597-20</vendorCode>
@@ -14656,7 +14656,7 @@ Swanson Saccharomyces Boulardii с пребиотиком MOS специальн
       <offer id="DSN_11342" available="true">
         <price>277.96</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>60</quantity_in_stock>
+        <quantity_in_stock>59</quantity_in_stock>
         <name lang="ua">L-Theanine 200mg - 60caps</name>
         <name lang="ru">L-Theanine 200mg - 60caps</name>
         <vendorCode>DSN_100-48-7335430-20</vendorCode>
@@ -15842,7 +15842,7 @@ MyProtein Weight Gainer Blend станет настоящей находкой �
       <offer id="DSN_12740" available="true">
         <price>726.97</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name lang="ua">Stark Citicoline 250mg - 60caps</name>
         <name lang="ru">Stark Citicoline 250mg - 60caps</name>
         <vendorCode>DSN_100-79-8271861-20</vendorCode>
@@ -16151,7 +16151,7 @@ L-глутамин&amp;nbsp;&amp;nbsp; &amp;nbsp;80&lt;br /&gt;
       <offer id="DSN_12879" available="true">
         <price>1215.87</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>224</quantity_in_stock>
+        <quantity_in_stock>223</quantity_in_stock>
         <name lang="ua">Anabol Hardcore - 60ct</name>
         <name lang="ru">Anabol Hardcore - 60ct</name>
         <vendorCode>DSN_100-10-8735005-20</vendorCode>
@@ -16288,7 +16288,7 @@ L-глутамин&amp;nbsp;&amp;nbsp; &amp;nbsp;80&lt;br /&gt;
       <offer id="DSN_12977" available="true">
         <price>658.55</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>50</quantity_in_stock>
+        <quantity_in_stock>49</quantity_in_stock>
         <name lang="ua">Creatine monohydrate - 500g Pure</name>
         <name lang="ru">Creatine monohydrate - 500g Pure</name>
         <vendorCode>DSN_100-97-7119051-20</vendorCode>
@@ -16410,7 +16410,7 @@ L-глутамин&amp;nbsp;&amp;nbsp; &amp;nbsp;80&lt;br /&gt;
       <offer id="DSN_13036" available="true">
         <price>575.84</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>345</quantity_in_stock>
+        <quantity_in_stock>343</quantity_in_stock>
         <name lang="ua">One Daily Women's Multivitamin - 100 caps</name>
         <name lang="ru">One Daily Women's Multivitamin - 100 caps</name>
         <vendorCode>DSN_100-36-0766106-20</vendorCode>
@@ -17220,7 +17220,7 @@ Optimum Nutrition 100% Whey Gold Standard по праву занимает пе�
       <offer id="DSN_13258" available="true">
         <price>459.71</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name lang="ua">Collagen Hydrolyzed Powder - 200g</name>
         <name lang="ru">Collagen Hydrolyzed Powder - 200g</name>
         <vendorCode>DSN_100-49-2833461-20</vendorCode>
@@ -17375,7 +17375,7 @@ Optimum Nutrition 100% Whey Gold Standard по праву занимает пе�
       <offer id="DSN_13262" available="true">
         <price>310.04</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>18</quantity_in_stock>
+        <quantity_in_stock>17</quantity_in_stock>
         <name lang="ua">Citrulline malate - 200g</name>
         <name lang="ru">Citrulline malate - 200g</name>
         <vendorCode>DSN_100-15-4422085-20</vendorCode>
@@ -17458,7 +17458,7 @@ Optimum Nutrition 100% Whey Gold Standard по праву занимает пе�
       <offer id="DSN_13264" available="true">
         <price>224.51</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>20</quantity_in_stock>
+        <quantity_in_stock>19</quantity_in_stock>
         <name lang="ua">Glycine Stark - 250g</name>
         <name lang="ru">Glycine Stark - 250g</name>
         <vendorCode>DSN_100-95-5066787-20</vendorCode>
@@ -18309,7 +18309,7 @@ Swanson Triple Magnesium Complex &amp;mdash; лучший дополнитель
       <offer id="DSN_13343" available="true">
         <price>851.96</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1167</quantity_in_stock>
+        <quantity_in_stock>1166</quantity_in_stock>
         <name lang="ua">Alpha Lipoic Acide 600mg - 60cap</name>
         <name lang="ru">Alpha Lipoic Acide 600mg - 60cap</name>
         <vendorCode>DSN_100-58-6763343-20</vendorCode>
@@ -18505,7 +18505,7 @@ Swanson Triple Magnesium Complex &amp;mdash; лучший дополнитель
       <offer id="DSN_13357" available="true">
         <price>432.82</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>145</quantity_in_stock>
+        <quantity_in_stock>144</quantity_in_stock>
         <name lang="ua">Full Spect Boswellia and Curcumin - 60 Caps</name>
         <name lang="ru">Full Spect Boswellia and Curcumin - 60 Caps</name>
         <vendorCode>DSN_100-37-4856184-20</vendorCode>
@@ -18542,7 +18542,7 @@ Swanson Triple Magnesium Complex &amp;mdash; лучший дополнитель
       <offer id="DSN_13358" available="true">
         <price>399.78</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>411</quantity_in_stock>
+        <quantity_in_stock>408</quantity_in_stock>
         <name lang="ua">Boswellia Double Strength 800 mg - 60 Caps</name>
         <name lang="ru">Boswellia Double Strength 800 mg - 60 Caps</name>
         <vendorCode>DSN_100-35-0648434-20</vendorCode>
@@ -18694,7 +18694,7 @@ Swanson Triple Magnesium Complex &amp;mdash; лучший дополнитель
       <offer id="DSN_13362" available="true">
         <price>123.66</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>614</quantity_in_stock>
+        <quantity_in_stock>613</quantity_in_stock>
         <name lang="ua">Vitamin B-12 500mcg - 30caps</name>
         <name lang="ru">Vitamin B-12 500mcg - 30caps</name>
         <vendorCode>DSN_100-16-6846253-20</vendorCode>
@@ -18842,7 +18842,7 @@ Swanson Triple Magnesium Complex &amp;mdash; лучший дополнитель
       <offer id="DSN_13554" available="true">
         <price>931.25</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>890</quantity_in_stock>
+        <quantity_in_stock>887</quantity_in_stock>
         <name lang="ua">Creatine Monohydrate - 500g</name>
         <name lang="ru">Creatine Monohydrate - 500g</name>
         <vendorCode>DSN_100-29-6332084-20</vendorCode>
@@ -19128,10 +19128,10 @@ Magnesium&amp;nbsp;&amp;nbsp; &amp;nbsp;400 mg 100%&lt;br /&gt;
         <param name="Вміст цукру" key="xarakteristikaRezerv3" id="2" lang="ua">З цукром</param>
         <param name="Содержание сахара" key="xarakteristikaRezerv3" id="2" lang="ru">З цукром</param>
       </offer>
-      <offer id="DSN_13618" available="true">
+      <offer id="DSN_13618" available="false">
         <price>310.04</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">L-Arginine - 200g</name>
         <name lang="ru">L-Arginine - 200g</name>
         <vendorCode>DSN_100-19-6174119-20</vendorCode>
@@ -21520,7 +21520,7 @@ L-глутамин&amp;nbsp;&amp;nbsp; &amp;nbsp;80&lt;br /&gt;
       <offer id="DSN_18153" available="true">
         <price>1077.10</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>10</quantity_in_stock>
         <name lang="ua">Ultra Man™ 50 Plus Daily Multi - 120caps</name>
         <name lang="ru">Ultra Man™ 50 Plus Daily Multi - 120caps</name>
         <vendorCode>DSN_100-26-1241879-20</vendorCode>
@@ -22107,7 +22107,7 @@ N-ацетилцистеин (NAC) представляет собой стаб�
       <offer id="DSN_18307" available="true">
         <price>637.20</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>39</quantity_in_stock>
+        <quantity_in_stock>38</quantity_in_stock>
         <name lang="ua">Glycine 1000mg - 100 vcaps</name>
         <name lang="ru">Glycine 1000mg - 100 vcaps</name>
         <vendorCode>DSN_100-36-1957771-20</vendorCode>
@@ -22399,7 +22399,7 @@ L-фенилаланин &amp;mdash; это незаменимая аминок�
       <offer id="DSN_18315" available="true">
         <price>503.15</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name lang="ua">Taurine 1000mg - 100 vcaps</name>
         <name lang="ru">Taurine 1000mg - 100 vcaps</name>
         <vendorCode>DSN_2022-09-1175</vendorCode>
@@ -22858,7 +22858,7 @@ NOW&amp;reg; Chewable Vitamin D-3 поставляет этот ключевой
       <offer id="DSN_18328" available="true">
         <price>404.98</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>119</quantity_in_stock>
+        <quantity_in_stock>116</quantity_in_stock>
         <name lang="ua">VIT D-3 5000 IU - 120 sgels</name>
         <name lang="ru">VIT D-3 5000 IU - 120 sgels</name>
         <vendorCode>DSN_2022-09-1189</vendorCode>
@@ -24113,10 +24113,10 @@ Cal-Mag Stress Formula представляет собой смесь кальц
         <param name="Кількість порцій" key="xarakteristikaRezerv4" id="5" lang="ua">50</param>
         <param name="Количество порций" key="xarakteristikaRezerv4" id="5" lang="ru">50</param>
       </offer>
-      <offer id="DSN_18365" available="true">
+      <offer id="DSN_18365" available="false">
         <price>676.38</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Coral Calcium Plus Mag, D - 100 vcaps</name>
         <name lang="ru">Coral Calcium Plus Mag, D - 100 vcaps</name>
         <vendorCode>DSN_2022-10-0026</vendorCode>
@@ -24210,10 +24210,10 @@ NOW&amp;reg; Coral Calcium Plus является отличным источни
         <param name="Кількість порцій" key="xarakteristikaRezerv4" id="11" lang="ua">180</param>
         <param name="Количество порций" key="xarakteristikaRezerv4" id="11" lang="ru">180</param>
       </offer>
-      <offer id="DSN_18368" available="true">
+      <offer id="DSN_18368" available="false">
         <price>718.86</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Magnesium Citrate 200mg - 100 tabs</name>
         <name lang="ru">Magnesium Citrate 200mg - 100 tabs</name>
         <vendorCode>DSN_2022-10-0029</vendorCode>
@@ -24632,7 +24632,7 @@ Ferrochel&amp;reg; обеспечивает высокую биодоступн�
       <offer id="DSN_18381" available="true">
         <price>268.10</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>56</quantity_in_stock>
+        <quantity_in_stock>54</quantity_in_stock>
         <name lang="ua">Selenium 100 mcg - 100 tabs</name>
         <name lang="ru">Selenium 100 mcg - 100 tabs</name>
         <vendorCode>DSN_2022-10-0042</vendorCode>
@@ -25068,7 +25068,7 @@ Ferrochel&amp;reg; обеспечивает высокую биодоступн�
       <offer id="DSN_18393" available="true">
         <price>467.28</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>3827</quantity_in_stock>
+        <quantity_in_stock>3824</quantity_in_stock>
         <name lang="ua">Omega-3 1000mg - 100 sgels</name>
         <name lang="ru">Omega-3 1000mg - 100 sgels</name>
         <vendorCode>DSN_2022-10-0053</vendorCode>
@@ -25554,7 +25554,7 @@ EPA и DHA помогают регулировать воспалительны�
       <offer id="DSN_18408" available="true">
         <price>790.60</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>215</quantity_in_stock>
+        <quantity_in_stock>214</quantity_in_stock>
         <name lang="ua">Super Omega 3-6-9 1200 mg - 90 sgels</name>
         <name lang="ru">Super Omega 3-6-9 1200 mg - 90 sgels</name>
         <vendorCode>DSN_2022-10-0068</vendorCode>
@@ -25957,7 +25957,7 @@ EPA и DHA помогают регулировать воспалительны�
       <offer id="DSN_18419" available="true">
         <price>1157.82</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1370</quantity_in_stock>
+        <quantity_in_stock>1368</quantity_in_stock>
         <name lang="ua">Chlorophyll Liquid Mint - 16 oz</name>
         <name lang="ru">Chlorophyll Liquid Mint - 16 oz</name>
         <vendorCode>DSN_2022-10-0079</vendorCode>
@@ -26082,7 +26082,7 @@ EPA и DHA помогают регулировать воспалительны�
       <offer id="DSN_18423" available="true">
         <price>359.19</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2345</quantity_in_stock>
+        <quantity_in_stock>2342</quantity_in_stock>
         <name lang="ua">Spirulina 500 mg - 100 tabs</name>
         <name lang="ru">Spirulina 500 mg - 100 tabs</name>
         <vendorCode>DSN_2022-10-0083</vendorCode>
@@ -27384,7 +27384,7 @@ NOW&amp;reg; Boswellia Extract &amp;mdash; это стандартизирова
       <offer id="DSN_21744" available="true">
         <price>375.71</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>503</quantity_in_stock>
+        <quantity_in_stock>501</quantity_in_stock>
         <name lang="ua">Sulforaphane from Broccoli Sprout Extract 400 mcg - 60veg caps</name>
         <name lang="ru">Sulforaphane from Broccoli Sprout Extract 400 mcg - 60veg caps</name>
         <vendorCode>DSN_2022-10-0211</vendorCode>
@@ -27860,7 +27860,7 @@ NOW&amp;reg; Boswellia Extract &amp;mdash; это стандартизирова
       <offer id="DSN_21843" available="true">
         <price>822.15</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>134</quantity_in_stock>
+        <quantity_in_stock>132</quantity_in_stock>
         <name lang="ua">Ultra Women Multivitamin Formula - 90 caps</name>
         <name lang="ru">Ultra Women Multivitamin Formula - 90 caps</name>
         <vendorCode>DSN_2022-10-0275</vendorCode>
@@ -27913,7 +27913,7 @@ Ultra Women&amp;#39;s Sport наполнен дополнительными пи
       <offer id="DSN_21844" available="true">
         <price>822.15</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>522</quantity_in_stock>
+        <quantity_in_stock>517</quantity_in_stock>
         <name lang="ua">Multivitamin Ultra Men's Sport - 90 caps</name>
         <name lang="ru">Multivitamin Ultra Men's Sport - 90 caps</name>
         <vendorCode>DSN_2022-10-0276</vendorCode>
@@ -28304,7 +28304,7 @@ Absolute Joint здесь, чтобы вы вели здоровый, актив
       <offer id="DSN_21857" available="true">
         <price>535.57</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>529</quantity_in_stock>
+        <quantity_in_stock>524</quantity_in_stock>
         <name lang="ua">Omega 3-6-9 - 60 caps</name>
         <name lang="ru">Omega 3-6-9 - 60 caps</name>
         <vendorCode>DSN_2022-10-0289</vendorCode>
@@ -28570,7 +28570,7 @@ Ultra Immune содержит 17 основных витаминов и мине
       <offer id="DSN_18134" available="true">
         <price>55.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>195</quantity_in_stock>
+        <quantity_in_stock>139</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Candy (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g Candy (Поштучно)</name>
         <vendorCode>DSN_2022-09-1026</vendorCode>
@@ -28586,7 +28586,7 @@ Ultra Immune содержит 17 основных витаминов и мине
       <offer id="DSN_18135" available="true">
         <price>55.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>354</quantity_in_stock>
+        <quantity_in_stock>314</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Chocolate (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g Chocolate (Поштучно)</name>
         <vendorCode>DSN_2022-09-1027</vendorCode>
@@ -28618,7 +28618,7 @@ Ultra Immune содержит 17 основных витаминов и мине
       <offer id="DSN_18137" available="true">
         <price>55.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>62</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Marshmallow (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g Marshmallow (Поштучно)</name>
         <vendorCode>DSN_2022-09-1029</vendorCode>
@@ -29404,7 +29404,7 @@ Ultra Immune содержит 17 основных витаминов и мине
       <offer id="DSN_21753" available="true">
         <price>55.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>105</quantity_in_stock>
+        <quantity_in_stock>101</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Cashew (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g Cashew (Поштучно)</name>
         <vendorCode>DSN_2022-10-0220</vendorCode>
@@ -29623,7 +29623,7 @@ Ultra Immune содержит 17 основных витаминов и мине
       <offer id="DSN_21875" available="true">
         <price>319.46</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>117</quantity_in_stock>
+        <quantity_in_stock>115</quantity_in_stock>
         <name lang="ua">Vitamin D3 4000IU - 120 softgels</name>
         <name lang="ru">Vitamin D3 4000IU - 120 softgels</name>
         <vendorCode>DSN_2022-10-0307</vendorCode>
@@ -30700,7 +30700,7 @@ NOW &amp;reg; Ultra Omega 3-D&amp;trade; &amp;mdash; самая мощная ф�
       <offer id="DSN_22062" available="true">
         <price>1151.21</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1162</quantity_in_stock>
+        <quantity_in_stock>1160</quantity_in_stock>
         <name lang="ua">Magnesium Glycinate - 180 tabs</name>
         <name lang="ru">Magnesium Glycinate - 180 tabs</name>
         <vendorCode>DSN_2022-10-0414</vendorCode>
@@ -31190,7 +31190,7 @@ C4&amp;reg; может содержать такие витамины, как н
       <offer id="DSN_22141" available="true">
         <price>751.90</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>768</quantity_in_stock>
+        <quantity_in_stock>767</quantity_in_stock>
         <name lang="ua">Vitamin K-2 (MK7) 100 mcg - 60 vcaps</name>
         <name lang="ru">Vitamin K-2 (MK7) 100 mcg - 60 vcaps</name>
         <vendorCode>DSN_2022-10-0461</vendorCode>
@@ -31424,7 +31424,7 @@ GABA (ГАМК - гамма-аминомасляная кислота)&lt;br /&g
       <offer id="DSN_22167" available="true">
         <price>1514.32</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>63</quantity_in_stock>
+        <quantity_in_stock>64</quantity_in_stock>
         <name lang="ua">Ultra Women`s Protein - 500g Strawberry</name>
         <name lang="ru">Ultra Women`s Protein - 500g Strawberry</name>
         <vendorCode>DSN_2022-10-0478</vendorCode>
@@ -32268,7 +32268,7 @@ ZMA &amp;ndash; это натуральная минеральная добав�
       <offer id="DSN_22383" available="true">
         <price>311.05</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1870</quantity_in_stock>
+        <quantity_in_stock>1869</quantity_in_stock>
         <name lang="ua">BIOTIN 5000mcg - 60 vcaps</name>
         <name lang="ru">BIOTIN 5000mcg - 60 vcaps</name>
         <vendorCode>DSN_2022-10-0566</vendorCode>
@@ -32453,7 +32453,7 @@ ZMA &amp;ndash; это натуральная минеральная добав�
       <offer id="DSN_22449" available="true">
         <price>777.86</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>145</quantity_in_stock>
+        <quantity_in_stock>140</quantity_in_stock>
         <name lang="ua">Alive! Children's Chewable Multivitamin - 120 tabs Orange and Berry</name>
         <name lang="ru">Alive! Children's Chewable Multivitamin - 120 tabs Orange and Berry</name>
         <vendorCode>DSN_2022-10-0601</vendorCode>
@@ -32845,7 +32845,7 @@ Orchard Fruits&amp;trade; и Garden Veggies&amp;trade;&lt;br /&gt;
       <offer id="DSN_22458" available="true">
         <price>533.36</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>47</quantity_in_stock>
+        <quantity_in_stock>46</quantity_in_stock>
         <name lang="ua">Artichoke Supports Digestion - 60 vcaps</name>
         <name lang="ru">Artichoke Supports Digestion - 60 vcaps</name>
         <vendorCode>DSN_2022-10-0610</vendorCode>
@@ -33974,7 +33974,7 @@ Albion Minerals&lt;br /&gt;
       <offer id="DSN_22549" available="true">
         <price>942.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>109</quantity_in_stock>
+        <quantity_in_stock>104</quantity_in_stock>
         <name lang="ua">Sunflower Liquid Lecithin - 16 fl oz</name>
         <name lang="ru">Sunflower Liquid Lecithin - 16 fl oz</name>
         <vendorCode>DSN_2022-10-0686</vendorCode>
@@ -35027,7 +35027,7 @@ Albion Minerals&lt;br /&gt;
       <offer id="DSN_22857" available="true">
         <price>574.10</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>16</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name lang="ua">Natural Omega 3 - 180caps</name>
         <name lang="ru">Natural Omega 3 - 180caps</name>
         <vendorCode>DSN_2022-10-0762</vendorCode>
@@ -35058,7 +35058,7 @@ Albion Minerals&lt;br /&gt;
       <offer id="DSN_22858" available="true">
         <price>261.92</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>67</quantity_in_stock>
+        <quantity_in_stock>66</quantity_in_stock>
         <name lang="ua">Natural Omega 3 - 60caps</name>
         <name lang="ru">Natural Omega 3 - 60caps</name>
         <vendorCode>DSN_2022-10-0763</vendorCode>
@@ -36646,7 +36646,7 @@ KAL метилфолат содержит (6S)-5-Метилтетрагидро�
       <offer id="DSN_23526" available="true">
         <price>934.56</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1002</quantity_in_stock>
+        <quantity_in_stock>1001</quantity_in_stock>
         <name lang="ua">Magnesium Taurate - 90 tabs</name>
         <name lang="ru">Magnesium Taurate - 90 tabs</name>
         <vendorCode>DSN_2022-10-1010</vendorCode>
@@ -36848,7 +36848,7 @@ L-5-MTHF&lt;br /&gt;
       <offer id="DSN_23531" available="true">
         <price>607.94</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>237</quantity_in_stock>
+        <quantity_in_stock>235</quantity_in_stock>
         <name lang="ua">Cat's Claw 500mg - 100 vcaps</name>
         <name lang="ru">Cat's Claw 500mg - 100 vcaps</name>
         <vendorCode>DSN_2022-10-1015</vendorCode>
@@ -36877,7 +36877,7 @@ L-5-MTHF&lt;br /&gt;
       <offer id="DSN_23532" available="true">
         <price>969.02</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>182</quantity_in_stock>
+        <quantity_in_stock>181</quantity_in_stock>
         <name lang="ua">Betaine HCl 250mg - 180 vcaps</name>
         <name lang="ru">Betaine HCl 250mg - 180 vcaps</name>
         <vendorCode>DSN_2022-10-1016</vendorCode>
@@ -36946,7 +36946,7 @@ L-5-MTHF&lt;br /&gt;
       <offer id="DSN_23535" available="true">
         <price>451.70</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>304</quantity_in_stock>
+        <quantity_in_stock>303</quantity_in_stock>
         <name lang="ua">Vitex Berry Extract 400mg - 100 vcaps</name>
         <name lang="ru">Vitex Berry Extract 400mg - 100 vcaps</name>
         <vendorCode>DSN_2022-10-1019</vendorCode>
@@ -37157,7 +37157,7 @@ L-5-MTHF&lt;br /&gt;
       <offer id="DSN_23544" available="true">
         <price>413.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>308</quantity_in_stock>
+        <quantity_in_stock>307</quantity_in_stock>
         <name lang="ua">Zinc 50mg - 100 vcaps</name>
         <name lang="ru">Zinc 50mg - 100 vcaps</name>
         <vendorCode>DSN_2022-10-1028</vendorCode>
@@ -37175,7 +37175,7 @@ L-5-MTHF&lt;br /&gt;
       <offer id="DSN_23545" available="true">
         <price>720.27</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>206</quantity_in_stock>
+        <quantity_in_stock>205</quantity_in_stock>
         <name lang="ua">High Potency Betain HCl with Pepsin 650mg - 100 vcaps</name>
         <name lang="ru">High Potency Betain HCl with Pepsin 650mg - 100 vcaps</name>
         <vendorCode>DSN_2022-10-1029</vendorCode>
@@ -37298,7 +37298,7 @@ L-5-MTHF&lt;br /&gt;
       <offer id="DSN_23550" available="true">
         <price>957.22</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>710</quantity_in_stock>
+        <quantity_in_stock>707</quantity_in_stock>
         <name lang="ua">Magnesium Citrate 400mg - 180 vcaps</name>
         <name lang="ru">Magnesium Citrate 400mg - 180 vcaps</name>
         <vendorCode>DSN_2022-10-1034</vendorCode>
@@ -37322,7 +37322,7 @@ L-5-MTHF&lt;br /&gt;
       <offer id="DSN_23551" available="true">
         <price>835.44</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>682</quantity_in_stock>
+        <quantity_in_stock>676</quantity_in_stock>
         <name lang="ua">Vitamin D-3 &amp; K-2 - 60 vcaps</name>
         <name lang="ru">Vitamin D-3 &amp; K-2 - 60 vcaps</name>
         <vendorCode>DSN_2022-10-1035</vendorCode>
@@ -37396,7 +37396,7 @@ L-5-MTHF&lt;br /&gt;
       <offer id="DSN_23554" available="true">
         <price>1539.66</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>308</quantity_in_stock>
+        <quantity_in_stock>307</quantity_in_stock>
         <name lang="ua">Vitamin D-3 &amp; K-2 - 120 vcaps</name>
         <name lang="ru">Vitamin D-3 &amp; K-2 - 120 vcaps</name>
         <vendorCode>DSN_2022-10-1038</vendorCode>
@@ -37421,7 +37421,7 @@ L-5-MTHF&lt;br /&gt;
       <offer id="DSN_23556" available="true">
         <price>679.68</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>54</quantity_in_stock>
+        <quantity_in_stock>52</quantity_in_stock>
         <name lang="ua">Calcium + D3 Gummy 60 ct (HFS)</name>
         <name lang="ru">Calcium + D3 Gummy 60 ct (HFS)</name>
         <vendorCode>DSN_2022-10-1039</vendorCode>
@@ -38018,7 +38018,7 @@ Energizer&amp;trade; с пищевыми смесями и порошковые 
       <offer id="DSN_23580" available="true">
         <price>958.16</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>197</quantity_in_stock>
+        <quantity_in_stock>196</quantity_in_stock>
         <name lang="ua">Aloe Vera Leaf Juice - 1000ml</name>
         <name lang="ru">Aloe Vera Leaf Juice - 1000ml</name>
         <vendorCode>DSN_2022-10-1063</vendorCode>
@@ -39085,7 +39085,7 @@ MCT из чистых источников:&lt;/p&gt; &lt;p&gt;100 % MCT&amp;Dag
       <offer id="DSN_23614" available="true">
         <price>623.51</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>175</quantity_in_stock>
+        <quantity_in_stock>173</quantity_in_stock>
         <name lang="ua">Pau D'Arco Inner Bark - 180 vcaps</name>
         <name lang="ru">Pau D'Arco Inner Bark - 180 vcaps</name>
         <vendorCode>DSN_2022-10-1097</vendorCode>
@@ -39914,7 +39914,7 @@ MenaQ7&amp;reg; является зарегистрированным товар
       <offer id="DSN_24125" available="true">
         <price>790.60</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>26</quantity_in_stock>
+        <quantity_in_stock>25</quantity_in_stock>
         <name lang="ua">Methyl Folate 1000mcg - 90 tabs</name>
         <name lang="ru">Methyl Folate 1000mcg - 90 tabs</name>
         <vendorCode>DSN_2022-10-2060</vendorCode>
@@ -40203,7 +40203,7 @@ Relora&lt;br /&gt;
       <offer id="DSN_24142" available="true">
         <price>683.46</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1921</quantity_in_stock>
+        <quantity_in_stock>1920</quantity_in_stock>
         <name lang="ua">Magnesium Citrate - 120 caps</name>
         <name lang="ru">Magnesium Citrate - 120 caps</name>
         <vendorCode>DSN_100-34-7892041-20</vendorCode>
@@ -42293,7 +42293,7 @@ NOW&amp;reg; Glucosamine Sulfate является хорошо известны�
       <offer id="DSN_24482" available="true">
         <price>93.61</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>181</quantity_in_stock>
+        <quantity_in_stock>178</quantity_in_stock>
         <name lang="ua">Fitnes Jam Sugar Free + L Carnitine - 200g Rapsberry</name>
         <name lang="ru">Fitnes Jam Sugar Free + L Carnitine - 200g Rapsberry</name>
         <vendorCode>DSN_2022-10-2420</vendorCode>
@@ -42331,7 +42331,7 @@ NOW&amp;reg; Glucosamine Sulfate является хорошо известны�
       <offer id="DSN_24485" available="true">
         <price>93.61</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>149</quantity_in_stock>
+        <quantity_in_stock>147</quantity_in_stock>
         <name lang="ua">Fitnes Jam Sugar Free + L Carnitine - 200g Strawberry</name>
         <name lang="ru">Fitnes Jam Sugar Free + L Carnitine - 200g Strawberry</name>
         <vendorCode>DSN_2022-10-2423</vendorCode>
@@ -42350,7 +42350,7 @@ NOW&amp;reg; Glucosamine Sulfate является хорошо известны�
       <offer id="DSN_24486" available="true">
         <price>93.61</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name lang="ua">Fitnes Jam Sugar Free + L Carnitine - 200g Orange</name>
         <name lang="ru">Fitnes Jam Sugar Free + L Carnitine - 200g Orange</name>
         <vendorCode>DSN_2022-10-2424</vendorCode>
@@ -42452,7 +42452,7 @@ NOW&amp;reg; Glucosamine Sulfate является хорошо известны�
       <offer id="DSN_24508" available="true">
         <price>478.14</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>178</quantity_in_stock>
+        <quantity_in_stock>177</quantity_in_stock>
         <name lang="ua">Calcium w/ D3 Citrate 1000mg - 90 caps</name>
         <name lang="ru">Calcium w/ D3 Citrate 1000mg - 90 caps</name>
         <vendorCode>DSN_2022-10-2445</vendorCode>
@@ -42519,7 +42519,7 @@ NOW&amp;reg; Glucosamine Sulfate является хорошо известны�
       <offer id="DSN_24511" available="true">
         <price>398.37</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>195</quantity_in_stock>
+        <quantity_in_stock>193</quantity_in_stock>
         <name lang="ua">Zinc Citrate 50mg - 60 vcaps</name>
         <name lang="ru">Zinc Citrate 50mg - 60 vcaps</name>
         <vendorCode>DSN_2022-10-2448</vendorCode>
@@ -42555,7 +42555,7 @@ NOW&amp;reg; Glucosamine Sulfate является хорошо известны�
       <offer id="DSN_24514" available="true">
         <price>1587.34</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>341</quantity_in_stock>
+        <quantity_in_stock>336</quantity_in_stock>
         <name lang="ua">Magnesium Glycinate 350mg - 240 vcaps</name>
         <name lang="ru">Magnesium Glycinate 350mg - 240 vcaps</name>
         <vendorCode>DSN_2022-10-2451</vendorCode>
@@ -42659,7 +42659,7 @@ NOW&amp;reg; Glucosamine Sulfate является хорошо известны�
       <offer id="DSN_24553" available="true">
         <price>590.13</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>16</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name lang="ua">KETO Protein Bar - 10x45g Strawberry + Almond</name>
         <name lang="ru">KETO Protein Bar - 10x45g Strawberry + Almond</name>
         <vendorCode>DSN_2022-10-2478</vendorCode>
@@ -42889,7 +42889,7 @@ IFOS&lt;br /&gt;
       <offer id="DSN_24603" available="true">
         <price>1986.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>69</quantity_in_stock>
+        <quantity_in_stock>70</quantity_in_stock>
         <name lang="ua">Femine Protein - 1000g Blackberry Yoghurt</name>
         <name lang="ru">Femine Protein - 1000g Blackberry Yoghurt</name>
         <vendorCode>DSN_2022-10-2520</vendorCode>
@@ -44953,7 +44953,7 @@ NOW&amp;reg; BerryDophilus&amp;trade; содержит 2 миллиарда КО
       <offer id="DSN_24697" available="true">
         <price>718.86</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>84</quantity_in_stock>
+        <quantity_in_stock>83</quantity_in_stock>
         <name lang="ua">Plant Enzymes - 120 vcaps</name>
         <name lang="ru">Plant Enzymes - 120 vcaps</name>
         <vendorCode>DSN_2022-10-2612</vendorCode>
@@ -45328,10 +45328,10 @@ NOW&amp;reg; Clinical Strength Ocu Support&amp;trade; був розроблен�
 Комплексная формула питательных веществ для глаз*&lt;br /&gt;
 NOW&amp;reg; Clinical Strength Ocu Support&amp;trade; был разработан для обеспечения комплексной питательной защиты глаз.* Каждая порция содержит 10 мг доступного лютеина, важнейшего пигмента макулы, хрусталика и других тканей глаза.* Функция лютеина в глазах для нейтрализации свободных радикалов, образующихся под воздействием солнечного света.* NOW также включил в эту формулу экстракт зеленого чая, альфа-липоевую кислоту и экстракт виноградных косточек, чтобы максимизировать потенциал по удалению свободных радикалов.*&lt;/p&gt; &lt;p&gt;В этом продукте могут наблюдаться естественные изменения цвета.&lt;/p&gt;</description>
       </offer>
-      <offer id="DSN_24715" available="true">
+      <offer id="DSN_24715" available="false">
         <price>683.46</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">B-12 Liposomal Spray - 59ml (2oz)</name>
         <name lang="ru">B-12 Liposomal Spray - 59ml (2oz)</name>
         <vendorCode>DSN_2022-10-2630</vendorCode>
@@ -46152,7 +46152,7 @@ Pau D&amp;#39;Arco получают из внутренней коры дере�
       <offer id="DSN_24777" available="true">
         <price>418.19</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>30</quantity_in_stock>
+        <quantity_in_stock>29</quantity_in_stock>
         <name lang="ua">Tea Tree Oil - 30ml (1fl.oz)</name>
         <name lang="ru">Tea Tree Oil - 30ml (1fl.oz)</name>
         <vendorCode>DSN_2022-10-2683</vendorCode>
@@ -46760,7 +46760,7 @@ NOW&amp;reg; Mood Support &amp;mdash; это пищевая добавка, со
       <offer id="DSN_25123" available="true">
         <price>239.47</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>22</quantity_in_stock>
+        <quantity_in_stock>17</quantity_in_stock>
         <name lang="ua">Magnesium Citrate - 100 caps</name>
         <name lang="ru">Magnesium Citrate - 100 caps</name>
         <vendorCode>DSN_2022-10-2821</vendorCode>
@@ -46816,7 +46816,7 @@ NOW&amp;reg; Mood Support &amp;mdash; это пищевая добавка, со
       <offer id="DSN_25148" available="true">
         <price>250.17</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name lang="ua">Calcium Magnesium &amp; Zinc Powder - 240g</name>
         <name lang="ru">Calcium Magnesium &amp; Zinc Powder - 240g</name>
         <vendorCode>DSN_2022-10-2833</vendorCode>
@@ -46956,7 +46956,7 @@ NOW&amp;reg; Mood Support &amp;mdash; это пищевая добавка, со
       <offer id="DSN_25213" available="true">
         <price>579.62</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2593</quantity_in_stock>
+        <quantity_in_stock>2592</quantity_in_stock>
         <name lang="ua">Hema-Plex - 30 tabs</name>
         <name lang="ru">Hema-Plex - 30 tabs</name>
         <vendorCode>DSN_2022-10-2841</vendorCode>
@@ -47094,7 +47094,7 @@ BioPerine&amp;reg;&lt;br /&gt;
       <offer id="DSN_25218" available="true">
         <price>738.68</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>281</quantity_in_stock>
+        <quantity_in_stock>280</quantity_in_stock>
         <name lang="ua">Children’s Gold Multivitamin - 60 tabs Assorted</name>
         <name lang="ru">Children’s Gold Multivitamin - 60 tabs Assorted</name>
         <vendorCode>DSN_2022-10-2846</vendorCode>
@@ -47741,7 +47741,7 @@ III тип &amp;ndash; кожа, кровеносные сосуды, жизне
       <offer id="DSN_25288" available="true">
         <price>567.82</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2731</quantity_in_stock>
+        <quantity_in_stock>2728</quantity_in_stock>
         <name lang="ua">Hema-Plex - 30 tabs</name>
         <name lang="ru">Hema-Plex - 30 tabs</name>
         <vendorCode>DSN_2022-10-2868</vendorCode>
@@ -47786,7 +47786,7 @@ BioPerine&amp;reg;&lt;br /&gt;
       <offer id="DSN_25289" available="true">
         <price>1011.50</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>307</quantity_in_stock>
+        <quantity_in_stock>306</quantity_in_stock>
         <name lang="ua">Power Teen Hers Chewable - 60 tabs</name>
         <name lang="ru">Power Teen Hers Chewable - 60 tabs</name>
         <vendorCode>DSN_2022-10-2865</vendorCode>
@@ -48281,7 +48281,7 @@ BioPerine&amp;reg;&lt;br /&gt;
       <offer id="DSN_25454" available="true">
         <price>2099.46</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>526</quantity_in_stock>
+        <quantity_in_stock>522</quantity_in_stock>
         <name lang="ua">Triple Strength Omega-3 950mg - 100 softgels</name>
         <name lang="ru">Triple Strength Omega-3 950mg - 100 softgels</name>
         <vendorCode>DSN_2022-10-2999</vendorCode>
@@ -48457,7 +48457,7 @@ BioPerine&amp;reg;&lt;br /&gt;
       <offer id="DSN_25502" available="true">
         <price>549.41</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>66</quantity_in_stock>
+        <quantity_in_stock>65</quantity_in_stock>
         <name lang="ua">Vitamin C+D3 &amp; Zinc - 100 caps</name>
         <name lang="ru">Vitamin C+D3 &amp; Zinc - 100 caps</name>
         <vendorCode>DSN_2022-10-3008</vendorCode>
@@ -48644,7 +48644,7 @@ BioPerine&amp;reg;&lt;br /&gt;
       <offer id="DSN_25545" available="true">
         <price>1618.96</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>368</quantity_in_stock>
+        <quantity_in_stock>367</quantity_in_stock>
         <name lang="ua">Ultra-Mag Magnesium Complex - 240 tabs</name>
         <name lang="ru">Ultra-Mag Magnesium Complex - 240 tabs</name>
         <vendorCode>DSN_2022-10-1303</vendorCode>
@@ -48666,7 +48666,7 @@ BioPerine&amp;reg;&lt;br /&gt;
       <offer id="DSN_25546" available="true">
         <price>866.59</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1356</quantity_in_stock>
+        <quantity_in_stock>1353</quantity_in_stock>
         <name lang="ua">Ultra-Mag Magnesium Complex - 120 tabs</name>
         <name lang="ru">Ultra-Mag Magnesium Complex - 120 tabs</name>
         <vendorCode>DSN_2022-10-1304</vendorCode>
@@ -55488,10 +55488,10 @@ MenaQ7&amp;reg; &amp;ndash; витамин K2 в виде MK-7&lt;br /&gt;
 продукт без ГМО способен украсить ваш день и подарить вам ощущение комфорта и безопасности.&lt;br /&gt;
 Разнообразие батончиков спортивного питания на рынке может быть огромным, но "FormaBar" выделяется своими характеристиками и уникальной формулой. Он разработан для тех, кто стремится к наилучшим результатам, заботится о своем здоровье и хочет наслаждаться вкусом с пользой для себя. Не упускайте возможность попробовать "FormaBar" прямо сейчас и почувствовать всю силу и энергию, которые он дарит!&lt;/p&gt;</description>
       </offer>
-      <offer id="DSN_26061" available="true">
+      <offer id="DSN_26061" available="false">
         <price>792.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Forma Bar - 12x60g Cookies and Cream</name>
         <name lang="ru">Forma Bar - 12x60g Cookies and Cream</name>
         <vendorCode>DSN_2022-10-1742</vendorCode>
@@ -56167,7 +56167,7 @@ ActivGels&amp;trade;&lt;br /&gt;
       <offer id="DSN_26119" available="true">
         <price>714.14</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>608</quantity_in_stock>
+        <quantity_in_stock>607</quantity_in_stock>
         <name lang="ua">Kids Vitamins &amp; Minerals - 120 chewables Black Cherry</name>
         <name lang="ru">Kids Vitamins &amp; Minerals - 120 chewables Black Cherry</name>
         <vendorCode>DSN_2022-10-1788</vendorCode>
@@ -56344,7 +56344,7 @@ Solaray Opti Zinc 30mg - це дієтична добавка, що містит
       <offer id="DSN_26127" available="true">
         <price>611.24</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>525</quantity_in_stock>
+        <quantity_in_stock>524</quantity_in_stock>
         <name lang="ua">Zinc Copper - 100 vcaps</name>
         <name lang="ru">Zinc Copper - 100 vcaps</name>
         <vendorCode>DSN_2022-10-1796</vendorCode>
@@ -56389,7 +56389,7 @@ Solaray Opti Zinc 30mg - це дієтична добавка, що містит
       <offer id="DSN_26129" available="true">
         <price>899.63</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1166</quantity_in_stock>
+        <quantity_in_stock>1161</quantity_in_stock>
         <name lang="ua">Magnesium Glycinate 350mg - 120 vcaps</name>
         <name lang="ru">Magnesium Glycinate 350mg - 120 vcaps</name>
         <vendorCode>DSN_2022-10-1798</vendorCode>
@@ -56462,7 +56462,7 @@ Solaray Opti Zinc 30mg - це дієтична добавка, що містит
       <offer id="DSN_26134" available="true">
         <price>567.82</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>74</quantity_in_stock>
+        <quantity_in_stock>73</quantity_in_stock>
         <name lang="ua">Pure Magnesium Oil - 8 oz</name>
         <name lang="ru">Pure Magnesium Oil - 8 oz</name>
         <vendorCode>DSN_2022-10-1803</vendorCode>
@@ -56500,7 +56500,7 @@ Solaray Opti Zinc 30mg - це дієтична добавка, що містит
       <offer id="DSN_26141" available="true">
         <price>148.68</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>223</quantity_in_stock>
+        <quantity_in_stock>224</quantity_in_stock>
         <name lang="ua">Swanson Pill Box</name>
         <name lang="ru">Swanson Pill Box</name>
         <vendorCode>DSN_2022-10-1810</vendorCode>
@@ -56890,7 +56890,7 @@ HepatoPro &amp;mdash; высоко биодоступная форма фосф�
       <offer id="DSN_26281" available="true">
         <price>486.63</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>41</quantity_in_stock>
+        <quantity_in_stock>40</quantity_in_stock>
         <name lang="ua">Magnesium Caps 500 mg - 100 vcaps</name>
         <name lang="ru">Magnesium Caps 500 mg - 100 vcaps</name>
         <vendorCode>DSN_2022-10-1887</vendorCode>
@@ -57246,7 +57246,7 @@ Ginkgo Biloba Certified Extract&amp;trade; оказывает положител
       <offer id="DSN_26295" available="true">
         <price>810.90</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>854</quantity_in_stock>
+        <quantity_in_stock>852</quantity_in_stock>
         <name lang="ua">Glycine 1000 mg - 100 vcaps</name>
         <name lang="ru">Glycine 1000 mg - 100 vcaps</name>
         <vendorCode>DSN_2022-10-1901</vendorCode>
@@ -57444,7 +57444,7 @@ Life Extension&amp;reg; L-Theanine содержит 100 мг успокаива�
       <offer id="DSN_26300" available="true">
         <price>446.04</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>608</quantity_in_stock>
+        <quantity_in_stock>607</quantity_in_stock>
         <name lang="ua">Vitamin D3 125 mcg (5000 IU) - 60 softgels</name>
         <name lang="ru">Vitamin D3 125 mcg (5000 IU) - 60 softgels</name>
         <vendorCode>DSN_2022-10-1906</vendorCode>
@@ -58172,7 +58172,7 @@ TMG (также известный как глицин-бетаин) спосо�
       <offer id="DSN_26333" available="true">
         <price>932.67</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>330</quantity_in_stock>
+        <quantity_in_stock>329</quantity_in_stock>
         <name lang="ua">Super Omega-3 EPA/DHA Fish Oil Sesame Lignans &amp; Olive Extract	- 60 softgels</name>
         <name lang="ru">Super Omega-3 EPA/DHA Fish Oil Sesame Lignans &amp; Olive Extract	- 60 softgels</name>
         <vendorCode>DSN_2022-10-1939</vendorCode>
@@ -58955,7 +58955,7 @@ NT2 Collagen&amp;trade;&lt;br /&gt;
       <offer id="DSN_26362" available="true">
         <price>1277.23</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>120</quantity_in_stock>
+        <quantity_in_stock>119</quantity_in_stock>
         <name lang="ua">Two-Per-Day Multivitamin - 120 tabs</name>
         <name lang="ru">Two-Per-Day Multivitamin - 120 tabs</name>
         <vendorCode>DSN_2022-10-1968</vendorCode>
@@ -59883,7 +59883,7 @@ FitWin WHEY является мощным источником поддержк�
       <offer id="DSN_26484" available="true">
         <price>1690.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>23</quantity_in_stock>
+        <quantity_in_stock>22</quantity_in_stock>
         <name lang="ua">Whey - 900g Double Chocolate</name>
         <name lang="ru">Whey - 900g Double Chocolate</name>
         <vendorCode>DSN_2023-10-2061</vendorCode>
@@ -60434,7 +60434,7 @@ Clear Quality&amp;trade;&lt;br /&gt;
       <offer id="DSN_26565" available="true">
         <price>93.61</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>206</quantity_in_stock>
+        <quantity_in_stock>204</quantity_in_stock>
         <name lang="ua">Fitnes Jam Sugar Free + L Carnitine - 200g Forest Fruit</name>
         <name lang="ru">Fitnes Jam Sugar Free + L Carnitine - 200g Forest Fruit</name>
         <vendorCode>DSN_2023-10-2109</vendorCode>
@@ -60754,7 +60754,7 @@ Clear Quality&amp;trade;&lt;br /&gt;
       <offer id="DSN_26589" available="true">
         <price>421.50</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>365</quantity_in_stock>
+        <quantity_in_stock>363</quantity_in_stock>
         <name lang="ua">Sleep Blend SP-17 - 100 vcaps</name>
         <name lang="ru">Sleep Blend SP-17 - 100 vcaps</name>
         <vendorCode>DSN_2023-10-2130</vendorCode>
@@ -61873,7 +61873,7 @@ Clear Quality&amp;trade;&lt;br /&gt;
       <offer id="DSN_26632" available="true">
         <price>665.05</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1074</quantity_in_stock>
+        <quantity_in_stock>1070</quantity_in_stock>
         <name lang="ua">Chlorofresh® Liquid - 16 oz Mint</name>
         <name lang="ru">Chlorofresh® Liquid - 16 oz Mint</name>
         <vendorCode>DSN_2023-10-2173</vendorCode>
@@ -62009,7 +62009,7 @@ TRUE IDENTITY&amp;trade; гарантирует, что продукт соде�
       <offer id="DSN_26635" available="true">
         <price>899.63</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>27</quantity_in_stock>
+        <quantity_in_stock>25</quantity_in_stock>
         <name lang="ua">Men's Golden Multi-Vitamin - 90 caps</name>
         <name lang="ru">Men's Golden Multi-Vitamin - 90 caps</name>
         <vendorCode>DSN_2023-10-2135</vendorCode>
@@ -62114,7 +62114,7 @@ TRUE IDENTITY&amp;trade; гарантирует, что продукт соде�
       <offer id="DSN_26708" available="true">
         <price>1488.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>29</quantity_in_stock>
+        <quantity_in_stock>28</quantity_in_stock>
         <name lang="ua">Brisee 25% - 20х55g Cherry</name>
         <name lang="ru">Brisee 25% - 20х55g Cherry</name>
         <vendorCode>DSN_2023-10-2194</vendorCode>
@@ -62132,7 +62132,7 @@ TRUE IDENTITY&amp;trade; гарантирует, что продукт соде�
       <offer id="DSN_26709" available="true">
         <price>1488.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name lang="ua">Brisee 25% - 20х55g Strawberry</name>
         <name lang="ru">Brisee 25% - 20х55g Strawberry</name>
         <vendorCode>DSN_2023-10-2195</vendorCode>
@@ -62150,7 +62150,7 @@ TRUE IDENTITY&amp;trade; гарантирует, что продукт соде�
       <offer id="DSN_26717" available="true">
         <price>470.58</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>33</quantity_in_stock>
+        <quantity_in_stock>32</quantity_in_stock>
         <name lang="ua">Chromium Picolinate 500 mcg - 60 caps</name>
         <name lang="ru">Chromium Picolinate 500 mcg - 60 caps</name>
         <vendorCode>DSN_2023-10-2203</vendorCode>
@@ -62171,10 +62171,10 @@ TRUE IDENTITY&amp;trade; гарантирует, что продукт соде�
 &amp;ndash; Ваше тело превращает питательные вещества в энергию*&lt;br /&gt;
 &amp;ndash; Поддерживает метаболизм сахара, жиров и белков*&lt;/p&gt; &lt;p&gt;Эта пиколинатная форма хрома легко усваивается, поэтому ваше тело может наслаждаться всеми преимуществами минерала.&lt;/p&gt; &lt;p&gt;В качестве диетической добавки для взрослых принимайте две (2) овощные капсулы ежедневно, желательно во время еды или по указанию врача.&lt;/p&gt;</description>
       </offer>
-      <offer id="DSN_26720" available="true">
+      <offer id="DSN_26720" available="false">
         <price>310.04</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">L-Arginine - 200g Pineapple</name>
         <name lang="ru">L-Arginine - 200g Pineapple</name>
         <vendorCode>DSN_2023-10-2206</vendorCode>
@@ -62205,10 +62205,10 @@ TRUE IDENTITY&amp;trade; гарантирует, что продукт соде�
         <param name="Тип" key="tip" id="21" lang="ua">L-аргінін</param>
         <param name="Тип" key="tip" id="21" lang="ru">L-аргинин</param>
       </offer>
-      <offer id="DSN_26721" available="true">
+      <offer id="DSN_26721" available="false">
         <price>310.04</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>6</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">L-Arginine - 200g Strawberry Raspberry</name>
         <name lang="ru">L-Arginine - 200g Strawberry Raspberry</name>
         <vendorCode>DSN_2023-10-2207</vendorCode>
@@ -62239,10 +62239,10 @@ TRUE IDENTITY&amp;trade; гарантирует, что продукт соде�
         <param name="Тип" key="tip" id="21" lang="ua">L-аргінін</param>
         <param name="Тип" key="tip" id="21" lang="ru">L-аргинин</param>
       </offer>
-      <offer id="DSN_26722" available="true">
+      <offer id="DSN_26722" available="false">
         <price>310.04</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">L-Arginine - 200g Tropical</name>
         <name lang="ru">L-Arginine - 200g Tropical</name>
         <vendorCode>DSN_2023-10-2208</vendorCode>
@@ -62414,7 +62414,7 @@ N, N-диметилглицин&lt;br /&gt;
       <offer id="DSN_26732" available="true">
         <price>1259.30</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>83</quantity_in_stock>
+        <quantity_in_stock>82</quantity_in_stock>
         <name lang="ua">UC-II® Type II Collagen 40mg - 60 vcaps</name>
         <name lang="ru">UC-II® Type II Collagen 40mg - 60 vcaps</name>
         <vendorCode>DSN_2023-10-2217</vendorCode>
@@ -65767,10 +65767,10 @@ Thyroid Energy&amp;trade; от NOW&amp;reg; представляет собой 
 Принимать по 1 капсуле в день с жиросодержащей пищей.&lt;/p&gt; &lt;p&gt;Другие ингредиенты&lt;br /&gt;
 Органическое нерафинированное оливковое масло первого отжима, капсула (желатин, вода, глицерин) и витамин Е (в виде натурального d-альфа-токоферола).&lt;/p&gt;</description>
       </offer>
-      <offer id="DSN_27281" available="true">
+      <offer id="DSN_27281" available="false">
         <price>170.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>148</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">BSN Shaker - 700ml Red</name>
         <name lang="ru">BSN Shaker - 700ml Red</name>
         <vendorCode>DSN_2023-10-2640</vendorCode>
@@ -65802,7 +65802,7 @@ Thyroid Energy&amp;trade; от NOW&amp;reg; представляет собой 
       <offer id="DSN_27283" available="true">
         <price>173.39</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>137</quantity_in_stock>
+        <quantity_in_stock>136</quantity_in_stock>
         <name lang="ua">Shaker - 700ml Black</name>
         <name lang="ru">Shaker - 700ml Black</name>
         <vendorCode>DSN_2023-10-2642</vendorCode>
@@ -66248,7 +66248,7 @@ L-лизин &amp;ndash; это незаменимая аминокислота 
       <offer id="DSN_27320" available="true">
         <price>830.72</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>46</quantity_in_stock>
+        <quantity_in_stock>45</quantity_in_stock>
         <name lang="ua">Boswellia Extract - 100 tabs</name>
         <name lang="ru">Boswellia Extract - 100 tabs</name>
         <vendorCode>DSN_2023-10-2676</vendorCode>
@@ -66899,7 +66899,7 @@ L-карнозин цинка для защиты слизистой желуд�
       <offer id="DSN_27466" available="true">
         <price>887.40</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>80</quantity_in_stock>
+        <quantity_in_stock>79</quantity_in_stock>
         <name lang="ua">Lipo Jets - 100 caps</name>
         <name lang="ru">Lipo Jets - 100 caps</name>
         <vendorCode>DSN_2023-10-3038</vendorCode>
@@ -67112,7 +67112,7 @@ L-карнозин цинка для защиты слизистой желуд�
       <offer id="DSN_27505" available="true">
         <price>2338.76</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>16</quantity_in_stock>
         <name lang="ua">UC-II® Type II Collagen 40mg - 120 vcaps</name>
         <name lang="ru">UC-II® Type II Collagen 40mg - 120 vcaps</name>
         <vendorCode>DSN_2023-10-2822</vendorCode>
@@ -67950,7 +67950,7 @@ Pelargonium Graveolens&lt;br /&gt;
       <offer id="DSN_27709" available="true">
         <price>228.95</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>7</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name lang="ua">Fitness Granola - 450g Classic</name>
         <name lang="ru">Fitness Granola - 450g Classic</name>
         <vendorCode>DSN_2023-10-2986</vendorCode>
@@ -67995,7 +67995,7 @@ Pelargonium Graveolens&lt;br /&gt;
       <offer id="DSN_27712" available="true">
         <price>260.53</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name lang="ua">Fitness Granola - 450g Bilberry with Protein</name>
         <name lang="ru">Fitness Granola - 450g Bilberry with Protein</name>
         <vendorCode>DSN_2023-10-2989</vendorCode>
@@ -70048,7 +70048,7 @@ Relora снижает уровень кортизола вечером, кото
       <offer id="DSN_27922" available="true">
         <price>425.27</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name lang="ua">Vitamin B-Complex 50mg - 50 vcaps</name>
         <name lang="ru">Vitamin B-Complex 50mg - 50 vcaps</name>
         <vendorCode>DSN_2023-10-3151</vendorCode>
@@ -70090,7 +70090,7 @@ Relora снижает уровень кортизола вечером, кото
       <offer id="DSN_27924" available="true">
         <price>478.14</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>538</quantity_in_stock>
+        <quantity_in_stock>537</quantity_in_stock>
         <name lang="ua">Vitamin C &amp; Bioflavonoids 1:1 500mg - 100 vcaps</name>
         <name lang="ru">Vitamin C &amp; Bioflavonoids 1:1 500mg - 100 vcaps</name>
         <vendorCode>DSN_2023-10-3153</vendorCode>
@@ -70555,7 +70555,7 @@ Swanson Chromium Picolinate &amp;ndash; отличный способ помоч
       <offer id="DSN_28006" available="true">
         <price>475.78</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <name lang="ua">Red Clover Blossom 375mg - 100 vcaps</name>
         <name lang="ru">Red Clover Blossom 375mg - 100 vcaps</name>
         <vendorCode>DSN_2023-10-3207</vendorCode>
@@ -70593,7 +70593,7 @@ Swanson Chromium Picolinate &amp;ndash; отличный способ помоч
       <offer id="DSN_28007" available="true">
         <price>717.91</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>32</quantity_in_stock>
+        <quantity_in_stock>31</quantity_in_stock>
         <name lang="ua">Inositol 500mg - 100 vcaps</name>
         <name lang="ru">Inositol 500mg - 100 vcaps</name>
         <vendorCode>DSN_2023-10-3208</vendorCode>
@@ -71408,7 +71408,7 @@ Fast Acting Melatonin NaturesPlus поддерживает системы орг
       <offer id="DSN_28118" available="true">
         <price>203.90</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>188</quantity_in_stock>
+        <quantity_in_stock>185</quantity_in_stock>
         <name lang="ua">VIT D-3 5000 IU - 30 sgels</name>
         <name lang="ru">VIT D-3 5000 IU - 30 sgels</name>
         <vendorCode>DSN_2023-10-3275</vendorCode>
@@ -71757,7 +71757,7 @@ Fast Acting Melatonin NaturesPlus поддерживает системы орг
       <offer id="DSN_28128" available="true">
         <price>480.97</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>479</quantity_in_stock>
+        <quantity_in_stock>472</quantity_in_stock>
         <name lang="ua">Ultra-Mag - 90 vcaps</name>
         <name lang="ru">Ultra-Mag - 90 vcaps</name>
         <vendorCode>DSN_2023-10-3285</vendorCode>
@@ -72013,7 +72013,7 @@ Fast Acting Melatonin NaturesPlus поддерживает системы орг
       <offer id="DSN_28192" available="true">
         <price>588.16</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>162</quantity_in_stock>
+        <quantity_in_stock>159</quantity_in_stock>
         <name lang="ua">Lion's Mane Mushroom 1000 mg - 60 vegcaps</name>
         <name lang="ru">Lion's Mane Mushroom 1000 mg - 60 vegcaps</name>
         <vendorCode>DSN_2023-10-3326</vendorCode>
@@ -72590,7 +72590,7 @@ Fast Acting Melatonin NaturesPlus поддерживает системы орг
       <offer id="DSN_28290" available="true">
         <price>627.29</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1552</quantity_in_stock>
+        <quantity_in_stock>1550</quantity_in_stock>
         <name lang="ua">Chlorofresh® Liquid - 16 oz Unflavored</name>
         <name lang="ru">Chlorofresh® Liquid - 16 oz Unflavored</name>
         <vendorCode>DSN_2023-10-2174</vendorCode>
@@ -73551,7 +73551,7 @@ Fast Acting Melatonin NaturesPlus поддерживает системы орг
       <offer id="DSN_28334" available="true">
         <price>2181.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>336</quantity_in_stock>
+        <quantity_in_stock>335</quantity_in_stock>
         <name lang="ua">Collagen Peptides - 454g Unflavored</name>
         <name lang="ru">Collagen Peptides - 454g Unflavored</name>
         <vendorCode>DSN_2023-10-3441</vendorCode>
@@ -73664,7 +73664,7 @@ Fast Acting Melatonin NaturesPlus поддерживает системы орг
       <offer id="DSN_28337" available="true">
         <price>1692.12</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>497</quantity_in_stock>
+        <quantity_in_stock>496</quantity_in_stock>
         <name lang="ua">Omega-3 Fish Oil Alaska Pollock 1250mg - 90 softgels</name>
         <name lang="ru">Omega-3 Fish Oil Alaska Pollock 1250mg - 90 softgels</name>
         <vendorCode>DSN_2023-10-3444</vendorCode>
@@ -74057,7 +74057,7 @@ With ChromeMate&amp;reg;&lt;br /&gt;
       <offer id="DSN_28380" available="true">
         <price>1409.86</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <name lang="ua">Children’s Multivitamin - 180 tabs Orange</name>
         <name lang="ru">Children’s Multivitamin - 180 tabs Orange</name>
         <vendorCode>DSN_2023-10-3456</vendorCode>
@@ -76667,7 +76667,7 @@ OptiMSM&amp;reg;&lt;br /&gt;
       <offer id="DSN_28740" available="true">
         <price>408.75</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>34</quantity_in_stock>
+        <quantity_in_stock>33</quantity_in_stock>
         <name lang="ua">Vitamin B6 25mg - 100 tabs</name>
         <name lang="ru">Vitamin B6 25mg - 100 tabs</name>
         <vendorCode>DSN_2023-10-3681</vendorCode>
@@ -76783,7 +76783,7 @@ OptiMSM&amp;reg;&lt;br /&gt;
       <offer id="DSN_28746" available="true">
         <price>576.31</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1797</quantity_in_stock>
+        <quantity_in_stock>1798</quantity_in_stock>
         <name lang="ua">Chelated Iron - 100 tabs</name>
         <name lang="ru">Chelated Iron - 100 tabs</name>
         <vendorCode>DSN_2023-10-3687</vendorCode>
@@ -77020,7 +77020,7 @@ OptiMSM&lt;br /&gt;
       <offer id="DSN_28754" available="true">
         <price>624.46</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>657</quantity_in_stock>
+        <quantity_in_stock>656</quantity_in_stock>
         <name lang="ua">Calcium Magnesium Plus Zinc - 100 tabs</name>
         <name lang="ru">Calcium Magnesium Plus Zinc - 100 tabs</name>
         <vendorCode>DSN_2023-10-3695</vendorCode>
@@ -77470,7 +77470,7 @@ OptiMSM&lt;br /&gt;
       <offer id="DSN_28766" available="true">
         <price>682.04</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>478</quantity_in_stock>
+        <quantity_in_stock>477</quantity_in_stock>
         <name lang="ua">Taurine 500mg - 100 vcaps</name>
         <name lang="ru">Taurine 500mg - 100 vcaps</name>
         <vendorCode>DSN_2023-10-3707</vendorCode>
@@ -77994,7 +77994,7 @@ L-лизин &amp;ndash; незаменимая аминокислота, кот
       <offer id="DSN_28786" available="true">
         <price>861.40</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>211</quantity_in_stock>
+        <quantity_in_stock>209</quantity_in_stock>
         <name lang="ua">Omega-3 Fish Oil Concentrate - 120 softgels</name>
         <name lang="ru">Omega-3 Fish Oil Concentrate - 120 softgels</name>
         <vendorCode>DSN_100-58-5816361-20</vendorCode>
@@ -78270,7 +78270,7 @@ L-селенометионин&lt;br /&gt;
       <offer id="DSN_28794" available="true">
         <price>66.32</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>41</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name lang="ua">Protein Cookie - 60g Cherry (Поштучно)</name>
         <name lang="ru">Protein Cookie - 60g Cherry (Поштучно)</name>
         <vendorCode>DSN_2023-10-3728</vendorCode>
@@ -79073,7 +79073,7 @@ Cholesterol Pro&amp;trade; &amp;mdash; комбинация двух уника�
       <offer id="DSN_28872" available="true">
         <price>590.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>49</quantity_in_stock>
+        <quantity_in_stock>47</quantity_in_stock>
         <name lang="ua">Lutein 20mg - 60 softgels</name>
         <name lang="ru">Lutein 20mg - 60 softgels</name>
         <vendorCode>DSN_2023-10-3804</vendorCode>
@@ -79733,7 +79733,7 @@ Cholesterol Pro&amp;trade; &amp;mdash; комбинация двух уника�
       <offer id="DSN_28887" available="true">
         <price>388.46</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>272</quantity_in_stock>
+        <quantity_in_stock>271</quantity_in_stock>
         <name lang="ua">Chromium Picolinate 500mcg - 90 tabs</name>
         <name lang="ru">Chromium Picolinate 500mcg - 90 tabs</name>
         <vendorCode>DSN_2023-10-3819</vendorCode>
@@ -79769,7 +79769,7 @@ Cholesterol Pro&amp;trade; &amp;mdash; комбинация двух уника�
       <offer id="DSN_28888" available="true">
         <price>640.98</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>538</quantity_in_stock>
+        <quantity_in_stock>535</quantity_in_stock>
         <name lang="ua">Magnesium Bisglycinate 200mg - 120 vcaps</name>
         <name lang="ru">Magnesium Bisglycinate 200mg - 120 vcaps</name>
         <vendorCode>DSN_2023-10-3820</vendorCode>
@@ -80981,7 +80981,7 @@ Chlorofresh&amp;reg; &amp;ndash; жидкий комплекс хлорофил�
       <offer id="DSN_28984" available="true">
         <price>543.40</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>592</quantity_in_stock>
+        <quantity_in_stock>591</quantity_in_stock>
         <name lang="ua">Women's Multivitamin Formula - 60 caps</name>
         <name lang="ru">Women's Multivitamin Formula - 60 caps</name>
         <vendorCode>DSN_2023-10-3880</vendorCode>
@@ -81052,7 +81052,7 @@ Chlorofresh&amp;reg; &amp;ndash; жидкий комплекс хлорофил�
       <offer id="DSN_29006" available="true">
         <price>717.44</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>757</quantity_in_stock>
+        <quantity_in_stock>753</quantity_in_stock>
         <name lang="ua">Hair Follicle Stimulator - 237 ml</name>
         <name lang="ru">Hair Follicle Stimulator - 237 ml</name>
         <vendorCode>DSN_2023-10-3886</vendorCode>
@@ -81084,7 +81084,7 @@ Chlorofresh&amp;reg; &amp;ndash; жидкий комплекс хлорофил�
       <offer id="DSN_29007" available="true">
         <price>212.87</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>685</quantity_in_stock>
+        <quantity_in_stock>680</quantity_in_stock>
         <name lang="ua">Hair Follicle Stimulator - 59 ml</name>
         <name lang="ru">Hair Follicle Stimulator - 59 ml</name>
         <vendorCode>DSN_2023-10-3887</vendorCode>
@@ -82457,7 +82457,7 @@ Vegan Plantgel&amp;trade; капсула&lt;/p&gt; &lt;p&gt;Рекомендац
       <offer id="DSN_29234" available="true">
         <price>916.62</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1233</quantity_in_stock>
+        <quantity_in_stock>1232</quantity_in_stock>
         <name lang="ua">WellBetX Berberine 500mg - 60 vcaps</name>
         <name lang="ru">WellBetX Berberine 500mg - 60 vcaps</name>
         <vendorCode>DSN_2023-10-4053</vendorCode>
@@ -83003,7 +83003,7 @@ N-ацетил L-цистеин Swanson AjiPure &amp;mdash; это антиок�
       <offer id="DSN_29250" available="true">
         <price>302.08</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>243</quantity_in_stock>
+        <quantity_in_stock>241</quantity_in_stock>
         <name lang="ua">Extra Strength Zinc Picolinate Body Preferred Form 50mg - 60 caps</name>
         <name lang="ru">Extra Strength Zinc Picolinate Body Preferred Form 50mg - 60 caps</name>
         <vendorCode>DSN_2023-10-4068</vendorCode>
@@ -83103,7 +83103,7 @@ N-ацетил L-цистеин Swanson AjiPure &amp;mdash; это антиок�
       <offer id="DSN_29253" available="true">
         <price>312.94</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>324</quantity_in_stock>
+        <quantity_in_stock>323</quantity_in_stock>
         <name lang="ua">Psyllium Husks 610mg - 100 caps</name>
         <name lang="ru">Psyllium Husks 610mg - 100 caps</name>
         <vendorCode>DSN_2023-10-4071</vendorCode>
@@ -83142,7 +83142,7 @@ N-ацетил L-цистеин Swanson AjiPure &amp;mdash; это антиок�
       <offer id="DSN_29254" available="true">
         <price>553.66</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>486</quantity_in_stock>
+        <quantity_in_stock>483</quantity_in_stock>
         <name lang="ua">Inositol 650mg - 100 caps</name>
         <name lang="ru">Inositol 650mg - 100 caps</name>
         <vendorCode>DSN_2023-10-4072</vendorCode>
@@ -84260,7 +84260,7 @@ FitWin WHEY является мощным источником поддержк�
       <offer id="DSN_29341" available="true">
         <price>529.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>921</quantity_in_stock>
+        <quantity_in_stock>920</quantity_in_stock>
         <name lang="ua">Magnesium with Vitamin B6 - 100 tabs</name>
         <name lang="ru">Magnesium with Vitamin B6 - 100 tabs</name>
         <vendorCode>DSN_2023-10-4128</vendorCode>
@@ -84472,7 +84472,7 @@ Saccharomyces cerevisiae (пекарные дрожжи, пивные дрожж
       <offer id="DSN_29353" available="true">
         <price>514.48</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>57</quantity_in_stock>
+        <quantity_in_stock>56</quantity_in_stock>
         <name lang="ua">Vitamin D3 (Cholecalciferol) 55 mcg (2200 IU) - 50 vcaps</name>
         <name lang="ru">Vitamin D3 (Cholecalciferol) 55 mcg (2200 IU) - 50 vcaps</name>
         <vendorCode>DSN_2023-10-4140</vendorCode>
@@ -85305,7 +85305,7 @@ Saccharomyces cerevisiae (пекарные дрожжи, пивные дрожж
       <offer id="DSN_29493" available="true">
         <price>2824.45</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>588</quantity_in_stock>
+        <quantity_in_stock>587</quantity_in_stock>
         <name lang="ua">Inositol 1000mg - 360 vcaps</name>
         <name lang="ru">Inositol 1000mg - 360 vcaps</name>
         <vendorCode>DSN_2023-10-4280</vendorCode>
@@ -86140,7 +86140,7 @@ Cococaramel не содержит добавленного сахара в со�
       <offer id="DSN_29586" available="true">
         <price>588.16</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>5337</quantity_in_stock>
+        <quantity_in_stock>5327</quantity_in_stock>
         <name lang="ua">4Mushroom Complex 1000 mg - 60 vegcaps</name>
         <name lang="ru">4Mushroom Complex 1000 mg - 60 vegcaps</name>
         <vendorCode>DSN_2023-10-4390</vendorCode>
@@ -87026,7 +87026,7 @@ BioPerine&amp;reg;&lt;br /&gt;
       <offer id="DSN_29607" available="true">
         <price>524.39</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>127</quantity_in_stock>
+        <quantity_in_stock>126</quantity_in_stock>
         <name lang="ua">Hema-Plex - 60 chewable tabs</name>
         <name lang="ru">Hema-Plex - 60 chewable tabs</name>
         <vendorCode>DSN_2023-10-4411</vendorCode>
@@ -87375,7 +87375,7 @@ ActivMelt - мгновенное растворение&lt;br /&gt;
       <offer id="DSN_29615" available="true">
         <price>343.14</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>124</quantity_in_stock>
+        <quantity_in_stock>123</quantity_in_stock>
         <name lang="ua">Zinc 15+ Chelated - 100 tabs</name>
         <name lang="ru">Zinc 15+ Chelated - 100 tabs</name>
         <vendorCode>DSN_2023-10-4419</vendorCode>
@@ -87522,7 +87522,7 @@ ActivMelt - мгновенное растворение&lt;br /&gt;
       <offer id="DSN_29620" available="true">
         <price>581.50</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name lang="ua">Hair Blend SP-38 - 100 vcaps</name>
         <name lang="ru">Hair Blend SP-38 - 100 vcaps</name>
         <vendorCode>DSN_2023-10-4424</vendorCode>
@@ -87586,10 +87586,10 @@ ActivMelt - мгновенное растворение&lt;br /&gt;
         <param name="Тип" key="tip" id="17" lang="ua">Інші</param>
         <param name="Тип" key="tip" id="17" lang="ru">Другие</param>
       </offer>
-      <offer id="DSN_29622" available="true">
+      <offer id="DSN_29622" available="false">
         <price>1005.36</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Wild Yam Root Extract 275mg - 60 vcaps</name>
         <name lang="ru">Wild Yam Root Extract 275mg - 60 vcaps</name>
         <vendorCode>DSN_2023-10-4426</vendorCode>
@@ -90197,7 +90197,7 @@ Source Naturals NightRest Melatonin сочетает мощное действи
       <offer id="DSN_29774" available="true">
         <price>405.92</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>77</quantity_in_stock>
+        <quantity_in_stock>76</quantity_in_stock>
         <name lang="ua">Inositol &amp; Choline 800mg - 50 tabs</name>
         <name lang="ru">Inositol &amp; Choline 800mg - 50 tabs</name>
         <vendorCode>DSN_2023-10-4611</vendorCode>
@@ -91562,7 +91562,7 @@ Life&amp;#39;sDHA&amp;reg;&lt;br /&gt;
       <offer id="DSN_29844" available="true">
         <price>1663.33</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>508</quantity_in_stock>
+        <quantity_in_stock>505</quantity_in_stock>
         <name lang="ua">Collagen Peptides - 284g Unflavored</name>
         <name lang="ru">Collagen Peptides - 284g Unflavored</name>
         <vendorCode>DSN_2023-10-4681</vendorCode>
@@ -92253,7 +92253,7 @@ Eye Factors &amp;ndash; это синергетическая формула, к
       <offer id="DSN_29915" available="true">
         <price>2225.95</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>110</quantity_in_stock>
+        <quantity_in_stock>109</quantity_in_stock>
         <name lang="ua">FertilAid® Multivitamin For Men - 90 caps</name>
         <name lang="ru">FertilAid® Multivitamin For Men - 90 caps</name>
         <vendorCode>DSN_2023-10-4754</vendorCode>
@@ -92290,7 +92290,7 @@ Eye Factors &amp;ndash; это синергетическая формула, к
       <offer id="DSN_29916" available="true">
         <price>2225.95</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>47</quantity_in_stock>
+        <quantity_in_stock>46</quantity_in_stock>
         <name lang="ua">FertilAid® Multivitamin For Women - 90 caps</name>
         <name lang="ru">FertilAid® Multivitamin For Women - 90 caps</name>
         <vendorCode>DSN_2023-10-4755</vendorCode>
@@ -92351,7 +92351,7 @@ Eye Factors &amp;ndash; это синергетическая формула, к
       <offer id="DSN_29918" available="true">
         <price>1434.41</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1173</quantity_in_stock>
+        <quantity_in_stock>1168</quantity_in_stock>
         <name lang="ua">Myo + D-Chiro Inositol - 120 caps</name>
         <name lang="ru">Myo + D-Chiro Inositol - 120 caps</name>
         <vendorCode>DSN_2023-10-4757</vendorCode>
@@ -92386,7 +92386,7 @@ Eye Factors &amp;ndash; это синергетическая формула, к
       <offer id="DSN_29919" available="true">
         <price>1290.45</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>152</quantity_in_stock>
+        <quantity_in_stock>151</quantity_in_stock>
         <name lang="ua">MotilityBoost® For Men - 60 caps</name>
         <name lang="ru">MotilityBoost® For Men - 60 caps</name>
         <vendorCode>DSN_2023-10-4758</vendorCode>
@@ -92420,7 +92420,7 @@ MotilityBoost&amp;reg; содержит ключевые антиоксидан�
       <offer id="DSN_29920" available="true">
         <price>1147.43</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>791</quantity_in_stock>
+        <quantity_in_stock>786</quantity_in_stock>
         <name lang="ua">Myo-Inositol - 120 caps</name>
         <name lang="ru">Myo-Inositol - 120 caps</name>
         <vendorCode>DSN_2023-10-4759</vendorCode>
@@ -94179,7 +94179,7 @@ NK-клетки: Ваша первая линия обороны&lt;/p&gt; &lt;p
       <offer id="DSN_30099" available="true">
         <price>93.61</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>87</quantity_in_stock>
+        <quantity_in_stock>85</quantity_in_stock>
         <name lang="ua">Jam Sugar Free + L Carnitine - 200g Cherry Temptation</name>
         <name lang="ru">Jam Sugar Free + L Carnitine - 200g Cherry Temptation</name>
         <vendorCode>DSN_2023-10-5144</vendorCode>
@@ -94241,7 +94241,7 @@ NK-клетки: Ваша первая линия обороны&lt;/p&gt; &lt;p
       <offer id="DSN_30114" available="true">
         <price>1488.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name lang="ua">Brisee 25% - 20х55g Raspberry</name>
         <name lang="ru">Brisee 25% - 20х55g Raspberry</name>
         <vendorCode>DSN_2023-10-5160</vendorCode>
@@ -94259,7 +94259,7 @@ NK-клетки: Ваша первая линия обороны&lt;/p&gt; &lt;p
       <offer id="DSN_30115" available="true">
         <price>1488.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name lang="ua">Brisee 25% - 20х55g Currant</name>
         <name lang="ru">Brisee 25% - 20х55g Currant</name>
         <vendorCode>DSN_2023-10-5161</vendorCode>
@@ -97528,7 +97528,7 @@ B-12 Fast Melt&amp;trade; содержит активную коэнзимную
       <offer id="DSN_30292" available="true">
         <price>539.02</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>156</quantity_in_stock>
+        <quantity_in_stock>155</quantity_in_stock>
         <name lang="ua">Magnesium Glycinate with BioPerine - 60 vcaps</name>
         <name lang="ru">Magnesium Glycinate with BioPerine - 60 vcaps</name>
         <vendorCode>DSN_2023-10-5395</vendorCode>
@@ -97684,7 +97684,7 @@ Detox &amp; Cleanse от NOW&amp;reg; &amp;ndash; это продукт, раз�
       <offer id="DSN_30296" available="true">
         <price>1129.02</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>360</quantity_in_stock>
+        <quantity_in_stock>359</quantity_in_stock>
         <name lang="ua">KSM-66 Ashwagandha® - 90 vcaps</name>
         <name lang="ru">KSM-66 Ashwagandha® - 90 vcaps</name>
         <vendorCode>DSN_2023-10-5399</vendorCode>
@@ -98010,7 +98010,7 @@ KSM-66 Ashwagandha&amp;reg; &amp;ndash; это экстракт полного �
       <offer id="DSN_30375" available="true">
         <price>638.62</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>297</quantity_in_stock>
+        <quantity_in_stock>296</quantity_in_stock>
         <name lang="ua">N-Acetyl-L-Cysteine (NAC) 600mg - 60 caps</name>
         <name lang="ru">N-Acetyl-L-Cysteine (NAC) 600mg - 60 caps</name>
         <vendorCode>DSN_2023-10-5459</vendorCode>
@@ -98254,7 +98254,7 @@ Naturally Fresh &amp;mdash; Nitro Pak&amp;reg;: свежесть от приро
       <offer id="DSN_30388" available="true">
         <price>309.16</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>31</quantity_in_stock>
+        <quantity_in_stock>30</quantity_in_stock>
         <name lang="ua">Ear Drops - 30ml</name>
         <name lang="ru">Ear Drops - 30ml</name>
         <vendorCode>DSN_2023-10-5473</vendorCode>
@@ -100924,7 +100924,7 @@ Kaneka Q10&amp;reg;&lt;br /&gt;
       <offer id="DSN_30640" available="true">
         <price>407.16</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>31</quantity_in_stock>
+        <quantity_in_stock>30</quantity_in_stock>
         <name lang="ua">Collagen + Hyaluron - 60 caps</name>
         <name lang="ru">Collagen + Hyaluron - 60 caps</name>
         <vendorCode>DSN_2023-10-5627</vendorCode>
@@ -101466,7 +101466,7 @@ Kaneka Q10&amp;reg;&lt;br /&gt;
       <offer id="DSN_30673" available="true">
         <price>706.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>369</quantity_in_stock>
+        <quantity_in_stock>368</quantity_in_stock>
         <name lang="ua">Glycine 500mg - 100 vcaps</name>
         <name lang="ru">Glycine 500mg - 100 vcaps</name>
         <vendorCode>DSN_100-49-7475370-20</vendorCode>
@@ -102058,7 +102058,7 @@ Power Pro Paste Bar &amp;ndash; идеальный выбор для ищущи�
       <offer id="DSN_30788" available="true">
         <price>2146.18</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>37</quantity_in_stock>
+        <quantity_in_stock>36</quantity_in_stock>
         <name lang="ua">NMN Nicotinamide Mononucleotide 300mg - 30 vcaps</name>
         <name lang="ru">NMN Nicotinamide Mononucleotide 300mg - 30 vcaps</name>
         <vendorCode>DSN_2023-10-5713</vendorCode>
@@ -103043,7 +103043,7 @@ NMN является прекурсором NAD+, важного для подд
       <offer id="DSN_30830" available="true">
         <price>1712.42</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name lang="ua">Ubiquinol CoQ10 200mg - 30 softgels</name>
         <name lang="ru">Ubiquinol CoQ10 200mg - 30 softgels</name>
         <vendorCode>DSN_2023-10-5754</vendorCode>
@@ -104134,7 +104134,7 @@ D-маноза с CranActin&amp;reg; &amp;ndash; это идеальное со�
       <offer id="DSN_30952" available="true">
         <price>379.96</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>346</quantity_in_stock>
+        <quantity_in_stock>345</quantity_in_stock>
         <name lang="ua">Lutein &amp; Bilberry - 60 softgels</name>
         <name lang="ru">Lutein &amp; Bilberry - 60 softgels</name>
         <vendorCode>DSN_2023-10-5860</vendorCode>
@@ -104164,7 +104164,7 @@ D-маноза с CranActin&amp;reg; &amp;ndash; это идеальное со�
       <offer id="DSN_30953" available="true">
         <price>607.94</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>41</quantity_in_stock>
+        <quantity_in_stock>37</quantity_in_stock>
         <name lang="ua">Oral Probiotic Formula 3 billion Cfu - 30 tabs Natural Strawberry</name>
         <name lang="ru">Oral Probiotic Formula 3 billion Cfu - 30 tabs Natural Strawberry</name>
         <vendorCode>DSN_2023-10-5861</vendorCode>
@@ -104233,7 +104233,7 @@ D-маноза с CranActin&amp;reg; &amp;ndash; это идеальное со�
       <offer id="DSN_30955" available="true">
         <price>623.98</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>131</quantity_in_stock>
+        <quantity_in_stock>130</quantity_in_stock>
         <name lang="ua">Femflora Probiotic for Women 9.8 Billion - 60 caps</name>
         <name lang="ru">Femflora Probiotic for Women 9.8 Billion - 60 caps</name>
         <vendorCode>DSN_2023-10-5863</vendorCode>
@@ -104406,7 +104406,7 @@ Swanson FemFlora &amp;ndash; это пробиотическая добавка 
       <offer id="DSN_30960" available="true">
         <price>312.94</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>277</quantity_in_stock>
+        <quantity_in_stock>276</quantity_in_stock>
         <name lang="ua">Albion Copper 2mg - 60 сaps</name>
         <name lang="ru">Albion Copper 2mg - 60 сaps</name>
         <vendorCode>DSN_2023-10-5868</vendorCode>
@@ -105034,7 +105034,7 @@ DIM &amp;ndash; это фитохимическое вещество индол�
       <offer id="DSN_30979" available="true">
         <price>1292.81</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>17</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name lang="ua">Attentive Child™ - 120 tabs</name>
         <name lang="ru">Attentive Child™ - 120 tabs</name>
         <vendorCode>DSN_2023-10-5891</vendorCode>
@@ -105126,7 +105126,7 @@ Sharp-PS&amp;reg;&lt;br /&gt;
       <offer id="DSN_30982" available="true">
         <price>514.48</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>79</quantity_in_stock>
+        <quantity_in_stock>77</quantity_in_stock>
         <name lang="ua">Alpha Lipoic Acid 600mg - 30 caps</name>
         <name lang="ru">Alpha Lipoic Acid 600mg - 30 caps</name>
         <vendorCode>DSN_2023-10-5894</vendorCode>
@@ -105529,7 +105529,7 @@ Swanson Gotu Kola &amp;ndash; это травяное средство для у
       <offer id="DSN_31108" available="true">
         <price>1039.34</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>484</quantity_in_stock>
+        <quantity_in_stock>481</quantity_in_stock>
         <name lang="ua">Children's DHA - 119 ml</name>
         <name lang="ru">Children's DHA - 119 ml</name>
         <vendorCode>DSN_2023-10-5939</vendorCode>
@@ -105574,7 +105574,7 @@ Igen&amp;trade; Не испытано на ГМО&lt;br /&gt;
       <offer id="DSN_31109" available="true">
         <price>1162.54</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>218</quantity_in_stock>
+        <quantity_in_stock>217</quantity_in_stock>
         <name lang="ua">Nordic Omega-3 - 36 Fishies</name>
         <name lang="ru">Nordic Omega-3 - 36 Fishies</name>
         <vendorCode>DSN_2023-10-5940</vendorCode>
@@ -105850,7 +105850,7 @@ Igen&amp;trade; Не испытано на ГМО&lt;br /&gt;
       <offer id="DSN_31115" available="true">
         <price>1821.92</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>161</quantity_in_stock>
+        <quantity_in_stock>159</quantity_in_stock>
         <name lang="ua">Children's DHA - 237 ml</name>
         <name lang="ru">Children's DHA - 237 ml</name>
         <vendorCode>DSN_2023-10-5946</vendorCode>
@@ -106350,7 +106350,7 @@ Igen &amp;ndash; не тестируется на ГМО&lt;br /&gt;
       <offer id="DSN_31126" available="true">
         <price>1576.95</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>407</quantity_in_stock>
+        <quantity_in_stock>406</quantity_in_stock>
         <name lang="ua">Ultimate Omega Fish Gels - 60 softgels</name>
         <name lang="ru">Ultimate Omega Fish Gels - 60 softgels</name>
         <vendorCode>DSN_2023-10-5957</vendorCode>
@@ -106597,7 +106597,7 @@ Complete Omega&amp;trade; Junior сочетает в себе омега-3 жи�
       <offer id="DSN_31133" available="true">
         <price>614.54</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>166</quantity_in_stock>
+        <quantity_in_stock>165</quantity_in_stock>
         <name lang="ua">Vitamin D3 Gummies Kids - 60 gummies</name>
         <name lang="ru">Vitamin D3 Gummies Kids - 60 gummies</name>
         <vendorCode>DSN_2023-10-5964</vendorCode>
@@ -108885,7 +108885,7 @@ Stark IBCAA - це найкраща добавка з представлених
       <offer id="DSN_31291" available="true">
         <price>522.52</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>72</quantity_in_stock>
+        <quantity_in_stock>70</quantity_in_stock>
         <name lang="ua">Marine Collagen - 100 caps</name>
         <name lang="ru">Marine Collagen - 100 caps</name>
         <vendorCode>DSN_2023-10-6074</vendorCode>
@@ -110615,7 +110615,7 @@ L-триптофан &amp;ndash; незаменимая аминокислота
       <offer id="DSN_31382" available="true">
         <price>437.07</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>103</quantity_in_stock>
+        <quantity_in_stock>102</quantity_in_stock>
         <name lang="ua">Se-Methyl L-Selenocysteine 200 mcg - 90 vcaps</name>
         <name lang="ru">Se-Methyl L-Selenocysteine 200 mcg - 90 vcaps</name>
         <vendorCode>DSN_2023-10-6166</vendorCode>
@@ -111422,7 +111422,7 @@ Zinc Balance&amp;reg; сочетает в себе L-метионин цинка
       <offer id="DSN_31420" available="true">
         <price>632.01</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name lang="ua">Methyl B12 Methylcobalamin 1000 mcg - 100 tabs</name>
         <name lang="ru">Methyl B12 Methylcobalamin 1000 mcg - 100 tabs</name>
         <vendorCode>DSN_2023-10-6199</vendorCode>
@@ -112163,7 +112163,7 @@ Natrol&amp;reg; Мелатонин 3 мг быстрорастворимый:&lt
       <offer id="DSN_31440" available="true">
         <price>1016.69</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>254</quantity_in_stock>
+        <quantity_in_stock>253</quantity_in_stock>
         <name lang="ua">Melatonin 10mg - 100 tabs</name>
         <name lang="ru">Melatonin 10mg - 100 tabs</name>
         <vendorCode>DSN_2023-10-6220</vendorCode>
@@ -113613,7 +113613,7 @@ Solgar Male Multiple особенно рекомендуется к употре
       <offer id="DSN_31528" available="true">
         <price>405.45</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>115</quantity_in_stock>
+        <quantity_in_stock>114</quantity_in_stock>
         <name lang="ua">Vitamin B3 Niacin 500 mg - 100 caps</name>
         <name lang="ru">Vitamin B3 Niacin 500 mg - 100 caps</name>
         <vendorCode>DSN_2023-10-6355</vendorCode>
@@ -117525,7 +117525,7 @@ Calci-K&amp;reg;&lt;br /&gt;
       <offer id="DSN_31710" available="true">
         <price>1057.75</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name lang="ua">Outrage High‑Stim Pre‑Workout - 30 servings Lemon Lime</name>
         <name lang="ru">Outrage High‑Stim Pre‑Workout - 30 servings Lemon Lime</name>
         <vendorCode>DSN_2023-10-6534</vendorCode>
@@ -118469,7 +118469,7 @@ Big Friends Multi-Probiotic &amp;ndash; это источник пробиоти
       <offer id="DSN_31738" available="true">
         <price>663.16</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>758</quantity_in_stock>
+        <quantity_in_stock>757</quantity_in_stock>
         <name lang="ua">Magnesium Bisglycinate 100 mg plus L-Theanine 125 mg - 90 vcaps</name>
         <name lang="ru">Magnesium Bisglycinate 100 mg plus L-Theanine 125 mg - 90 vcaps</name>
         <vendorCode>DSN_2023-10-6562</vendorCode>
@@ -119274,7 +119274,7 @@ Big Friends Multi-Probiotic &amp;ndash; это источник пробиоти
       <offer id="DSN_31780" available="true">
         <price>1128.55</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>20</quantity_in_stock>
+        <quantity_in_stock>19</quantity_in_stock>
         <name lang="ua">Wellness Formula® - 90 tabs</name>
         <name lang="ru">Wellness Formula® - 90 tabs</name>
         <vendorCode>DSN_2023-10-6601</vendorCode>
@@ -119935,7 +119935,7 @@ Mind Shi Premium Box объединяет три мощных натуральн
       <offer id="DSN_31847" available="true">
         <price>564.51</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1085</quantity_in_stock>
+        <quantity_in_stock>1084</quantity_in_stock>
         <name lang="ua">Alpha Lipoic Acid 300 mg - 60 caps</name>
         <name lang="ru">Alpha Lipoic Acid 300 mg - 60 caps</name>
         <vendorCode>DSN_2023-10-6661</vendorCode>
@@ -120636,10 +120636,10 @@ Mind Shi Premium Box объединяет три мощных натуральн
 Улучшение усвоения железа&lt;br /&gt;
 Содействие здоровому развитию плода&lt;/p&gt; &lt;p&gt;Способ применения:&lt;/p&gt; &lt;p&gt;Принимать по 1 таблетке в день, запивая стаканом воды.&lt;/p&gt;</description>
       </offer>
-      <offer id="DSN_31893" available="true">
+      <offer id="DSN_31893" available="false">
         <price>555.92</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">L-Glutamine - 400g</name>
         <name lang="ru">L-Glutamine - 400g</name>
         <vendorCode>DSN_2023-10-6700</vendorCode>
@@ -123034,7 +123034,7 @@ L-тирозин &amp;ndash; это аминокислота, которая я�
       <offer id="DSN_31975" available="true">
         <price>1270.15</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>16</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name lang="ua">Oregano Oil 70% Carvacrol - 60 softgels</name>
         <name lang="ru">Oregano Oil 70% Carvacrol - 60 softgels</name>
         <vendorCode>DSN_2023-10-6782</vendorCode>
@@ -123432,7 +123432,7 @@ L-тирозин &amp;ndash; это аминокислота, которая я�
       <offer id="DSN_32032" available="true">
         <price>219.16</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>60</quantity_in_stock>
+        <quantity_in_stock>57</quantity_in_stock>
         <name lang="ua">Vitamin D3 &amp; K2 - 120 tabs</name>
         <name lang="ru">Vitamin D3 &amp; K2 - 120 tabs</name>
         <vendorCode>DSN_2023-10-6916</vendorCode>
@@ -125632,7 +125632,7 @@ ActivSorb&amp;trade; Essential с липосомальной технологи�
       <offer id="DSN_32158" available="true">
         <price>767.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>613</quantity_in_stock>
+        <quantity_in_stock>612</quantity_in_stock>
         <name lang="ua">Magnesium Orotate 200mg - 120 vcaps</name>
         <name lang="ru">Magnesium Orotate 200mg - 120 vcaps</name>
         <vendorCode>DSN_2023-10-7004</vendorCode>
@@ -125747,7 +125747,7 @@ ActivSorb&amp;trade; Essential с липосомальной технологи�
       <offer id="DSN_32162" available="true">
         <price>559.79</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>284</quantity_in_stock>
+        <quantity_in_stock>283</quantity_in_stock>
         <name lang="ua">Chelated Copper - 100 tabs</name>
         <name lang="ru">Chelated Copper - 100 tabs</name>
         <vendorCode>DSN_2023-10-7008</vendorCode>
@@ -126633,7 +126633,7 @@ Use only as directed. Take 2 vegetarian capsules up to twice daily, preferably o
       <offer id="DSN_32250" available="true">
         <price>396.48</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>13</quantity_in_stock>
         <name lang="ua">Magnesium Amino Acid Chelate 220mg - 100 tabs</name>
         <name lang="ru">Magnesium Amino Acid Chelate 220mg - 100 tabs</name>
         <vendorCode>DSN_2023-10-7032</vendorCode>
@@ -126981,7 +126981,7 @@ Use only as directed. Take 2 vegetarian capsules up to twice daily, preferably o
       <offer id="DSN_32262" available="true">
         <price>671.66</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>327</quantity_in_stock>
+        <quantity_in_stock>326</quantity_in_stock>
         <name lang="ua">Calcium Magnesium Zinc +D3 - 250 tabs</name>
         <name lang="ru">Calcium Magnesium Zinc +D3 - 250 tabs</name>
         <vendorCode>DSN_2023-10-7044</vendorCode>
@@ -127018,7 +127018,7 @@ Use only as directed. Take 2 vegetarian capsules up to twice daily, preferably o
       <offer id="DSN_32263" available="true">
         <price>938.81</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name lang="ua">D3 125 mcg (5000 IU) - 360 tabs</name>
         <name lang="ru">D3 125 mcg (5000 IU) - 360 tabs</name>
         <vendorCode>DSN_2023-10-7045</vendorCode>
@@ -127819,7 +127819,7 @@ L-аргинин &amp;ndash; это аминокислота, которая д�
       <offer id="DSN_32286" available="true">
         <price>496.07</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name lang="ua">Zinc Citrate 50 mg - 360 tabs</name>
         <name lang="ru">Zinc Citrate 50 mg - 360 tabs</name>
         <vendorCode>DSN_2023-10-7069</vendorCode>
@@ -127949,10 +127949,10 @@ L-аргинин &amp;ndash; это аминокислота, которая д�
 В качестве диетической добавки принимать взрослым по две (2) таблетки во время любого приема пищи, дважды в день или по указанию врача. Не следует превышать рекомендуемую дозу. Отдельные результаты могут отличаться от указанных.&lt;/p&gt; &lt;p&gt;Другие ингредиенты&lt;br /&gt;
 Целлюлоза, стеариновая кислота. Содержит &lt; 2 % таких веществ: бутилгидроксианизол, бутилгидрокситолуол, кроскармелоза натрия, желатин, силикат кальция, магния стеарат, ПЭГ, поливиниловый спирт, крахмал, сахароза, тальк, диоксид титана, растительное масло, вода.&lt;/p&gt; &lt;p&gt;Без добавления дрожжей или искусственных ароматизаторов.&lt;/p&gt;</description>
       </offer>
-      <offer id="DSN_32290" available="true">
+      <offer id="DSN_32290" available="false">
         <price>146.32</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Zinc Chelated 50 mg - 60 tabs</name>
         <name lang="ru">Zinc Chelated 50 mg - 60 tabs</name>
         <vendorCode>DSN_2023-10-7073</vendorCode>
@@ -129971,7 +129971,7 @@ L-лизин &amp;ndash; это незаменимая аминокислота,
       <offer id="DSN_32347" available="true">
         <price>455.95</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>85</quantity_in_stock>
+        <quantity_in_stock>84</quantity_in_stock>
         <name lang="ua">Fish Oil 1200 mg - 90 softgels</name>
         <name lang="ru">Fish Oil 1200 mg - 90 softgels</name>
         <vendorCode>DSN_2023-10-7131</vendorCode>
@@ -130581,7 +130581,7 @@ Healthy Renewal Formula&amp;trade;&lt;br /&gt;
       <offer id="DSN_32365" available="true">
         <price>254.88</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>477</quantity_in_stock>
+        <quantity_in_stock>473</quantity_in_stock>
         <name lang="ua">Cal Mag Zinc + D - 90 tabs</name>
         <name lang="ru">Cal Mag Zinc + D - 90 tabs</name>
         <vendorCode>DSN_100-77-6130050-20</vendorCode>
@@ -130715,7 +130715,7 @@ Healthy Renewal Formula&amp;trade;&lt;br /&gt;
       <offer id="DSN_32369" available="true">
         <price>424.80</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>26</quantity_in_stock>
+        <quantity_in_stock>25</quantity_in_stock>
         <name lang="ua">Ginkgo Biloba Extract - 60 vcaps</name>
         <name lang="ru">Ginkgo Biloba Extract - 60 vcaps</name>
         <vendorCode>DSN_100-70-0455094-20</vendorCode>
@@ -130968,7 +130968,7 @@ Healthy Renewal Formula&amp;trade;&lt;br /&gt;
       <offer id="DSN_32377" available="true">
         <price>55.26</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name lang="ua">Lipobar Exclusive - 50g Chocolate</name>
         <name lang="ru">Lipobar Exclusive - 50g Chocolate</name>
         <vendorCode>DSN_2023-10-6877</vendorCode>
@@ -131048,7 +131048,7 @@ Peptan&amp;reg; производится компанией Rousselot на се�
       <offer id="DSN_32379" available="true">
         <price>52.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>31</quantity_in_stock>
+        <quantity_in_stock>28</quantity_in_stock>
         <name lang="ua">Lipobar Exclusive - 50g Cherry</name>
         <name lang="ru">Lipobar Exclusive - 50g Cherry</name>
         <vendorCode>DSN_2023-10-6879</vendorCode>
@@ -131088,7 +131088,7 @@ Peptan&amp;reg; производится компанией Rousselot на се�
       <offer id="DSN_32380" available="true">
         <price>52.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>43</quantity_in_stock>
+        <quantity_in_stock>42</quantity_in_stock>
         <name lang="ua">Lipobar Exclusive - 50g Hazelnut</name>
         <name lang="ru">Lipobar Exclusive - 50g Hazelnut</name>
         <vendorCode>DSN_2023-10-6880</vendorCode>
@@ -131128,7 +131128,7 @@ Peptan&amp;reg; производится компанией Rousselot на се�
       <offer id="DSN_32381" available="true">
         <price>52.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>30</quantity_in_stock>
+        <quantity_in_stock>29</quantity_in_stock>
         <name lang="ua">Lipobar Exclusive - 50g Mango</name>
         <name lang="ru">Lipobar Exclusive - 50g Mango</name>
         <vendorCode>DSN_2023-10-6881</vendorCode>
@@ -131168,7 +131168,7 @@ Peptan&amp;reg; производится компанией Rousselot на се�
       <offer id="DSN_32382" available="true">
         <price>52.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name lang="ua">Lipobar Exclusive - 50g Capuccino</name>
         <name lang="ru">Lipobar Exclusive - 50g Capuccino</name>
         <vendorCode>DSN_2023-10-6882</vendorCode>
@@ -131208,7 +131208,7 @@ Peptan&amp;reg; производится компанией Rousselot на се�
       <offer id="DSN_32383" available="true">
         <price>52.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>15</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <name lang="ua">Lipobar Exclusive - 50g Pomogranate</name>
         <name lang="ru">Lipobar Exclusive - 50g Pomogranate</name>
         <vendorCode>DSN_2023-10-6884</vendorCode>
@@ -131248,7 +131248,7 @@ Peptan&amp;reg; производится компанией Rousselot на се�
       <offer id="DSN_32384" available="true">
         <price>52.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name lang="ua">Lipobar Exclusive - 50g Apricot</name>
         <name lang="ru">Lipobar Exclusive - 50g Apricot</name>
         <vendorCode>DSN_2023-10-6885</vendorCode>
@@ -131288,7 +131288,7 @@ Peptan&amp;reg; производится компанией Rousselot на се�
       <offer id="DSN_32385" available="true">
         <price>52.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>13</quantity_in_stock>
+        <quantity_in_stock>12</quantity_in_stock>
         <name lang="ua">Lipobar Exclusive - 50g Orange</name>
         <name lang="ru">Lipobar Exclusive - 50g Orange</name>
         <vendorCode>DSN_2023-10-6886</vendorCode>
@@ -131496,7 +131496,7 @@ Peptan&amp;reg; производится компанией Rousselot на се�
       <offer id="DSN_32390" available="true">
         <price>52.11</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>16</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name lang="ua">Lipobar Exclusive - 50g Raspberry</name>
         <name lang="ru">Lipobar Exclusive - 50g Raspberry</name>
         <vendorCode>DSN_2023-10-6883</vendorCode>
@@ -132651,7 +132651,7 @@ Stark Magnesium L-Threonate Delicious &amp;ndash; это идеальный по
       <offer id="DSN_32522" available="true">
         <price>773.14</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>75</quantity_in_stock>
+        <quantity_in_stock>74</quantity_in_stock>
         <name lang="ua">VitaWorks Kids Immune Support - 120 chewables</name>
         <name lang="ru">VitaWorks Kids Immune Support - 120 chewables</name>
         <vendorCode>DSN_2023-10-7244</vendorCode>
@@ -132882,7 +132882,7 @@ Stark Magnesium L-Threonate Delicious &amp;ndash; это идеальный по
       <offer id="DSN_32528" available="true">
         <price>210.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name lang="ua">Training Band - 10-16kg Red</name>
         <name lang="ru">Training Band - 10-16kg Red</name>
         <vendorCode>DSN_2023-10-7250</vendorCode>
@@ -133319,7 +133319,7 @@ Nutr Free&lt;br /&gt;
       <offer id="DSN_32542" available="true">
         <price>657.02</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>85</quantity_in_stock>
+        <quantity_in_stock>78</quantity_in_stock>
         <name lang="ua">B Complex + Vitamin C Kids - 60 gummies</name>
         <name lang="ru">B Complex + Vitamin C Kids - 60 gummies</name>
         <vendorCode>DSN_2023-10-7264</vendorCode>
@@ -133627,7 +133627,7 @@ Nutr Free&lt;br /&gt;
       <offer id="DSN_32550" available="true">
         <price>862.82</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>18</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name lang="ua">Calcium Magnesium &amp; Zinc + Vitamin D Adult - 90 gummies</name>
         <name lang="ru">Calcium Magnesium &amp; Zinc + Vitamin D Adult - 90 gummies</name>
         <vendorCode>DSN_2023-10-7272</vendorCode>
@@ -134447,7 +134447,7 @@ Lifeable&amp;reg;&lt;/p&gt; &lt;p&gt;Не стоит жертвовать отл
       <offer id="DSN_32575" available="true">
         <price>696.67</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>34</quantity_in_stock>
+        <quantity_in_stock>35</quantity_in_stock>
         <name lang="ua">Biotin 5,000mcg Kids Sugar Free - 60 gummies</name>
         <name lang="ru">Biotin 5,000mcg Kids Sugar Free - 60 gummies</name>
         <vendorCode>DSN_2023-10-7294</vendorCode>
@@ -135301,7 +135301,7 @@ Lifeable &amp;ndash; здоровье, вкусное!&lt;/p&gt; &lt;p&gt;Рек
       <offer id="DSN_32693" available="true">
         <price>684.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name lang="ua">Vegan Bar - 12x50g Hazelnut &amp; Caramel</name>
         <name lang="ru">Vegan Bar - 12x50g Hazelnut &amp; Caramel</name>
         <vendorCode>DSN_2023-10-7338</vendorCode>
@@ -135906,7 +135906,7 @@ Lifeable &amp;ndash; здоровье, вкусное!&lt;/p&gt; &lt;p&gt;Рек
       <offer id="DSN_32734" available="true">
         <price>864.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>8</quantity_in_stock>
+        <quantity_in_stock>7</quantity_in_stock>
         <name lang="ua">FitWin - 12x60g Milky Cream</name>
         <name lang="ru">FitWin - 12x60g Milky Cream</name>
         <vendorCode>DSN_2023-10-7373</vendorCode>
@@ -136224,7 +136224,7 @@ Lifeable &amp;ndash; здоровье, вкусное!&lt;/p&gt; &lt;p&gt;Рек
       <offer id="DSN_32778" available="true">
         <price>870.17</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>16</quantity_in_stock>
+        <quantity_in_stock>15</quantity_in_stock>
         <name lang="ua">Impact Pea Protein - 1000g Strawberry</name>
         <name lang="ru">Impact Pea Protein - 1000g Strawberry</name>
         <vendorCode>DSN_2023-10-7388</vendorCode>
@@ -136269,7 +136269,7 @@ Lifeable &amp;ndash; здоровье, вкусное!&lt;/p&gt; &lt;p&gt;Рек
       <offer id="DSN_32780" available="true">
         <price>1298.21</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>51</quantity_in_stock>
+        <quantity_in_stock>50</quantity_in_stock>
         <name lang="ua">Origin Pre-Workout - 600g Blue Raspberry</name>
         <name lang="ru">Origin Pre-Workout - 600g Blue Raspberry</name>
         <vendorCode>DSN_2023-10-7390</vendorCode>
@@ -136684,7 +136684,7 @@ Pre-Pro-Postbiotic&lt;br /&gt;
       <offer id="DSN_32813" available="true">
         <price>1099.29</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>251</quantity_in_stock>
+        <quantity_in_stock>250</quantity_in_stock>
         <name lang="ua">Omega-3 Pet - 90 softgels</name>
         <name lang="ru">Omega-3 Pet - 90 softgels</name>
         <vendorCode>DSN_2023-10-7419</vendorCode>
@@ -139044,7 +139044,7 @@ Clear Quality&amp;trade;&lt;br /&gt;
       <offer id="DSN_33356" available="true">
         <price>307.89</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>64</quantity_in_stock>
+        <quantity_in_stock>63</quantity_in_stock>
         <name lang="ua">B-Complex - 200 tabs</name>
         <name lang="ru">B-Complex - 200 tabs</name>
         <vendorCode>DSN_2023-10-7611</vendorCode>
@@ -139525,7 +139525,7 @@ Beyond Vitamins&amp;reg;&lt;br /&gt;
       <offer id="DSN_33367" available="true">
         <price>1462.73</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>31</quantity_in_stock>
+        <quantity_in_stock>30</quantity_in_stock>
         <name lang="ua">Clearface Vitamins+ - 90 vcaps</name>
         <name lang="ru">Clearface Vitamins+ - 90 vcaps</name>
         <vendorCode>DSN_2023-10-7622</vendorCode>
@@ -140588,7 +140588,7 @@ Bladderwrack&lt;br /&gt;
       <offer id="DSN_33489" available="true">
         <price>1462.73</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name lang="ua">Fermented Digestive Enzymes - 90 vcaps</name>
         <name lang="ru">Fermented Digestive Enzymes - 90 vcaps</name>
         <vendorCode>DSN_2023-10-7719</vendorCode>
@@ -142470,10 +142470,10 @@ Trust the Leaf &amp;reg;&lt;br /&gt;
 Взрослые принимают одну жевательную конфету перед сном (при необходимости можно взять вторую порцию) или по рекомендации вашего медицинского работника.&lt;/p&gt; &lt;p&gt;Другие ингредиенты&lt;br /&gt;
 Растворимая клетчатка, тапиоки, пектин, очищенная вода, лимонная кислота, натуральные ароматизаторы, фруктовый и овощной сок (краситель), дигидрат цитрата натрия, подсолнечное масло и воск карнаубы.&lt;/p&gt;</description>
       </offer>
-      <offer id="DSN_33642" available="true">
+      <offer id="DSN_33642" available="false">
         <price>859.51</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <name lang="ua">Omega-3 Cat - 60 ml</name>
         <name lang="ru">Omega-3 Cat - 60 ml</name>
         <vendorCode>DSN_2023-10-7851</vendorCode>
@@ -143863,7 +143863,7 @@ Sharp PS&amp;reg; Green&lt;br /&gt;
       <offer id="DSN_33725" available="true">
         <price>905.30</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>115</quantity_in_stock>
+        <quantity_in_stock>114</quantity_in_stock>
         <name lang="ua">Probiotic Pearls Women's - 30 softgels</name>
         <name lang="ru">Probiotic Pearls Women's - 30 softgels</name>
         <vendorCode>DSN_2023-10-7941</vendorCode>
@@ -145959,7 +145959,7 @@ Codeage Wild Caught Marine Collagen Peptides Powder &amp;ndash; это неар�
       <offer id="DSN_33949" available="true">
         <price>522.52</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>182</quantity_in_stock>
+        <quantity_in_stock>179</quantity_in_stock>
         <name lang="ua">Vitamin D3 4000IU + K2 60 vcaps</name>
         <name lang="ru">Vitamin D3 4000IU + K2 60 vcaps</name>
         <vendorCode>DSN_2024-11-0169</vendorCode>
@@ -146114,7 +146114,7 @@ BCAA MAX SUPPORT в версии INSTANT обеспечивает еще луч�
       <offer id="DSN_33959" available="true">
         <price>1042.10</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name lang="ua">Lipobar Exclusive - 20x50g Mix Box</name>
         <name lang="ru">Lipobar Exclusive - 20x50g Mix Box</name>
         <vendorCode>DSN_2024-11-0181</vendorCode>
@@ -147497,7 +147497,7 @@ IR калий с 6-часовым XR магнием&lt;br /&gt;
       <offer id="DSN_34202" available="true">
         <price>6322.46</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>49</quantity_in_stock>
+        <quantity_in_stock>47</quantity_in_stock>
         <name lang="ua">Gold Standard 100% Whey - 2016g Extreme Milk Chocolate</name>
         <name lang="ru">Gold Standard 100% Whey - 2016g Extreme Milk Chocolate</name>
         <vendorCode>DSN_2024-11-0448</vendorCode>
@@ -147599,7 +147599,7 @@ IR калий с 6-часовым XR магнием&lt;br /&gt;
       <offer id="DSN_34204" available="true">
         <price>6322.46</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>15</quantity_in_stock>
+        <quantity_in_stock>14</quantity_in_stock>
         <name lang="ua">Gold Standard 100% Whey - 2016g Cookies Cream</name>
         <name lang="ru">Gold Standard 100% Whey - 2016g Cookies Cream</name>
         <vendorCode>DSN_2024-11-0450</vendorCode>
@@ -147650,7 +147650,7 @@ IR калий с 6-часовым XR магнием&lt;br /&gt;
       <offer id="DSN_34205" available="true">
         <price>6322.46</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>20</quantity_in_stock>
+        <quantity_in_stock>19</quantity_in_stock>
         <name lang="ua">Gold Standard 100% Whey - 2040g Delicious Strawberry</name>
         <name lang="ru">Gold Standard 100% Whey - 2040g Delicious Strawberry</name>
         <vendorCode>DSN_2024-11-0451</vendorCode>
@@ -147803,7 +147803,7 @@ IR калий с 6-часовым XR магнием&lt;br /&gt;
       <offer id="DSN_34208" available="true">
         <price>2970.70</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>29</quantity_in_stock>
+        <quantity_in_stock>28</quantity_in_stock>
         <name lang="ua">Gold Standard 100% Whey - 780g Delicious Strawberry</name>
         <name lang="ru">Gold Standard 100% Whey - 780g Delicious Strawberry</name>
         <vendorCode>DSN_2024-11-0454</vendorCode>
@@ -148212,7 +148212,7 @@ IR калий с 6-часовым XR магнием&lt;br /&gt;
       <offer id="DSN_2024-11-0495" available="true">
         <price>92.17</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1211</quantity_in_stock>
+        <quantity_in_stock>1210</quantity_in_stock>
         <name lang="ua">XyliWhite™ Refreshmint Toothpaste Gel - 1 oz tubes 28g (Поштучно)</name>
         <name lang="ru">XyliWhite™ Refreshmint Toothpaste Gel - 1 oz tubes 28g (Поштучно)</name>
         <vendorCode>DSN_2024-11-0495</vendorCode>
@@ -148866,7 +148866,7 @@ BCAA-компонент: сочетание лейцина, изолейцина
       <offer id="DSN_2024-11-0525" available="true">
         <price>502.47</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>9</quantity_in_stock>
+        <quantity_in_stock>8</quantity_in_stock>
         <name lang="ua">Neuro Balance - 120 caps</name>
         <name lang="ru">Neuro Balance - 120 caps</name>
         <vendorCode>DSN_2024-11-0525</vendorCode>
@@ -151073,7 +151073,7 @@ MCT-масло получено из кокосового и пальмоядр�
       <offer id="DSN_2024-11-0627" available="true">
         <price>646.64</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1879</quantity_in_stock>
+        <quantity_in_stock>1877</quantity_in_stock>
         <name lang="ua">Magnesium Glycinate - 90 tabs</name>
         <name lang="ru">Magnesium Glycinate - 90 tabs</name>
         <vendorCode>DSN_2024-11-0627</vendorCode>
@@ -154667,7 +154667,7 @@ BioPerine&amp;reg; для поддержки усвоения;&lt;br /&gt;
       <offer id="DSN_2024-11-0866" available="true">
         <price>171.05</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>12</quantity_in_stock>
+        <quantity_in_stock>11</quantity_in_stock>
         <name lang="ua">Shaker - 600ml Orange</name>
         <name lang="ru">Shaker - 600ml Orange</name>
         <vendorCode>DSN_2024-11-0866</vendorCode>
@@ -154854,7 +154854,7 @@ BioPerine&amp;reg; для поддержки усвоения;&lt;br /&gt;
       <offer id="DSN_2024-11-0889" available="true">
         <price>384.87</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name lang="ua">Sport Vit Men - 60 caps</name>
         <name lang="ru">Sport Vit Men - 60 caps</name>
         <vendorCode>DSN_2024-11-0889</vendorCode>
@@ -155941,7 +155941,7 @@ Pure Gold Magnesium Bisglycinate &amp;ndash; комплекс магния и в
       <offer id="DSN_2024-11-0976" available="true">
         <price>384.87</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>14</quantity_in_stock>
+        <quantity_in_stock>13</quantity_in_stock>
         <name lang="ua">Sport Vit Women - 60 caps</name>
         <name lang="ru">Sport Vit Women - 60 caps</name>
         <vendorCode>DSN_2024-11-0976</vendorCode>
@@ -158411,7 +158411,7 @@ Quatrefolic&amp;reg;&lt;br /&gt;
       <offer id="DSN_2024-11-1053" available="true">
         <price>219.74</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name lang="ua">Manganese 10mg - 100 tabs (Пошкоджена банка)</name>
         <name lang="ru">Manganese 10mg - 100 tabs (Повреждена банка)</name>
         <vendorCode>DSN_2024-11-1053</vendorCode>
@@ -158767,7 +158767,7 @@ Power Pro Paste Bar &amp;ndash; идеальный выбор для ищущи�
       <offer id="DSN_2024-11-1076" available="true">
         <price>565.79</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>47</quantity_in_stock>
+        <quantity_in_stock>46</quantity_in_stock>
         <name lang="ua">Biotin 10,000 mcg - 60 gummies (До 03.27)</name>
         <name lang="ru">Biotin 10,000 mcg - 60 gummies (До 03.27)</name>
         <vendorCode>DSN_2024-11-1076</vendorCode>
@@ -161122,7 +161122,7 @@ Power Pro Paste Bar &amp;ndash; идеальный выбор для ищущи�
       <offer id="DSN_2024-11-1128" available="true">
         <price>590.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>103</quantity_in_stock>
+        <quantity_in_stock>102</quantity_in_stock>
         <name lang="ua">Myo-D Chiro Inositol - 60 сaps</name>
         <name lang="ru">Myo-D Chiro Inositol - 60 сaps</name>
         <vendorCode>DSN_2024-11-1128</vendorCode>
@@ -164762,7 +164762,7 @@ BioPerine&amp;reg; - 10 мг&lt;/p&gt;
       <offer id="DSN_2024-11-1311" available="true">
         <price>3785.44</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>35</quantity_in_stock>
+        <quantity_in_stock>32</quantity_in_stock>
         <name lang="ua">Ultimate Omega - 180 softgels</name>
         <name lang="ru">Ultimate Omega - 180 softgels</name>
         <vendorCode>DSN_2024-11-1311</vendorCode>
@@ -166296,7 +166296,7 @@ Power Pro Isotonic эффективно восстанавливает водн�
       <offer id="DSN_2024-11-1376" available="true">
         <price>406.25</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>182</quantity_in_stock>
+        <quantity_in_stock>181</quantity_in_stock>
         <name lang="ua">Magnesium Bis-Glycinate &amp; B6 - 120 tabs</name>
         <name lang="ru">Magnesium Bis-Glycinate &amp; B6 - 120 tabs</name>
         <vendorCode>DSN_2024-11-1376</vendorCode>
@@ -166527,7 +166527,7 @@ D-манноза &amp;ndash; это простой природный сахар
       <offer id="DSN_2024-11-1385" available="true">
         <price>667.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <name lang="ua">Black Cumin Seed Oil - 1,000mg - 60 sgels (Пошкоджена банка)</name>
         <name lang="ru">Black Cumin Seed Oil - 1,000mg - 60 sgels (Повреждена банка)</name>
         <vendorCode>DSN_2024-11-1385</vendorCode>
@@ -167529,7 +167529,7 @@ Codeage Skin Probiotic+ содержит пробиотики, пребиоти�
       <offer id="DSN_2024-11-1414" available="true">
         <price>472.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>316</quantity_in_stock>
+        <quantity_in_stock>314</quantity_in_stock>
         <name lang="ua">Zinc Balance - 100 caps (До 05.27)</name>
         <name lang="ru">Zinc Balance - 100 caps (До 05.27)</name>
         <vendorCode>DSN_2024-11-1414</vendorCode>
@@ -167733,7 +167733,7 @@ Jarrow Formulas&amp;reg; MK-7 естественным образом произ
       <offer id="DSN_2024-11-1425" available="true">
         <price>746.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>2888</quantity_in_stock>
+        <quantity_in_stock>2889</quantity_in_stock>
         <name lang="ua">Lion's Mane Mushroom 1000 mg - 60 vegcaps (До 05.27)</name>
         <name lang="ru">Lion's Mane Mushroom 1000 mg - 60 vegcaps (До 05.27)</name>
         <vendorCode>DSN_2024-11-1425</vendorCode>
@@ -168032,7 +168032,7 @@ NaturesPlus&amp;reg; Propolplus является одним из богатей�
       <offer id="DSN_2024-11-1438" available="true">
         <price>423.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>1649</quantity_in_stock>
+        <quantity_in_stock>1646</quantity_in_stock>
         <name lang="ua">Chaga Mushroom 1000 mg - 60 vegcaps (До 05.27)</name>
         <name lang="ru">Chaga Mushroom 1000 mg - 60 vegcaps (До 05.27)</name>
         <vendorCode>DSN_2024-11-1438</vendorCode>
@@ -170162,7 +170162,7 @@ D-хиро-инозитол - 50 мг/сут.&lt;br /&gt;
       <offer id="DSN_2024-11-1496" available="true">
         <price>171.05</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>10</quantity_in_stock>
+        <quantity_in_stock>9</quantity_in_stock>
         <name lang="ua">Shaker - 600ml Light Green</name>
         <name lang="ru">Shaker - 600ml Light Green</name>
         <vendorCode>DSN_2024-11-1496</vendorCode>
@@ -170179,7 +170179,7 @@ D-хиро-инозитол - 50 мг/сут.&lt;br /&gt;
       <offer id="DSN_2024-11-1497" available="true">
         <price>513.16</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <name lang="ua">Gain Mass - 1000g Strawberry</name>
         <name lang="ru">Gain Mass - 1000g Strawberry</name>
         <vendorCode>DSN_2024-11-1497</vendorCode>
@@ -170882,7 +170882,7 @@ Healthy Renewal Formula&amp;trade;&lt;br /&gt;
       <offer id="DSN_2024-11-1512" available="true">
         <price>541.00</price>
         <currencyId>UAH</currencyId>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>6</quantity_in_stock>
         <name lang="ua">Coral Calcium Plus Mag, D - 100 vcaps (До 03.27)</name>
         <name lang="ru">Coral Calcium Plus Mag, D - 100 vcaps (До 03.27)</name>
         <vendorCode>DSN_2024-11-1512</vendorCode>
